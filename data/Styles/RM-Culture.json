@@ -1,0 +1,47 @@
+[
+    {
+        "name": "RM - Culture - Aztec Stone Carving",
+        "prompt": "ancient Aztec stone carving of {prompt} . basalt texture, intricate geometric glyphs, deities and serpents, pre-columbian aesthetic, relief sculpture, weathered stone",
+        "negative_prompt": "smooth, plastic, colorful, modern, digital, soft, painting"
+    },
+    {
+        "name": "RM - Culture - Aboriginal Dot Art",
+        "prompt": "Australian Aboriginal dot painting of {prompt} . intricate patterns made of small dots, earth tones (ochre, red, brown), dreamtime storytelling aesthetic, aerial perspective, organic shapes",
+        "negative_prompt": "realistic, 3d, shading, gradient, straight lines, neon colors"
+    },
+    {
+        "name": "RM - Culture - Celtic Knotwork",
+        "prompt": "illuminated celtic manuscript art of {prompt} . endless knotwork borders, gold leaf, insular art style, Book of Kells aesthetic, intricate interlacing lines, parchment texture",
+        "negative_prompt": "modern, minimal, simple, 3d, photo, realistic, graffiti"
+    },
+    {
+        "name": "RM - Culture - Byzantine Mosaic",
+        "prompt": "golden byzantine mosaic of {prompt} . gold glass tesserae, religious icon aesthetic, stiff posture, halo effects, shimmering texture, ancient constantinople style",
+        "negative_prompt": "smooth, painting, photo, realistic, soft, perspective, depth"
+    },
+    {
+        "name": "RM - Culture - African Wax Print",
+        "prompt": "vibrant African wax print pattern art of {prompt} . bold colors, repeating geometric and organic motifs, Ankara fabric texture, high contrast, cultural storytelling",
+        "negative_prompt": "pastel, muted, grey, minimalist, photo, 3d, simple"
+    },
+    {   
+        "name": "RM - Culture - Ancient Egyptian",
+        "prompt": "ancient Egyptian wall art of {prompt} . profile perspective, hieroglyphics background, gold and lapis lazuli colors, papyrus texture, pharaoh aesthetic, flat composition",
+        "negative_prompt": "3d, realistic, perspective, shading, modern, greek, roman"
+    },
+    {
+        "name": "RM - Culture - Indian Madhubani",
+        "prompt": "traditional Indian Madhubani painting of {prompt} . intricate geometric patterns, double lines, vibrant natural dyes, fingers and twigs technique, folk art aesthetic, flat perspective",
+        "negative_prompt": "oil painting, 3d, realistic, western, modern, digital, smooth"
+    },
+    {
+        "name": "RM - Culture - Slavic Khokhloma",
+        "prompt": "Russian Khokhloma painting of {prompt} . black background with gold, red, and green floral patterns, strawberry and leaf motifs, lacquer texture, folk ornament aesthetic",
+        "negative_prompt": "white background, modern, minimal, geometric, american, japanese"
+    },
+    {
+        "name": "RM - Culture - Norse Viking Art",
+        "prompt": "Norse Viking wood carving of {prompt} . gripping beast style, intricate interlaced animals, runic inscriptions, weathered wood texture, Valhalla aesthetic, ancient ruggedness",
+        "negative_prompt": "smooth, plastic, digital, modern, bright colors, soft"
+    }
+]

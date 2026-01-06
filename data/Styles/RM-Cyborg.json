@@ -1,0 +1,142 @@
+[
+    {
+        "name": "RM - Tech - Tactical Exosuit",
+        "prompt": "advanced tactical exosuit design of {prompt} . heavy composite armor plating, modular tactical geometry, matte ceramic finish, ballistic weave textures, functional military aesthetic, rugged mechanical density, reinforced angular design, combat-ready atmosphere",
+        "negative_prompt": "skin, fantasy, magic, fragile, sleek, simple, organic, colorful"
+    },
+    {
+        "name": "RM - Tech - Sleek Exosuit",
+        "prompt": "sleek futuristic tactical exosuit of {prompt} . organic flowing form, lightweight nano-fiber materials, aerodynamic design, seamless biological integration, agile stealth aesthetic, smooth curves, high-tech elegance, advanced synthetic polymers",
+        "negative_prompt": "bulky, heavy, industrial, angular, boxy, rusty, mechanical, tank-like, slow, gears, hydraulics"
+    },
+    {
+        "name": "RM - Tech - Cybernetic Cyborg",
+        "prompt": "cybernetic organism design of {prompt} . seamless fusion of organic and synthetic, exposed sub-dermal circuitry, integrated metallic augmentation, transhumanist aesthetic, gritty hyper-realism, scarred synthetic tissue, complex cybernetic detailing",
+        "negative_prompt": "clean, perfect skin, cute, anime, low detail, smooth, cartoon"
+    },
+    {
+        "name": "RM - Tech - Cyborg Internals (GITS)",
+        "prompt": "cyborg maintenance scene of {prompt} . exposed internal chassis, complex synthetic musculature, intricate robotic segmentation, high-tech maintenance aesthetic, dense cabling and data ports, clinical technological atmosphere, sophisticated mechanical anatomy",
+        "negative_prompt": "organic gore, blood, messy, low detail, blurry, sketch, horror, zombie"
+    },
+    {
+        "name": "RM - Tech - Android (Service Model)",
+        "prompt": "synthetic android portrait of {prompt} . pristine synthetic surface, flawless artificial texture, subtle panel segmentation, uncanny valley perfection, soft internal luminescence, high-gloss plastic sheen, sterile futuristic elegance",
+        "negative_prompt": "dirty, gritty, rusty, messy, human, imperfections, pores"
+    },
+    {
+        "name": "RM - Tech - Industrial Mecha",
+        "prompt": "heavy industrial mech of {prompt} . massive hydraulic pistons, worn hazard-striped textures, greasy mechanical grit, bulky utilitarian design, weathering and oil stains, functional heavy machinery aesthetic, brute force engineering",
+        "negative_prompt": "sleek, fast, aerodynamic, clean, magic, lightweight, fragile"
+    },
+    {
+        "name": "RM - Tech - Nanotech Swarm",
+        "prompt": "shifting nanotech construct of {prompt} . shifting liquid metal texture, fluid geometric fracturing, flowing mercurial surface, swarm intelligence conceptualization, highly reflective chrome, amorphous technological construct, seamless metamorphosis",
+        "negative_prompt": "solid, static, rusty, dirt, cloth, matte, organic flesh"
+    },
+    {
+        "name": "RM - Tech - Bio-Mechanical",
+        "prompt": "nightmarish bio-mechanical art of {prompt} . ribbed piping textures, synthesis of metal and bone, industrial horror atmosphere, monochromatic complexity, intricate organic-industrial detailing, surreal structural anatomy, grotesque fusion",
+        "negative_prompt": "cute, colorful, simple, bright, happy, clean, flat"
+    },
+    {
+        "name": "RM - Tech - Retro-Bot (Tin Toy)",
+        "prompt": "vintage tin toy robot of {prompt} . 1950s sci-fi nostalgia, boxy primitive geometry, painted metal textures, clockwork mechanisms, atomic age retro-futurism, charming analog simplicity, visible rivets",
+        "negative_prompt": "modern, sleek, digital, high tech, realistic, 4k, carbon fiber"
+    },
+    {
+        "name": "RM - Tech - Power Armor",
+        "prompt": "bulky powered combat armor of {prompt} . immense tank-like durability, weathered heavy metal textures, reinforced industrial protection, imposing militaristic weight, battle-hardened aesthetic, thick encasement, hydraulic support systems",
+        "negative_prompt": "thin, spandex, stealth, lightweight, anime, mobile"
+    },
+    {
+        "name": "RM - Tech - Celestial Archon (Divine)",
+        "prompt": "divine celestial cyborg design of {prompt} . pristine white and gold plating, ornate filigree detailing, ethereal energy emissions, angelic robotic aesthetic, holy high-tech sophistication, sacred geometric forms, floating luminous elements",
+        "negative_prompt": "rusty, dirty, industrial, dark, gritty, scary, wires, oil"
+    },
+    {
+        "name": "RM - Tech - Scrapper Junk-Bot (Underground)",
+        "prompt": "DIY scrapper cyborg aesthetic of {prompt} . mismatched rusted components, exposed raw wiring, makeshift repairs, repurposed industrial debris, gritty survivalist texture, chaotic mechanical assemblage, urban decay influence",
+        "negative_prompt": "clean, shiny, symmetrical, factory new, high tech, gold, luxury"
+    },
+    {
+        "name": "RM - Tech - Xenotech Symbiote (Smooth Alien)",
+        "prompt": "advanced alien biotechnology of {prompt} . seamless ceramic-like surfaces, fluid organic curves, ethereal bioluminescence, grown-not-built aesthetic, elegant aerodynamic lines, alien technological purity, unidentified material properties",
+        "negative_prompt": "blocky, industrial, bolts, screws, wires, metal, jagged, heavy"
+    },
+    {
+        "name": "RM - Tech - Cassette Futurism",
+        "prompt": "retro 1980s analog tech design of {prompt} . textured beige plastic casing, CRT scanline aesthetics, tactile chunky controls, magnetic tape fidelity, low-tech sci-fi atmosphere, utilitarian functionalism, analog warmth",
+        "negative_prompt": "touchscreens, holograms, sleek, modern, wireless, thin, blue leds"
+    },
+    {
+        "name": "RM - Tech - Crystalline Construct",
+        "prompt": "magical golem construct of {prompt} . faceted crystalline geometry, floating mineral shards, arcane energy resonance, translucent refraction, ancient construct aesthetic, glowing runic etchings, geological magic fusion",
+        "negative_prompt": "metal, plastic, wires, hydraulic, oil, rubber, industrial"
+    },
+    {
+        "name": "RM - Tech - Porcelain Automaton",
+        "prompt": "uncanny porcelain clockwork android of {prompt} . cracked ceramic textures, visible internal brass gears, victorian automaton aesthetic, elegant fragility, intricate mechanical joints, eerie antique polish, craftsmanship detail",
+        "negative_prompt": "modern, plastic, tactical, military, sci-fi, lasers, neon"
+    },
+    {
+        "name": "RM - Tech - Hard Light Hologram",
+        "prompt": "pure energy holographic construct of {prompt} . translucent volumetric data, neon grid topology, force field texture, luminous projection, intangible digital construct, glowing photonic aesthetic, interference patterns",
+        "negative_prompt": "solid, heavy, metal, opaque, dirty, physical, rusty"
+    },
+    {
+        "name": "RM - Tech - Diesel-Punk War Machine",
+        "prompt": "heavy diesel-punk machinery of {prompt} . heavy riveted iron plating, black exhaust smoke atmosphere, leaking oil textures, analog mechanical gauges, brute-force industrial engineering, retro-futuristic warfare aesthetic, gritty metallic weight",
+        "negative_prompt": "clean, electric, nuclear, laser, holographic, lightweight, plastic"
+    },
+    {
+        "name": "RM - Tech - Neon Cyber-Fashion",
+        "prompt": "high-fashion cyberpunk streetwear cyborg of {prompt} . translucent synthetic materials, LED-lit accents, iridescent fabric textures, chrome highlights, rebellious futuristic street style, vibrant synthetic gloss, urban tech-wear vibe",
+        "negative_prompt": "military, heavy, tank, dirty, rusty, old, antique, bulky"
+    },
+    {
+        "name": "RM - Tech - Solarpunk Harmony",
+        "prompt": "sustainable solarpunk technology of {prompt} . organic glass structures, integrated plant life, photovoltaic leaves, white and green aesthetic, eco-futurism, sunlight-driven, harmony with nature, biophilic design",
+        "negative_prompt": "industrial, dirty, smog, rusty, dark, dystopian, heavy metal, oil"
+    },
+    {
+        "name": "RM - Tech - Da Vinci Automaton",
+        "prompt": "renaissance clockwork invention of {prompt} . carved wooden gears, canvas fabric wings, brass pulleys, parchment texture, Leonardo da Vinci aesthetic, intricate mechanical leverage, historical engineering, hand-crafted",
+        "negative_prompt": "digital, electric, plastic, modern, neon, chrome, sci-fi"
+    },
+    {
+        "name": "RM - Tech - Translucent 90s Tech",
+        "prompt": "retro 90s translucent electronics aesthetic of {prompt} . clear colored plastic casing, visible internal circuit boards, purple and teal electronics, Gameboy Color aesthetic, chunky fun design, Y2K nostalgia",
+        "negative_prompt": "opaque, solid metal, beige, minimalist, modern, sleek, matte"
+    },
+    {
+        "name": "RM - Tech - Ferrofluid Magnetism",
+        "prompt": "magnetic ferrofluid construct of {prompt} . spiky liquid black metal, magnetic field lines, shifting geometry, viscous organic flow, reactive surface, alien physics, dynamic spikes",
+        "negative_prompt": "solid, rigid, dry, rusty, colorful, static, mechanical parts"
+    },
+    {
+        "name": "RM - Tech - Myco-Tech (Fungal)",
+        "prompt": "fungal biotechnology of {prompt} . mycelium network wiring, mushroom caps, organic decay, symbiotic growth, earth tones, nature reclaiming technology, porous textures, bio-synthetic fusion",
+        "negative_prompt": "clean, sterile, metallic, shiny, robotic, cold, industrial"
+    },
+    {
+        "name": "RM - Tech - Glitch Entity",
+        "prompt": "corrupted digital entity of {prompt} . datamoshing, pixel sorting, chromatic aberration, fractured geometry, signal noise, virtual reality decay, unstable form, texture error",
+        "negative_prompt": "clean, sharp, high resolution, perfect, analog, physical, stable"
+    },
+    {
+        "name": "RM - Tech - Arcane Golem",
+        "prompt": "ancient arcane stone technology of {prompt} . carved glowing runes, floating stone segments, magical energy core, dungeon guardian aesthetic, mystical engineering, heavy granite texture, mana-infused",
+        "negative_prompt": "wires, circuits, plastic, screen, battery, modern, sci-fi"
+    },
+    {
+        "name": "RM - Tech - Void Tech",
+        "prompt": "abstract void technology of {prompt} . vantablack material, event horizon edges, absorbing light, singularities, floating debris, null-space aesthetic, ominous silence, negative space",
+        "negative_prompt": "bright, reflective, colorful, busy, detailed textures, light"
+    },
+    {
+        "name": "RM - Tech - Origami Nanofold",
+        "prompt": "folded graphene technology of {prompt} . razor sharp geometric creases, paper-like thinness, complex origami folding patterns, ultra-lightweight, mathematical precision, tessellated surface",
+        "negative_prompt": "heavy, bulky, round, curved, soft, liquid, chaotic"
+    }
+]

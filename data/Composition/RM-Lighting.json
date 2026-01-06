@@ -1,0 +1,122 @@
+[
+    {
+        "name": "RM - Lighting - Golden Hour",
+        "prompt": "golden hour photography of {prompt} . warm luminous glow, elongated shadows, radiant magic hour, rich amber and gold hues, soft directional beams, emotional, nostalgic, atmospheric backlight, brilliant natural radiance",
+        "negative_prompt": "noon, harsh, cold, blue, grey, overcast, flat, artificial"
+    },
+    {
+        "name": "RM - Lighting - Blue Hour",
+        "prompt": "blue hour photography of {prompt} . deep indigo twilight, cool monochromatic tones, soft ambient radiance, ethereal illumination, melancholic, peaceful, serene dusk atmosphere, rich cobalt depth",
+        "negative_prompt": "orange, sunny, bright, warm, daylight, noon, harsh shadows"
+    },
+    {
+        "name": "RM - Lighting - Rembrandt",
+        "prompt": "dramatic rembrandt lighting on {prompt} . intense chiaroscuro, sculptural lighting, focused triangular highlight, deep shadowy recess, moody, classical artistic contrast, expressive interplay of light and dark",
+        "negative_prompt": "flat, bright, commercial, even lighting, overexposed, washed out"
+    },
+    {
+        "name": "RM - Lighting - Volumetric (God Rays)",
+        "prompt": "epic volumetric lighting on {prompt} . monumental beams of radiance, ethereal shafts cutting through haze, intense tyndall effect, dusty atmospheric depth, cinematic, spiritual, misty illumination",
+        "negative_prompt": "clear air, sharp, vacuum, flat, 2d, standard lighting, boring"
+    },
+    {
+        "name": "RM - Lighting - Studio Softbox",
+        "prompt": "professional studio lighting of {prompt} . diffused wrapping illumination, pristine clarity, smooth gradients, clean aesthetic, flattering brightness, high-key radiance, ultra-soft falloff, gentle definition",
+        "negative_prompt": "shadows, dark, gritty, grainy, amateur, harsh, flashlight"
+    },
+    {
+        "name": "RM - Lighting - Neon Noir",
+        "prompt": "vibrant neon lighting on {prompt} . saturated magenta and cyan hues, cybernetic fluorescence, deep contrasting darkness, intense chromatic glow, synthetic atmosphere, ultraviolet radiance, edgy",
+        "negative_prompt": "natural light, sun, beige, pastel, rustic, vintage, soft"
+    },
+    {
+        "name": "RM - Lighting - Bioluminescence",
+        "prompt": "ethereal bioluminescent lighting on {prompt} . magical organic glimmer, pulsating azure and emerald radiance, self-illuminated subject, mystical dark ambience, otherworldly glow, shimmering textures, phosphorescent",
+        "negative_prompt": "daylight, sun, artificial lamp, fire, warm, standard"
+    },
+    {
+        "name": "RM - Lighting - Rim Light",
+        "prompt": "intense rim lighting on {prompt} . glowing silhouette edges, dramatic backlighting, radiant halo effect, sharp separation from background, deep obscured interior, stark contrast, luminous perimeter",
+        "negative_prompt": "front lit, flat, bright face, flash, ambient, washed out"
+    },
+    {
+        "name": "RM - Lighting - Hard Flash",
+        "prompt": "harsh direct flash photography of {prompt} . unapologetic hard-edged shadows, high-impact contrast, raw snapshot aesthetic, blown-out highlights, candid intensity, abrupt lighting transitions, vivid reality",
+        "negative_prompt": "soft, diffused, professional, painting, studio, gentle"
+    },
+    {
+        "name": "RM - Lighting - Teal and Orange",
+        "prompt": "cinematic teal and orange lighting on {prompt} . complementary color grading, intense warm highlights, deep cool shadows, dramatic tonal contrast, atmospheric mood, vibrant dual-tone aesthetic, rich color separation",
+        "negative_prompt": "black and white, sepia, single color, flat, uncolored, raw"
+    },
+    {
+        "name": "RM - Lighting - Warm Morning",
+        "prompt": "warm morning light photography of {prompt} . gentle dawning radiance, soft pastel luminance, fresh ethereal atmosphere, low-angle golden warmth, hazy hopeful glow, delicate brilliance, serene airy brightness",
+        "negative_prompt": "sunset, evening, dark, harsh, noon, high contrast, artificial, gloomy"
+    },
+    {
+        "name": "RM - Lighting - Candlelight",
+        "prompt": "intimate candlelight photography of {prompt} . flickering amber glimmer, dancing deep shadows, romantic, vintage atmosphere, low color temperature, cozy, rich golden undertones, soft thermal radiance",
+        "negative_prompt": "electric light, cold, blue, bright, daylight, fluorescent, white light"
+    },
+    {
+        "name": "RM - Lighting - Cinematic Split",
+        "prompt": "dramatic split lighting on {prompt} . high-voltage lateral contrast, obscured shadow side, mysterious noir atmosphere, palpable tension, dual tone, sharp boundary between light and dark, stark duality",
+        "negative_prompt": "flat, front lit, even, low contrast, washed out, bright, commercial"
+    },
+    {
+        "name": "RM - Lighting - Overcast Soft",
+        "prompt": "soft overcast lighting on {prompt} . diffused atmospheric softness, shadowless uniformity, neutral color balance, calm ambient clarity, detailed textural rendering, even enveloping light, muted serene brightness",
+        "negative_prompt": "harsh sun, hard shadows, high contrast, directional light, burnt highlights"
+    },
+    {
+        "name": "RM - Lighting - Sodium Vapor (Street)",
+        "prompt": "urban night photography of {prompt} . illuminated by orange sodium vapor street lights, monochromatic amber hue, gritty city atmosphere, industrial haze, long shadows, noir street photography aesthetic",
+        "negative_prompt": "white light, daylight, sun, blue, cyan, natural lighting, studio"
+    },
+    {
+        "name": "RM - Lighting - Rainy Neon Streets",
+        "prompt": "wet urban night photography of {prompt} . multicolored neon signs reflecting on rain-slicked pavement, chaotic city lights, bokeh droplets, blade runner atmosphere, vibrant red and blue highlights",
+        "negative_prompt": "dry, day, sunny, flat, matte, single color, studio lighting"
+    },
+    {
+        "name": "RM - Lighting - High Noon (Summer Sun)",
+        "prompt": "bright midday photography of {prompt} . harsh direct overhead sunlight, short sharp shadows, high contrast, saturated colors, bleached highlights, heatwave atmosphere, summer vacation aesthetic",
+        "negative_prompt": "sunset, golden hour, soft, cloudy, dark, night, moody"
+    },
+    {
+        "name": "RM - Lighting - Low Key (Dim)",
+        "prompt": "minimalist low key photography of {prompt} . barely visible subject, darkness dominating the frame, subtle rim lighting, mystery, suspense, hiding in shadows, faint illumination",
+        "negative_prompt": "bright, high key, white background, commercial, happy, daylight"
+    },
+    {
+        "name": "RM - Lighting - Fluorescent (Office)",
+        "prompt": "cold fluorescent lighting on {prompt} . flickering tube lights, greenish color cast, sterile office or hospital atmosphere, flat uniform illumination, matrix aesthetic, institutional",
+        "negative_prompt": "warm, golden, romantic, candle, sun, soft, flattering"
+    },
+    {
+        "name": "RM - Lighting - Moonlight",
+        "prompt": "pale moonlight photography of {prompt} . silver cold hues, desaturated colors, eerie night atmosphere, soft shadows, gothic aesthetic, natural night illumination",
+        "negative_prompt": "sun, warm, orange, yellow, day, bright, artificial light"
+    },
+    {
+        "name": "RM - Lighting - Dappled (Komorebi)",
+        "prompt": "dappled sunlight falling on {prompt} . light filtering through tree leaves, shifting patterns of light and shadow, sunspots, nature aesthetic, soft contrast, peaceful afternoon",
+        "negative_prompt": "indoor, studio, hard flash, neon, night, dark, artificial"
+    },
+    {
+        "name": "RM - Lighting - Firelight",
+        "prompt": "illuminated by roaring firelight {prompt} . dancing orange and red flames, chaotic flickering shadows, intense warmth, primitive atmosphere, campfire aesthetic, smoke haze",
+        "negative_prompt": "cold, blue, electric light, steady, clean, white, fluorescent"
+    },
+    {
+        "name": "RM - Lighting - Stage Spotlights",
+        "prompt": "dramatic stage spotlight on {prompt} . beams of light cutting through stage smoke, concert atmosphere, lens flare, high contrast performance aesthetic, colored gels",
+        "negative_prompt": "natural light, sun, flat, boring, office, home, soft"
+    },
+    {
+        "name": "RM - Lighting - Underwater Caustics",
+        "prompt": "underwater lighting on {prompt} . refracting light patterns (caustics) on subject, shimmering wavy lines, blue tint, suspended particles, deep sea atmosphere, ethereal",
+        "negative_prompt": "dry, air, sharp, fire, red, warm, studio"
+    }
+]

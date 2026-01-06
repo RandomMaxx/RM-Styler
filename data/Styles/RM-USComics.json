@@ -1,0 +1,47 @@
+[
+    {
+        "name": "RM - US Comic - Frank Miller",
+        "prompt": "gritty graphic novel art of {prompt} by Frank Miller . high contrast noir style, stark chiaroscuro, extreme silhouette, heavy visceral black ink shadows, Sin City aesthetic, hard-edged dramatic composition, raw intense atmosphere",
+        "negative_prompt": "soft, colorful, bright, cute, anime, 3d render, blurry, smooth"
+    },
+    {
+        "name": "RM - US Comic - Alex Ross",
+        "prompt": "photorealistic gouache comic painting of {prompt} by Alex Ross . monumental heroic lighting, hyper-realistic sculptural form, vibrant classic color palette, Kingdom Come aesthetic, masterpiece, rich traditional media texture, cinematic grandeur",
+        "negative_prompt": "line art, ink, sketch, cartoon, flat color, anime, vector, simple"
+    },
+    {
+        "name": "RM - US Comic - Mike Mignola",
+        "prompt": "gothic comic book art of {prompt} by Mike Mignola . sharp angular geometry, heavy high-contrast shadows, muted atmospheric color palette, Hellboy aesthetic, minimalist negative space, moody expressionist darkness, distinct blocky forms",
+        "negative_prompt": "highly detailed, photorealistic, shiny, gradient, round, soft, anime"
+    },
+    {
+        "name": "RM - US Comic - Jack Kirby",
+        "prompt": "classic silver age comic art of {prompt} by Jack Kirby . explosive dynamic perspective, iconic Kirby Krackle energy, bold graphic lines, retro 1960s aesthetic, kinetic power, blocky geometric stylization, cosmic grandeur",
+        "negative_prompt": "modern, digital, photorealistic, minimal, flat, boring, watercolor"
+    },
+    {
+        "name": "RM - US Comic - Jim Lee",
+        "prompt": "modern superhero comic art of {prompt} by Jim Lee . intricate detailed cross-hatching, energetic dynamic composition, idealized structural perfection, 1990s comic book aesthetic, sharp precise linework, bold dramatic intensity",
+        "negative_prompt": "abstract, minimalist, flat, blurry, messy, painting, watercolor"
+    },
+    {
+        "name": "RM - US Comic - Todd McFarlane",
+        "prompt": "gritty anti-hero comic art of {prompt} by Todd McFarlane . hyper-detailed intricate linework, exaggerated dynamic flourishes, deep atmospheric shadows, heavy ink saturation, Spawn aesthetic, dark dramatic flair, complex textural density",
+        "negative_prompt": "simple, clean, ligne claire, flat, funny, bright, silver age"
+    },
+    {
+        "name": "RM - US Comic - Charles Burns",
+        "prompt": "high contrast horror comic art of {prompt} by Charles Burns . stark clinical black and white, surgical precision inking, uncanny smooth textures, disquieting atmosphere, Black Hole graphic novel aesthetic, psychological tension, pristine polished darkness",
+        "negative_prompt": "color, sketch, messy, painterly, soft, grey, shading"
+    },
+    {
+        "name": "RM - US Comic - Chris Ware",
+        "prompt": "diagrammatic comic art of {prompt} by Chris Ware . precise isometric perspective, flat muted color palette, clean geometric linework, melancholic atmosphere, intricate structural precision, Jimmy Corrigan aesthetic, sophisticated graphic design layout",
+        "negative_prompt": "action, dynamic, messy, superhero, muscles, vibrant, chaotic"
+    },
+    {
+        "name": "RM - US Comic - Robert Crumb",
+        "prompt": "underground comix style of {prompt} by Robert Crumb . dense cross-hatching, exaggerated organic distortion, nervous vibrating energy, vintage 60s counter-culture aesthetic, raw gritty texture, subversive illustrative style",
+        "negative_prompt": "superhero, clean, modern, digital, polished, beautiful, anime"
+    }
+]

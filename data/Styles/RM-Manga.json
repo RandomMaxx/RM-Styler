@@ -1,0 +1,92 @@
+[
+    {
+        "name": "RM - Manga",
+        "prompt": "manga artwork of {prompt} . monochromatic black and white, sharp ink strokes, textured screentones, stark high contrast, dramatic comic book aesthetic, traditional artistic media, graphic shading",
+        "negative_prompt": "color, 3d, photorealistic, painting, blurry, soft"
+    },
+    {
+        "name": "RM - Manga - Junji Ito",
+        "prompt": "a terrifying horror manga panel of {prompt} drawn by Junji Ito . intricate obsessive ink lines, dense cross-hatching, hypnotic spiral patterns, disturbing surreal atmosphere, macabre fine details, unsettling textures, eerie monochromatic intensity",
+        "negative_prompt": "color, cute, vibrant, anime, soft, smooth, 3d, happy"
+    },
+    {
+        "name": "RM - Manga - Kentaro Miura",
+        "prompt": "a dark fantasy manga page by of {prompt} drawn by Kentaro Miura in the style of Berserk . intense meticulous cross-hatching, heavy ink saturation, dramatic chiaroscuro shadows, gritty textural complexity, epic dark fantasy atmosphere, unrelenting seinen aesthetic, grand scale",
+        "negative_prompt": "color, shoujo, sparkles, soft, minimal, simple, vector"
+    },
+    {
+        "name": "RM - Manga - Akira Toriyama",
+        "prompt": "a retro shonen manga illustration of {prompt} by Akira Toriyama . bold angular lines, dynamic kinetic energy, defined anatomical volume, vibrant cel-shaded coloring, classic retro shonen aesthetic, spirited composition",
+        "negative_prompt": "photorealistic, painterly, soft, watercolor, complex shading, gradients"
+    },
+    {
+        "name": "RM - Manga - Eiichiro Oda",
+        "prompt": "a whimsical and adventurous manga art of {prompt} by Eiichiro Oda . exaggerated emotive forms, whimsical dynamic composition, thick confident lines, unique creative stylization, distinct hatch shading, adventurous atmosphere, exuberant aesthetic",
+        "negative_prompt": "realistic, dark, gritty, horror, serious, painting"
+    },
+    {
+        "name": "RM - Manga - Takehiko Inoue",
+        "prompt": "a masterpiece manga illustration of {prompt} by Takehiko Inoue . hyper-realistic proportions, expressive brush pen strokes, fluid ink wash techniques, organic water textures, high artistic mastery, profound emotional depth, sophisticated seinen aesthetic",
+        "negative_prompt": "anime, big eyes, chibi, simple, vector, digital"
+    },
+    {
+        "name": "RM - Manga - Hirohiko Araki",
+        "prompt": "stylish manga art of {prompt} by Hirohiko Araki . avant-garde artistic poses, intense rhythmic shading lines, flamboyant dramatic flair, sculptural definition, surreal vibrant color palettes, stylish aesthetic",
+        "negative_prompt": "boring, standard pose, soft, minimal, realistic, photo"
+    },
+    {
+        "name": "RM - Manga - Naoki Urasawa",
+        "prompt": "suspenseful manga art of {prompt} by Naoki Urasawa . nuanced realistic features, grounded psychological atmosphere, suspenseful mystery vibe, precise clean ink lines, intricate environmental textures, cinematic thriller aesthetic",
+        "negative_prompt": "moe, huge eyes, fantasy, magic, sparkles, simple"
+    },
+    {
+        "name": "RM - Manga - Rumiko Takahashi",
+        "prompt": "retro romance manga art of {prompt} by Rumiko Takahashi . soft curved ink lines, nostalgic 1980s aesthetic, expressive emotive details, charming comedic or romantic atmosphere, gentle retro styling",
+        "negative_prompt": "modern, digital, sharp, edgy, dark, horror, 3d"
+    },
+    {
+        "name": "RM - Manga - CLAMP",
+        "prompt": "intricate shoujo manga art of {prompt} by CLAMP . intricate decorative details, elongated elegant proportions, ornate complex styling, magical ethereal atmosphere, swirling embellishments, highly detailed grandeur",
+        "negative_prompt": "muscular, gritty, horror, rough, messy, simple"
+    },
+    {
+        "name": "RM - Manga - Tsutomu Nihei",
+        "prompt": "dystopian sci-fi manga art of {prompt} by Tsutomu Nihei . massive brutalist scale, endless verticality, high contrast monochromatic starkness, gritty industrial texture, complex mechanical detailing, vast dystopian atmosphere",
+        "negative_prompt": "nature, flowers, cute, soft, happy, fantasy"
+    },
+    {
+        "name": "RM - Manga - Inio Asano",
+        "prompt": "melancholic manga art of {prompt} by Inio Asano . hyper-realistic textural integration, stylized emotive forms, melancholic slice of life, deep psychological complexity, depressive atmospheric mood, contrasting realism and abstraction",
+        "negative_prompt": "action, battle, magic, fantasy, colorful, bright"
+    },
+    {
+        "name": "RM - Manga - Yusuke Murata",
+        "prompt": "dynamic action manga panel of {prompt} by Yusuke Murata . extreme cinematic perspective, intense speed lines, high-impact composition, meticulous chaotic detailing, powerful dynamic energy, polished digital ink aesthetic",
+        "negative_prompt": "static, boring, low detail, sketchy, rough"
+    },
+    {
+        "name": "RM - Manga - Osamu Tezuka",
+        "prompt": "classic manga art of {prompt} by Osamu Tezuka . soft rounded forms, classic animation influence, simplified expressive geometry, charming retro 1960s aesthetic, iconic smooth lines",
+        "negative_prompt": "modern, sharp, edgy, detailed shading, realistic"
+    },
+    {
+        "name": "RM - Manga - Tite Kubo",
+        "prompt": "stylish shonen manga art of {prompt} by Tite Kubo . stark high contrast monochrome, minimalist negative space, sharp angular designs, effortless cool atmosphere, sleek modern aesthetic",
+        "negative_prompt": "cluttered, messy, busy background, soft, rounded"
+    },
+    {
+        "name": "RM - Manga - Tatsuki Fujimoto",
+        "prompt": "gritty and cinematic manga art of {prompt} by Tatsuki Fujimoto . raw rough sketchy lines, cinematic composition, chaotic visceral energy, dark absurdist atmosphere, unpolished expressive intensity",
+        "negative_prompt": "polished, clean, vector, cute, shoujo, soft"
+    },
+    {
+        "name": "RM - Manga - Shoujo Classic",
+        "prompt": "a delicate shoujo manga illustration of {prompt} . floral decorative motifs, shimmering sparkles, emotive expressive details, thin elegant linework, soft romantic screentones, dreamy atmosphere",
+        "negative_prompt": "heavy black ink, horror, gritty, muscular, dark, rough"
+    },
+    {
+        "name": "RM - Manga - Masamune Shirow",
+        "prompt": "high-tech cyberpunk manga art of {prompt} by Masamune Shirow . intricate mechanical details, tactical gear, glossy surfaces, complex machinery, Ghost in the Shell aesthetic, blend of gritty realism and stylized anatomy, dense composition",
+        "negative_prompt": "fantasy, magic, medieval, simple, sketch, loose lines, low detail, soft"
+    }
+]

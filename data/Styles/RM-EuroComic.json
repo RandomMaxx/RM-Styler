@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RM - Euro Comic - Moebius",
+        "prompt": "surreal sci-fi illustration of {prompt} by Moebius (Jean Giraud) . clean distinct lines, flat pastel color palette, intricate organic textures, surrealist atmosphere, Arzach aesthetic, highly detailed line art, dreamlike vastness, ethereal composition",
+        "negative_prompt": "photorealistic, 3d render, dark, gritty, muddy, messy, oil painting, heavy shadows"
+    },
+    {
+        "name": "RM - Euro Comic - Hergé (Ligne Claire)",
+        "prompt": "classic comic adventure art of {prompt} in the style of Hergé . ligne claire style, strong continuous uniform black outlines, flat vibrant coloring, absence of hatching, clean geometric composition, iconic Tintin aesthetic, pristine graphical clarity",
+        "negative_prompt": "shading, gradients, textured, sketchy, cross-hatching, realistic, painterly, dark"
+    },
+    {
+        "name": "RM - Euro Comic - Enki Bilal",
+        "prompt": "dystopian art of {prompt} by Enki Bilal . gritty atmospheric decay, rough tactile textures, muted desaturated palette with bleeding red accents, heavy acrylic painterly style, Nikopol Trilogy aesthetic, sombre brutalism, raw visceral intensity",
+        "negative_prompt": "clean, vector, cute, bright, happy, anime, flat color, smooth"
+    },
+    {
+        "name": "RM - Euro Comic - Juanjo Guarnido",
+        "prompt": "cinematic noir comic art of {prompt} by Juanjo Guarnido . rich watercolor textures, masterful expressive depth, dramatic moody lighting, lush atmospheric detail, Blacksad aesthetic, detailed painterly realism, vibrant distinct shadows",
+        "negative_prompt": "flat, vector, digital lines, manga, anime, bright, neon, simple"
+    },
+    {
+        "name": "RM - Euro Comic - François Schuiten",
+        "prompt": "monumental graphic art of {prompt} by François Schuiten . intricate cross-hatching, massive vertical scale, Victorian industrial aesthetic, Les Cités Obscures style, atmospheric perspective, precise detailed linework, structural grandeur",
+        "negative_prompt": "simple, cartoon, flat, bright, neon, low detail, abstract"
+    },
+    {
+        "name": "RM - Euro Comic - Philippe Druillet",
+        "prompt": "cosmic sci-fi art of {prompt} by Philippe Druillet . chaotic baroque complexity, vibrant psychedelic color palette, lovecraftian grandeur, Lone Sloane aesthetic, epic overwhelming scale, intricate ornamental detailing, hallucinogenic atmosphere",
+        "negative_prompt": "minimalist, clean, calm, simple, realistic, photo, boring"
+    },
+    {
+        "name": "RM - Euro Comic - Hugo Pratt",
+        "prompt": "adventure comic illustration of {prompt} by Hugo Pratt . heavy black ink spotting, expressive loose brush strokes, subtle watercolor washes, minimalist negative space, Corto Maltese aesthetic, evocative atmospheric mood, poetic graphic style",
+        "negative_prompt": "detailed, tight lines, digital, 3d, bright colors, anime, shiny"
+    },
+    {
+        "name": "RM - Euro Comic - Jean-Claude Mézières",
+        "prompt": "space opera art of {prompt} by Jean-Claude Mézières . futuristic creative design, dynamic composition, Valérian and Laureline aesthetic, inventive sci-fi complexity, vibrant imaginative textures, distinct graphic storytelling style",
+        "negative_prompt": "medieval, earth, boring, static, photo, realistic"
+    },
+    {
+        "name": "RM - Euro Comic - Albert Uderzo",
+        "prompt": "expressive comic art of {prompt} by Albert Uderzo . kinetic dynamic movement, exaggerated forms, vibrant saturated colors, fluid ink lines, Asterix aesthetic, humorous lively atmosphere, spirited energetic composition",
+        "negative_prompt": "serious, dark, horror, realistic, stiff, 3d, grim"
+    },
+    {
+        "name": "RM - Euro Comic - Milo Manara",
+        "prompt": "artistic illustration of {prompt} by Milo Manara . clean elegant contour lines, delicate watercolor washes, sensual artistic refinement, Click aesthetic, sophisticated graphic clarity, smooth effortless flow",
+        "negative_prompt": "deformed, bad anatomy, ugly, messy, heavy shadows, dark, gritty"
+    },
+    {
+        "name": "RM - Euro Comic - André Franquin",
+        "prompt": "dynamic comic illustration of {prompt} by André Franquin . nervous energetic lines, fluid rubbery movement, Marcinelle school style, Spirou or Gaston Lagaffe aesthetic, expressive graphic vitality, lively chaotic charm",
+        "negative_prompt": "stiff, static, empty, minimalist, photorealistic, serious"
+    },
+    {
+        "name": "RM - Euro Comic - Simon Stålenhag",
+        "prompt": "atmospheric sci-fi art of {prompt} by Simon Stålenhag . juxtaposition of the mundane and the futuristic, thick fog and mist, digital painterly realism, Electric State aesthetic, nostalgic dystopian mood, suburban melancholia, soft lighting",
+        "negative_prompt": "action, bright, vibrant, cartoon, comic book lines, ink"
+    }
+]

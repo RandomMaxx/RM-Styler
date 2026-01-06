@@ -1,0 +1,202 @@
+[
+    {
+        "name": "RM - Pose - Acrobatic Twist",
+        "prompt": "contorted acrobatic pose of {prompt} . extreme flexibility, back arched, torso twisted, dynamic balance, gymnastic aesthetic, fluid form, artistic contortion",
+        "negative_prompt": "stiff, rigid, straight, uncomfortable, broken spine, bad anatomy, static, standing"
+    },
+    {
+        "name": "RM - Pose - Bullet-Time Dodge",
+        "prompt": "bullet-time dodge pose of {prompt} . leaning impossibly far back, knees bent, spine curved, slow motion aesthetic, dodging projectile, extreme balance, Matrix style",
+        "negative_prompt": "falling over, off balance, standing straight, boring, normal speed, static"
+    },
+    {
+        "name": "RM - Pose - Combat Strike",
+        "prompt": "mid-air combat strike pose of {prompt} . jumping high, body twisted for momentum, delivering a powerful blow, dynamic motion lines, aggressive energy, defying gravity",
+        "negative_prompt": "grounded, standing, walking, calm, peaceful, static, weak, blurry"
+    },
+    {
+        "name": "RM - Pose - Defensive Crouch",
+        "prompt": "coiled defensive crouch pose of {prompt} . low to the ground, knees bent deep, guard up, potential energy, ready to pounce, intense focus, protecting center mass",
+        "negative_prompt": "standing tall, relaxed, sleeping, open posture, vulnerable, weak"
+    },
+    {
+        "name": "RM - Pose - Foreshortened Reach",
+        "prompt": "dramatic foreshortened pose of {prompt} . hand reaching towards the camera lens, extreme perspective, exaggerated depth, intense engagement with viewer, dynamic composition",
+        "negative_prompt": "flat, 2d, distance, detached, side view, profile, static, boring"
+    },
+    {
+        "name": "RM - Pose - High Velocity Sprint",
+        "prompt": "high-velocity sprinting pose of {prompt} . body leaning forward, arms pumping, windblown hair/clothing, motion blur background, unstoppable momentum, explosive speed",
+        "negative_prompt": "walking, jogging, standing, slow, frozen, sharp background, static"
+    },
+    {
+        "name": "RM - Pose - Levitation",
+        "prompt": "mystical levitation pose of {prompt} . hovering cross-legged or upright, toes pointed down, defying gravity, rising energy, supernatural power, serene suspension",
+        "negative_prompt": "grounded, standing, sitting on chair, falling, heavy, weighted"
+    },
+    {
+        "name": "RM - Pose - Plummeting Freefall",
+        "prompt": "plummeting freefall pose of {prompt} . falling backwards into the void, limbs outstretched, wind rushing upwards, vertigo perspective, terminal velocity, chaotic descent",
+        "negative_prompt": "climbing, flying up, standing, safe, stable, grounded, calm"
+    },
+    {
+        "name": "RM - Pose - Superhero Landing",
+        "prompt": "three-point superhero landing pose of {prompt} . one knee on ground, fist impacting floor, shockwave dust rising, head looking up, intense impact energy, classic dynamic entry",
+        "negative_prompt": "standing, walking, soft landing, weak, gentle, floating"
+    },
+    {
+        "name": "RM - Pose - Sword Lunge",
+        "prompt": "deep fencing lunge pose of {prompt} . forward leg bent 90 degrees, back leg straight, weapon arm fully extended, low center of gravity, precision alignment, dynamic line of action",
+        "negative_prompt": "standing straight, chopping, hacking, off balance, stiff, clumsy"
+    },
+    {
+        "name": "RM - Pose - Victory Roar",
+        "prompt": "triumphant victory pose of {prompt} . arms raised high or spread wide, chest out, head back screaming at the sky, raw emotion, conquering stance, power",
+        "negative_prompt": "defeat, sad, small, hunching, hiding, quiet, subtle"
+    },
+    {
+        "name": "RM - Pose - Zero-G Drift",
+        "prompt": "weightless zero-gravity pose of {prompt} . floating freely, limbs relaxed but drifting apart, hair and clothing floating upwards, omni-directional orientation, dreamlike suspension",
+        "negative_prompt": "heavy, grounded, gravity, standing, walking, falling fast, tense"
+    },
+    {
+        "name": "RM - Pose - Parkour Vault",
+        "prompt": "dynamic parkour vault of {prompt} . vaulting over an obstacle, legs tucked high, one hand planted for leverage, urban agility, clearing the gap, fluid momentum",
+        "negative_prompt": "stumbling, falling, standing, walking, static, heavy, grounded"
+    },
+    {
+        "name": "RM - Pose - Supersonic Flight",
+        "prompt": "supersonic flight pose of {prompt} . body aligned horizontally, arms extended forward or back, wind resistance effects, shockwave cones, high-speed aerial travel, superhero aesthetic",
+        "negative_prompt": "hovering, falling, standing, vertical, slow, floating, static"
+    },
+    {
+        "name": "RM - Pose - Predatory Pounce",
+        "prompt": "aggressive predatory pounce of {prompt} . leaping forward to attack, claws or hands reaching out, intense focus on target, hunting instinct, mid-air strike, coiled power released",
+        "negative_prompt": "defensive, retreating, standing, calm, sleeping, passive, sitting"
+    },
+    {
+        "name": "RM - Pose - Whirling Dervish",
+        "prompt": "ecstatic whirling dance pose of {prompt} . spinning rapidly, clothing flaring out centrifugally, blurred motion, trance-like rhythm, continuous rotation, spiritual energy",
+        "negative_prompt": "dizzy, falling, standing still, rigid, slow, paused"
+    },
+    {
+        "name": "RM - Pose - Ballet Grand Jeté",
+        "prompt": "perfect ballet grand jeté of {prompt} . mid-air split leap, legs extended 180 degrees, toes pointed, graceful arc, classical dance elegance, defying gravity with poise",
+        "negative_prompt": "heavy, clumsy, bent knees, flexed feet, ground level, stomping"
+    },
+    {
+        "name": "RM - Pose - Heavy Weapon Smash",
+        "prompt": "massive heavy weapon smash of {prompt} . swinging a giant weapon (hammer/axe/sword) overhead, muscles straining, impact shockwave, follow-through motion, raw destructive power",
+        "negative_prompt": "weak, holding still, sheathed weapon, resting, light attack, poking"
+    },
+    {
+        "name": "RM - Pose - Dual-Wield Gun Kata",
+        "prompt": "acrobatic dual-wield gun kata of {prompt} . firing two weapons simultaneously in different directions, twisting torso, muzzle flashes, shell casings flying, cinematic gunplay",
+        "negative_prompt": "holstered guns, reloading, standing still, aiming carefully, single shot"
+    },
+    {
+        "name": "RM - Pose - Archer's Draw",
+        "prompt": "full-draw archery stance of {prompt} . bowstring pulled back to cheek, eye sighting down the shaft, back muscles engaged, absolute stillness before release, tension",
+        "negative_prompt": "loose string, firing blindly, relaxed, dropped bow, empty hands"
+    },
+    {
+        "name": "RM - Pose - Flamenco Flourish",
+        "prompt": "dramatic flamenco flourish of {prompt} . back arched, skirts/clothing swirling, hands snapping or clapping, intense emotional expression, stomping rhythm, sharp angular lines",
+        "negative_prompt": "slouching, loose, bored, subtle, quiet, still"
+    },
+    {
+        "name": "RM - Pose - Shield Charge",
+        "prompt": "unstoppable shield charge of {prompt} . shoulder tucked behind shield, leaning forward into the run, bracing for impact, bulldozing momentum, tank-like aggression",
+        "negative_prompt": "blocking standing still, retreating, hiding, open, exposed"
+    },
+    {
+        "name": "RM - Pose - Sensual Odalisque",
+        "prompt": "sensual odalisque reclining pose of {prompt} . lying back on a chaise or bed, one arm draped behind the head, body curved in a relaxed S-shape, inviting gaze, classical boudoir aesthetic, soft lighting emphasizing curves",
+        "negative_prompt": "stiff, standing, rigid, uncomfortable, fully clothed, heavy armor, blocking view, flat"
+    },
+    {
+        "name": "RM - Pose - Over-the-Shoulder Glance",
+        "prompt": "sultry over-the-shoulder glance of {prompt} . back turned to camera, head turned back with half-lidded eyes, back arched to accentuate posture, mysterious and inviting, focusing on the eyes and back line",
+        "negative_prompt": "front view, facing forward, stiff neck, angry, shouting, passport photo style"
+    },
+    {
+        "name": "RM - Pose - The Leg Reveal",
+        "prompt": "seductive leg reveal pose of {prompt} . standing or sitting with one leg extended or exposed through a high slit, highlighting the thigh and calf, confident stance, femme fatale aesthetic, sharp focus on the silhouette",
+        "negative_prompt": "hiding legs, sitting cross legged, covered up, shapeless, baggy clothing, modest"
+    },
+    {
+        "name": "RM - Pose - Floor Arch",
+        "prompt": "erotic arched back floor pose of {prompt} . kneeling or lying on stomach, back arched deeply, head tilted back, stretching the torso, emphasizing flexibility and vulnerability, dramatic angles",
+        "negative_prompt": "curled up, fetal position, hunching, sitting straight, relaxed, sleeping"
+    },
+    {
+        "name": "RM - Pose - Finger Tease",
+        "prompt": "playful finger tease pose of {prompt} . biting a finger or thumb, or resting a finger on the lip, intense eye contact, slightly parted mouth, innocence mixed with desire, close-up intimacy",
+        "negative_prompt": "closed mouth, shouting, serious, bored, distant, wide shot, full body"
+    },
+    {
+        "name": "RM - Pose - Classic Pin-Up",
+        "prompt": "flirty vintage pin-up pose of {prompt} . leg kicked up behind, winking or blowing a kiss, hand on hip, dynamic and cheerful seduction, 1950s calendar aesthetic, hourglass composition",
+        "negative_prompt": "sad, serious, dark, horror, modern fashion, static, boring, depressed"
+    },
+    {
+        "name": "RM - Pose - Against the Wall",
+        "prompt": "pressed against the wall pose of {prompt} . hands pinned above head or resting on the wall, body leaning in, chin tilted down looking up through lashes, submissive or trapped aesthetic, intense mood",
+        "negative_prompt": "floating, open space, sitting, relaxed, dominant, aggressive, walking"
+    },
+    {
+        "name": "RM - Pose - The Crawl",
+        "prompt": "alluring crawling pose of {prompt} . moving forward on hands and knees, low camera angle, intense predatory gaze, stalking movement, emphasizing the hips and shoulders, dynamic tension",
+        "negative_prompt": "standing, jumping, flying, high angle, passive, resting, sleeping"
+    },
+    {
+        "name": "RM - Pose - Kneeling Submission",
+        "prompt": "submissive kneeling pose looking up of {prompt} . knees on the floor, sitting back on heels or hips slightly raised, hands resting on thighs or floor, chin tilted upward, wide doe-eyes looking up at the viewer, high camera angle, vulnerable and expectant atmosphere",
+        "negative_prompt": "standing, looking down, dominant, aggressive, stiff, chair, confident"
+    },
+    {
+        "name": "RM - Pose - Hands Bound Above",
+        "prompt": "vulnerable hands above head pose of {prompt} . wrists crossed or held above the head, leaning back against a wall or bedhead, chest pressed forward, exposing the neck and torso, intense eye contact, helpless aesthetic",
+        "negative_prompt": "arms down, hiding body, crossed arms, relaxed, hunching, loose posture"
+    },
+    {
+        "name": "RM - Pose - The Slipping Strap",
+        "prompt": "teasing slipping strap pose of {prompt} . one shoulder raised, clothing fabric sliding off the shoulder to reveal skin, hand gently touching the collarbone or strap, biting lip, coy expression, soft focus",
+        "negative_prompt": "fully clothed, stiff, formal, winter coat, covered up, boring"
+    },
+    {
+        "name": "RM - Pose - Prone & Playful",
+        "prompt": "playful prone pose lying on stomach of {prompt} . lying on front, elbows propped up, chin resting on hands, legs bent at the knees and kicked up in the air, looking forward, relaxed boudoir aesthetic, inviting",
+        "negative_prompt": "standing, sitting, rigid, serious, angry, sleeping, face down"
+    },
+    {
+        "name": "RM - Pose - The Hair Pull",
+        "prompt": "sensual hair pull pose of {prompt} . both hands gathered in hair lifting it off the neck, elbows out, head tilted back, eyes closed or half-lidded, exposing the neck and throat, expression of ecstasy or relief",
+        "negative_prompt": "hands by sides, stiff neck, looking forward, passport photo, flat"
+    },
+    {
+        "name": "RM - Pose - The Deep Squat",
+        "prompt": "provocative deep squat pose of {prompt} . crouching low with knees wide, heels raised, hands resting on knees or floor between legs, primal and intense gaze, street fashion or feral aesthetic, dynamic curves",
+        "negative_prompt": "standing, sitting on chair, straight legs, modest, polite, static"
+    },
+    {
+        "name": "RM - Pose - Mirror Vanity",
+        "prompt": "intimate mirror reflection pose of {prompt} . leaning into a vanity mirror, applying lipstick or fixing hair, making eye contact with the viewer through the reflection, double silhouette, narcissism and beauty",
+        "negative_prompt": "facing away, no reflection, blurry, broken mirror, distant"
+    },
+    {
+        "name": "RM - Pose - The Shirt Lift",
+        "prompt": "teasing shirt lift pose of {prompt} . hands crossing over torso to grab the hem of the top, slowly lifting it to reveal the midriff/waist, shy or confident smile, focus on the stomach and hips",
+        "negative_prompt": "arms down, fully covered, baggy clothes, hiding, shapeless"
+    },
+    {
+        "name": "RM - Pose - Wet & Clinging",
+        "prompt": "steamy wet look pose of {prompt} . water dripping down skin, wet fabric clinging tightly to curves and becoming translucent, head tilted back, hair slicked back, shower or rain setting, sensual atmosphere",
+        "negative_prompt": "dry, fluffy, thick clothing, matte, dusty, desert, hairspray"
+    },
+    {
+        "name": "RM - Pose - Cat Stretch",
+        "prompt": "elongated stretch pose of {prompt} . on hands and knees or standing, back arched downwards, hips high, stretching the spine, emphasizing the curve of the back and glutes",
+        "negative_prompt": "curled up, hunching, sitting still, rigid, straight spine"
+    }
+]

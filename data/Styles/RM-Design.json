@@ -1,0 +1,37 @@
+[
+    {
+        "name": "RM - Design - Swiss International",
+        "prompt": "Swiss International Style poster of {prompt} . typographic dominance, helvetica font, asymmetrical layout, negative space, grid system, clean and minimalist, Bauhaus influence",
+        "negative_prompt": "ornate, messy, hand drawn, textured, chaotic, serif font, decorative"
+    },
+    {
+        "name": "RM - Design - Psychedelic Rock Poster",
+        "prompt": "1960s psychedelic rock poster of {prompt} . liquid swirling lettering, neon colors, optical illusions, Fillmore poster aesthetic, melting shapes, art nouveau revival",
+        "negative_prompt": "clean, straight, grid, minimalist, black and white, corporate"
+    },
+    {
+        "name": "RM - Design - Street Art Stencil",
+        "prompt": "street art stencil graffiti of {prompt} . spray paint texture, dripping paint, concrete wall background, Banksy aesthetic, high contrast black and white with red accent, political satire vibe",
+        "negative_prompt": "clean, studio, canvas, oil painting, brush strokes, polite"
+    },
+    {
+        "name": "RM - Design - Collage Art",
+        "prompt": "mixed media collage art of {prompt} . cut-out paper edges, juxtaposition of vintage magazines and photos, dadaist aesthetic, torn paper textures, surreal composition",
+        "negative_prompt": "seamless, realistic, 3d, painting, drawing, cohesive, smooth"
+    },
+    {
+        "name": "RM - Design - Memphis Group",
+        "prompt": "80s Memphis Group design of {prompt} . squiggly lines, confetti patterns, geometric shapes, pastel and neon clash, postmodern furniture aesthetic, Saved by the Bell vibe",
+        "negative_prompt": "minimalist, beige, wood, rustic, serious, antique, harmonious"
+    },
+    {
+        "name": "RM - Design - Grunge Typography",
+        "prompt": "90s grunge typography poster of {prompt} . distressed fonts, raygun magazine style, chaotic layout, dirty textures, collage elements, david carson aesthetic, illegible art",
+        "negative_prompt": "clean, swiss style, grid, helvetica, readable, corporate, simple"
+    },
+    {
+        "name": "RM - Design - Psychedelic Art Nouveau",
+        "prompt": "psychedelic art nouveau poster of {prompt} . melting organic lines, vibrant neon colors, alphonse mucha on acid, concert poster aesthetic, swirling composition",
+        "negative_prompt": "rigid, straight lines, black and white, photo, realistic"
+    }
+]

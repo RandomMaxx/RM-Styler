@@ -1,0 +1,112 @@
+[
+    {
+        "name": "RM - Painting - High Renaissance",
+        "prompt": "classic oil painting of {prompt} in the style of High Renaissance . sfumato technique, masterful realistic volume, balanced harmonic composition, soft ethereal lighting, classical grandeur, refined aesthetic, masterpiece oil technique, subtle gradations",
+        "negative_prompt": "abstract, distorted, messy, modern, neon, flat, pixelated, low resolution"
+    },
+    {
+        "name": "RM - Painting - Baroque",
+        "prompt": "dramatic oil painting of {prompt} in the style of Baroque . intense chiaroscuro lighting, deep theatrical shadows, high-contrast emotional intensity, dynamic motion, rich tactile texture, masterfully staged illumination, Caravaggio-esque depth",
+        "negative_prompt": "bright, flat, static, pastel, cute, anime, vector, simple, white background"
+    },
+    {
+        "name": "RM - Painting - Rococo",
+        "prompt": "ornate oil painting of {prompt} in the style of Rococo . soft pastel palette, playful decorative elegance, intricate ornamentation, airy lighthearted atmosphere, romantic whimsy, delicate brushwork, ethereal charm, lush detailing",
+        "negative_prompt": "dark, gritty, gothic, sharp angles, masculine, heavy, horror, industrial"
+    },
+    {
+        "name": "RM - Painting - Romanticism",
+        "prompt": "emotional oil painting of {prompt} in the style of Romanticism . sublime atmospheric drama, intense emotional depth, turbulent mists and fog, majestic scale, moody awe-inspiring lighting, spiritual intensity, expressive naturalism",
+        "negative_prompt": "urban, modern, bright, pop art, cartoon, geometric, structured, calm"
+    },
+    {
+        "name": "RM - Painting - Impressionism",
+        "prompt": "oil painting of {prompt} in the style of Impressionism . loose distinct brushstrokes, vibrant dappled light, unblended chromatic brilliance, open composition, fleeting atmospheric moment, plein air luminosity, soft optical blending",
+        "negative_prompt": "photorealistic, sharp lines, black outlines, dark, studio lighting, smooth"
+    },
+    {
+        "name": "RM - Painting - Post-Impressionism",
+        "prompt": "expressive oil painting of {prompt} in the style of Post-Impressionism . thick impasto texture, bold saturated color palette, emotional rhythmic swirls, distinct stylized brushwork, turbulent energy, vivid tactile surface, distinctive artistic vision",
+        "negative_prompt": "smooth, realistic, photograph, flat, dull colors, subtle, refined"
+    },
+    {
+        "name": "RM - Painting - Art Nouveau",
+        "prompt": "decorative art illustration of {prompt} in the style of Art Nouveau . elegant organic curves, flowing whiplash lines, stylized decorative patterns, intricate gold leaf accents, harmonious ornamental composition, aesthetic flatness, romantic complexity",
+        "negative_prompt": "geometric, industrial, brutalist, modern, minimalism, straight lines, rigid"
+    },
+    {
+        "name": "RM - Painting - Art Deco",
+        "prompt": "elegant art deco illustration of {prompt} . sleek geometric stylization, streamlined elegance, bold angular outlines, metallic gold and brass contrasts, luxurious modernist aesthetic, symmetrical precision, polished decorative surface",
+        "negative_prompt": "organic, rustic, messy, grunge, medieval, rough, sketch, blurred, floral"
+    },
+    {
+        "name": "RM - Painting - Cubism",
+        "prompt": "abstract painting of {prompt} in the style of Cubism . fragmented geometric abstraction, simultaneous multiple viewpoints, interlocking faceted planes, muted monochromatic tones, structural deconstruction, avant-garde composition",
+        "negative_prompt": "realistic, 3d, depth, smooth, curved, organic, traditional, photorealistic"
+    },
+    {
+        "name": "RM - Painting - Surrealism",
+        "prompt": "dreamlike oil painting of {prompt} in the style of Surrealism . dreamlike hyper-realistic technique, impossible logic, eerie subconscious atmosphere, bizarre juxtapositions, distinct clarity, melting fluid forms, uncanny psychological depth",
+        "negative_prompt": "logical, mundane, realistic, boring, standard, blurry, abstract expressionism"
+    },
+    {
+        "name": "RM - Painting - Expressionism",
+        "prompt": "emotional painting of {prompt} in the style of German Expressionism . raw emotional distortion, bold jarring color palette, angular woodcut aesthetic, psychological anxiety, turbulent brushwork, intense expressive mood, dramatic stylized forms",
+        "negative_prompt": "realistic, calm, peaceful, beautiful, pretty, detailed, smooth"
+    },
+    {
+        "name": "RM - Painting - Abstract Expressionism",
+        "prompt": "chaotic abstract painting of {prompt} in the style of Abstract Expressionism . chaotic kinetic energy, spontaneous action painting, visceral drips and splashes, energetic gestural brushwork, non-representational intensity, raw emotional expression, monumental scale",
+        "negative_prompt": "representational, figure, portrait, realistic, detailed, neat, orderly"
+    },
+    {
+        "name": "RM - Painting - Pop Art",
+        "prompt": "bold screen print art of {prompt} in the style of Pop Art . bold commercial aesthetic, vibrant primary colors, stylized ben-day dots, thick graphic outlines, flat mass-produced look, high-impact screen print style, ironic visual punch",
+        "negative_prompt": "painterly, loose, textured, watercolor, realistic, dark, old fashioned"
+    },
+    {
+        "name": "RM - Painting - Watercolor",
+        "prompt": "soft watercolor painting of {prompt} . translucent fluid layers, delicate wet-on-wet bleed, organic paper texture, soft chromatic transitions, artistic splatter, airy negative space, ethereal washed aesthetic",
+        "negative_prompt": "oil paint, thick acrylic, digital, sharp, heavy, dark, opaque"
+    },
+    {
+        "name": "RM - Painting - Oil Impasto",
+        "prompt": "thick oil painting of {prompt} . heavy sculptural impasto, thick palette knife application, deep dimensional relief, rich tactile surface, expressive energetic strokes, viscous oil texture, dimensional depth",
+        "negative_prompt": "flat, smooth, digital, watercolor, pencil, thin, glazed"
+    },
+    {
+        "name": "RM - Painting - Gustav Klimt",
+        "prompt": "symbolist painting of {prompt} by Gustav Klimt . ornate gold leaf embellishment, intricate decorative mosaic patterns, romantic symbolist aesthetic, lush opulence, stylized geometric integration, rich metallic textures",
+        "negative_prompt": "minimalist, simple, dark, gritty, realistic, photo, plain"
+    },
+    {
+        "name": "RM - Painting - Edward Hopper",
+        "prompt": "realist oil painting of {prompt} by Edward Hopper . cinematic hard lighting, profound psychological isolation, melancholic stillness, sharp architectural shadows, voyeuristic composition, quiet atmospheric mood, stark realism",
+        "negative_prompt": "crowded, happy, chaotic, abstract, fantasy, surreal, bright"
+    },
+    {
+        "name": "RM - Painting - Jean-Michel Basquiat",
+        "prompt": "neo-expressionist art of {prompt} by Jean-Michel Basquiat . raw neo-expressionist energy, frantic scribbled textures, chaotic mixed-media composition, aggressive graffiti influence, primitive stylistic intensity, vibrant impulsive coloring",
+        "negative_prompt": "realistic, polished, clean, traditional, landscape, portrait, smooth"
+    },
+     {
+        "name": "RM - Painting - Norman Rockwell",
+        "prompt": "americana illustration of {prompt} by Norman Rockwell . hyper-detailed narrative realism, warm nostalgic lighting, idealized storytelling, expressive characterization, wholesome commercial aesthetic, masterful illustrative technique",
+        "negative_prompt": "abstract, dark, horror, gritty, sexual, violent, surreal"
+    },
+    {
+        "name": "RM - Painting - Henri Matisse",
+        "prompt": "fauvist collage of {prompt} by Henri Matisse . vibrant fauvist energy, fluid organic simplification, bold flat color fields, paper cut-out aesthetic, joyful decorative composition, rhythmic visual flow, expressive minimalism",
+        "negative_prompt": "realistic, detailed, dark, shaded, 3d, perspective, gloomy"
+    },
+    {
+        "name": "RM - Painting - James Jean",
+        "prompt": "ethereal surrealist painting of {prompt} by James Jean . fluid lyrical linework, prismatic pastel color palette, hallucinated botanical complexity, undulating organic rhythms, dreamscape atmosphere, intricate symbiotic fusion of form and nature, surreal metamorphic forms, delicate mythological elegance, vibrant hallucinogenic flow",
+        "negative_prompt": "rigid, geometric, photographic, dark, gritty, rough, minimalist, simple, flat, vector, heavy shadows, industrial"
+    },
+    {
+        "name": "RM - Painting - Hyper Realism",
+        "prompt": "hyper-realistic oil painting of {prompt} . photorealistic precision, razor-sharp details, microscopic textural fidelity, imperceptible brushstrokes, heightened reality, intense visual clarity, masterful illusion of depth",
+        "negative_prompt": "impressionist, loose strokes, blurry, abstract, painterly, rough, stylized, cartoon, sketch"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "RM - Styling - Swirling & Dynamic",
+        "prompt": "dynamic swirling composition of {prompt} . fluid motion lines, spiraling energy, rhythmic flow, turbulent atmosphere, sweeping curves, kinetic aesthetic, vortex-like movement",
+        "negative_prompt": "static, still, rigid, straight lines, blocky, calm, frozen"
+    },
+    {
+        "name": "RM - Styling - Vibrant Color Explosion",
+        "prompt": "intense vibrant color styling of {prompt} . highly saturated hues, intense palette, chromatic richness, vivid colors, explosive color contrast, glowing brilliance, pure spectrum colors",
+        "negative_prompt": "desaturated, dull, monochrome, grayscale, pastel, muted, dark, faded, washed out, low contrast"
+    },
+    {
+        "name": "RM - Styling - Twisted & Contorted",
+        "prompt": "twisted and contorted form of {prompt} . spiral distortion, unnatural stretching, warping geometry, disorienting perspective, malleable texture, surreal deformation, writhing complexity",
+        "negative_prompt": "straight, normal, anatomical, rigid, balanced, symmetrical, clean"
+    },
+    {
+        "name": "RM - Styling - Liquid Flow",
+        "prompt": "fluid liquid styling of {prompt} . melting viscous textures, dripping flow, smooth organic curves, aqueous motion, seamless shape transitions, soft surrealism, molten aesthetic",
+        "negative_prompt": "dry, solid, rough, jagged, hard edges, dusty, frozen"
+    },
+    {
+        "name": "RM - Styling - Fractal",
+        "prompt": "fractal geometry styling of {prompt} . infinite recursive patterns, mathematical complexity, self-similar details, mandala-like structure, kaleidoscopic arrangement, mesmerizing depth",
+        "negative_prompt": "simple, minimal, random, chaotic, organic, asymmetrical"
+    },
+    {
+        "name": "RM - Styling - Geometric Abstraction",
+        "prompt": "sharp geometric styling of {prompt} . angular polygons, abstract shapes, mathematical precision, hard edges, structured composition, low-poly influence, constructivist aesthetic",
+        "negative_prompt": "organic, curved, soft, natural, messy, chaotic, flowing"
+    },
+    {
+        "name": "RM - Styling - Glitch & Noise",
+        "prompt": "digital glitch styling of {prompt} . datamoshing effects, pixel sorting, signal corruption, chromatic aberration, technological distortion, fragmented reality, visual noise",
+        "negative_prompt": "clean, clear, smooth, analog, natural, perfect, hd"
+    },
+    {
+        "name": "RM - Styling - Crystalline Shatter",
+        "prompt": "shattered crystalline styling of {prompt} . faceted shard geometry, prismatic refraction, sharp angular fragments, glass-like transparency, jagged edges, fragile complexity, explosive dispersion",
+        "negative_prompt": "soft, round, dull, opaque, smooth, melting, fluid"
+    },
+    {
+        "name": "RM - Styling - Nebulous & Ethereal",
+        "prompt": "nebulous ethereal styling of {prompt} . forming from mist and smoke, indistinct edges, gaseous textures, floating particulate matter, atmospheric dispersion, soft focus dreamlike quality",
+        "negative_prompt": "solid, hard, defined, sharp, heavy, geometric, clear"
+    },
+    {
+        "name": "RM - Styling - Explosive Dispersion",
+        "prompt": "explosive dynamic styling of {prompt} . debris scattering, high velocity particles, bursting energy, chaotic dispersion, impact shockwaves, intense outward motion, disintegration",
+        "negative_prompt": "calm, whole, solid, static, imploding, gathered, clean"
+    },
+    {
+        "name": "RM - Styling - Bioluminescent Veins",
+        "prompt": "intricate glowing vascular styling of {prompt} . branching luminous veins, subsurface scattering, pulsating energy lines, organic network, electric nervous system aesthetic",
+        "negative_prompt": "flat, matte, dark, dead, solid, simple, external light"
+    },
+    {
+        "name": "RM - Styling - Fluid",
+        "prompt": "abstract fluid styling of {prompt} . seamless flowing forms, undulating curves, aerodynamic elegance, smooth continuous motion, liquid organic aesthetic, graceful distortion, soft transitions",
+        "negative_prompt": "sharp, rigid, blocky, geometric, jagged, static, friction"
+    },
+    {
+        "name": "RM - Styling - Hyper-Intricate Detail",
+        "prompt": "hyper-intricate styling of {prompt} . an overabundance of hyper fine details, microscopic precision, immensely complex ornate patterns, dense interlocking structures, super precise textures, infinite resolution, maximalist complexity, meticulously crafted design scattered with minute elements throughout the composition.",
+        "negative_prompt": "simple, minimal, blurry, low resolution, smooth, plain, empty, vague, soft, flat, undetailed, cartoon, sketch"
+    },
+    {
+        "name": "RM - Styling - Iridescent Oil Slick",
+        "prompt": "iridescent oil slick styling of {prompt} . rainbow chemical sheen, thin film interference, psychedelic reflection, glossy surface, shifting colors, toxic beauty, slippery texture",
+        "negative_prompt": "matte, dull, monochrome, dry, rough, stone, wood"
+    },
+    {
+        "name": "RM - Styling - Ink Wash Diffusion",
+        "prompt": "ink wash diffusion styling of {prompt} . spreading pigment in water, smokey gradients, high contrast sumi-e aesthetic, bleeding edges, organic dispersion, monochrome elegance, fluid staining",
+        "negative_prompt": "sharp, hard edges, geometric, colorful, solid, plastic, 3d"
+    },
+    {
+        "name": "RM - Styling - Heavy Impasto",
+        "prompt": "heavy impasto oil styling of {prompt} . thick raised paint strokes, palette knife texture, tactile depth, expressive brushwork, oil paint smell, rich color layering, artistic abstraction",
+        "negative_prompt": "flat, digital, smooth, vector, thin, watercolor, photorealistic"
+    },
+    {
+        "name": "RM - Styling - Kintsugi Restoration",
+        "prompt": "kintsugi restoration styling of {prompt} . cracked porcelain texture, gold-filled seams, beauty in brokenness, ceramic shards, precious scars, intricate spiderweb cracks, wabi-sabi aesthetic",
+        "negative_prompt": "perfect, whole, new, plastic, rubber, soft, flexible"
+    }
+]

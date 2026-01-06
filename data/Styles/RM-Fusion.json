@@ -1,0 +1,162 @@
+[
+    {
+        "name": "RM - Fusion - Baroque Cyberpunk",
+        "prompt": "baroque cyberpunk fusion of {prompt} . opulent gilded filigree entwined with raw pulsing circuitry, dramatic chiaroscuro neon illumination, plush velvet textures clashing with cold chrome, sacred high-tech iconography, labyrinthine cathedral atmosphere, deep religious shadows, glowing electric diodes, transcendental synthetic aesthetic",
+        "negative_prompt": "minimalist, clean, modern, flat, simple, daylight, beige, rustic"
+    },
+    {
+        "name": "RM - Fusion - Rococo Futurism",
+        "prompt": "high-tech rococo aesthetic of {prompt} . delicate pastel synthetic materials, intricate floral machinery, flawless porcelain textures, gossamer fiber-optic accents, airy lighthearted atmosphere, whimsical engineering, ornate white and gold extravagance, ethereal artificial beauty",
+        "negative_prompt": "dark, gritty, industrial, heavy, rusty, gothic, low contrast"
+    },
+    {
+        "name": "RM - Fusion - Gothic Mainframe",
+        "prompt": "gothic digital cathedral style of {prompt} . monumental vertical architecture, holographic stained glass refractions, ominous stone gargoyles with optical lenses, swirling digital mist, dark weathered textures, sacred data streams, imposing religious sci-fi atmosphere, gloomily majestic",
+        "negative_prompt": "low ceiling, horizontal, bright, colorful, happy, soft, wood, modern"
+    },
+    {
+        "name": "RM - Fusion - Industrial Art Nouveau",
+        "prompt": "industrial art nouveau style of {prompt} . sinuous organic lines of oxidized piping, elegant copper wire whiplash curves, soot-stained floral motifs, heavy mechanical ironwork, thick atmospheric steam, gritty industrial elegance, rhythmic metallic flow",
+        "negative_prompt": "geometric, straight lines, clean, plastic, neon, digital, rigid"
+    },
+    {
+        "name": "RM - Fusion - Atomic Shogun",
+        "prompt": "feudal japanese retro-futurism of {prompt} . gleaning chrome armor plating, polished bakelite textures, vibrant atomic-age colors, traditional ukiyo-e composition, sleek aerodynamic curves, retro-future warrior aesthetic, striking red and teal contrast",
+        "negative_prompt": "medieval, rusty, dirt, realistic historical, matte, dull"
+    },
+    {
+        "name": "RM - Fusion - Prehistoric Synthwave",
+        "prompt": "prehistoric synthwave aesthetic of {prompt} . fluorescent primitive markings, coarse fur textures glowing with UV light, jagged laser grid geometry, fossilized structures with integrated circuitry, primal retro-future atmosphere, vibrant neon stone age aesthetic",
+        "negative_prompt": "realistic, historical, brown, dull, low saturation, modern city"
+    },
+    {
+        "name": "RM - Fusion - Egyptian High-Tech",
+        "prompt": "ancient egyptian high-technology of {prompt} . monolithic sandstone structures with hovering anti-gravity bases, glowing hieroglyphic circuit patterns, opulent gold and lapis lazuli cybernetics, divine machine aesthetic, blinding desert sun on polished chrome, mystical advanced engineering",
+        "negative_prompt": "ruined, broken, archeology, dirt, sandstorm, primitive, stone only"
+    },
+    {
+        "name": "RM - Fusion - Jazz Age Cybernetics",
+        "prompt": "1920s art deco cyberpunk of {prompt} . luxurious brass and black marble textures, sharp geometric circuitry, opulent synthetic android aesthetics, smoky speakeasy atmosphere, glowing neon accents, polished high-tech elegance, rhythmic visual jazz",
+        "negative_prompt": "gritty, dirty, rusty, organic, flowing, chaotic, medieval"
+    },
+    {
+        "name": "RM - Fusion - Victorian Space-Farer",
+        "prompt": "victorian aetherpunk of {prompt} . polished brass pressure gear, rich mahogany interiors, floating velvet upholstery, intricate steam-powered navigation charts, elegant celestial exploration, soft gaslight illumination, adventurous jules verne aesthetic",
+        "negative_prompt": "modern sci-fi, white plastic, touchscreens, minimalism, digital, grunge"
+    },
+    {
+        "name": "RM - Fusion - Brutalist Fantasy",
+        "prompt": "brutalist high fantasy of {prompt} . massive raw concrete fortifications, utilitarian arcane circles, imposing geometric weight, rough weathered textures with enchanted moss, monolithic scale, harsh dramatic shadows, oppressive bureaucratic wizardry",
+        "negative_prompt": "ornate, decorative, delicate, whimsical, fairy tale, wooden, cozy"
+    },
+    {
+        "name": "RM - Fusion - Kawaii Brutalism",
+        "prompt": "aggressive amalgamation of soviet brutalism and kawaii pop culture applied to {prompt} . massive raw concrete monoliths dripping with radioactive pastel slime, imposing utilitarian geometry softening into cute round edges, heavy industrial oppression meeting sugary pop aesthetics, holographic sprinkles on grey bunkers, aggressively adorable dystopia, surreal contrast",
+        "negative_prompt": "serious, boring, grey only, realistic, delicate, elegant, traditional, logical"
+    },
+    {
+        "name": "RM - Fusion - Eldritch Americana",
+        "prompt": "1950s suburban nostalgia twisting into cosmic horror version of {prompt} . gleaming chrome melting into writhing tentacles, cheerful checkered patterns dissolving into abyssal voids, neon flickering in impossible colors, sugary sweetness mixed with existential dread, uncanny domestic body horror, nightmarish rockabilly atmosphere",
+        "negative_prompt": "normal, safe, wholesome, clean, standard horror, dark only, gothic"
+    },
+    {
+        "name": "RM - Fusion - Flesh Deco",
+        "prompt": "luxurious art deco constructed from living tissue for {prompt} . geometric brass inlay embedded in raw pulsating muscle, polished structural bone, velvety skin textures, elegant visceral body horror, glamorous gore, gold-plated organic forms, symmetrical biological opulence",
+        "negative_prompt": "mechanical, robot, steel, dry, industrial, rustic, messy, sketch"
+    },
+    {
+        "name": "RM - Fusion - Medieval Glitch",
+        "prompt": "gothic dark ages colliding with digital corruption in {prompt} . ancient stone architecture fragmenting into datamoshed pixels, stained glass exploding into RGB noise, rusty iron dissolving into signal interference, holy scriptures scrolling as terminal code, analog decay meeting virtual destruction, chaotic temporal glitch",
+        "negative_prompt": "clean, hd, 4k, perfect, historical, accurate, painting, smooth"
+    },
+    {
+        "name": "RM - Fusion - Vaporwave Aztec",
+        "prompt": "ancient mesoamerican mythology in a vaporwave void depicting {prompt} . sleek obsidian pyramids floating in a cyan grid sky, mythological forms made of magnetic tape and neon light, sacrificial altars glowing with hot pink plasma, retro-futuristic jungle atmosphere, nostalgic digital ruin, aesthetic synthesis",
+        "negative_prompt": "historical, realistic, brown, stone, dirt, jungle, natural light"
+    },
+    {
+        "name": "RM - Fusion - Cyber-Impressionism",
+        "prompt": "cyberpunk impressionism of {prompt} . loose distinct brushstrokes capturing the shimmer of wet neon rain, dappled light filtering through toxic smog and holograms, optical mixing of technological and organic forms, pastel industrial decay, romantic high-tech dystopia, fleeting digital atmosphere, atmospheric plein air sci-fi",
+        "negative_prompt": "sharp, detailed, photorealistic, dark, gritty, hard edges, vector"
+    },
+    {
+        "name": "RM - Fusion - Victorian Acid Trip",
+        "prompt": "rigid victorian propriety melting into psychedelic madness with {prompt} . stiff structures bursting with kaleidoscopic fractals, paisley patterns turning into living swirls, hallucinated etiquette, polite surrealism, melting temporal distortions, sepia tones exploding into vibrant rainbow colors, disorienting dreamscape",
+        "negative_prompt": "sober, realistic, historical, boring, plain, black and white, serious"
+    },
+    {
+        "name": "RM - Fusion - Samurai Disco",
+        "prompt": "feudal japan meets 1970s disco fusion of {prompt} . armor covered in reflective mirror-ball tiles, blades glowing with funky laser beams, cherry blossoms turning into glittering confetti, woodblock composition with groovy styling, vibrant nightlife energy, polyester textures, energetic dance atmosphere",
+        "negative_prompt": "serious, war, dark, gritty, historical, dull, muted colors"
+    },
+    {
+        "name": "RM - Fusion - Norse Synth-Metal",
+        "prompt": "viking mythology forged in heavy metal aesthetics of {prompt} . chrome-plated mythical structures, weapons crackling with electric distortion, frost giants of subwoofers and ice, lightning screaming across a matte black sky, epic leather and fur textures, aggressive auditory visual style, thunderous atmosphere",
+        "negative_prompt": "soft, quiet, peaceful, acoustic, wood, nature, realistic"
+    },
+    {
+        "name": "RM - Fusion - Bioluminescent Steampunk",
+        "prompt": "steam power fueled by alien biology applied to {prompt} . brass gears dripping with glowing blue sap, copper pipes pumping phosphorescent algae, symbiotic fungal integration, gaslight replaced by biological luminescence, organic clockwork mechanisms, humid atmospheric machinery, living technology",
+        "negative_prompt": "electric, modern, clean, dry, dead, static, cold"
+    },
+    {
+        "name": "RM - Fusion - Nuclear Cottagecore",
+        "prompt": "pastoral serenity mutating into radioactive nightmare version of {prompt} . cute thatched structures glowing with ionizing radiation, mutated flora and fauna, wholesome domesticity mixed with fallout decay, soft gingham textures meeting toxic sludge, cheerful apocalypse, uncanny bright colors",
+        "negative_prompt": "normal, safe, dark, gritty, scary, boring, standard post-apoc"
+    },
+    {
+        "name": "RM - Fusion - Zen Brutalism",
+        "prompt": "meditative peace within oppressive concrete involving {prompt} . massive anti-gravity monoliths floating in a white void, brutalist architecture overgrown with delicate bonsai and moss, harsh geometric shadows softening into spiritual light, silence visualized as heavy stone, industrial structure meeting natural harmony, stark balance",
+        "negative_prompt": "busy, chaotic, noisy, colorful, plastic, wood, traditional"
+    },
+    {
+        "name": "RM - Fusion - Cyber-Bedouin",
+        "prompt": "high-tech nomadic survivalism in a digital desert featuring {prompt} . flowing robes of solar-panel fabric, robotic prosthetic enhancements, tents woven from fiber-optic cables, dunes of crushed circuit boards, ancient tribal traditions adapted for the motherboard wasteland, wind-swept technological ruins, arid cybernetic atmosphere",
+        "negative_prompt": "city, urban, clean, studio, green, forest, water"
+    },
+    {
+        "name": "RM - Fusion - Gothic Tropical",
+        "prompt": "dark gothic architecture consumed by vibrant jungle featuring {prompt} . architectural buttresses of strangler figs, gargoyles carved from dripping palm wood, stained glass depicted in butterfly wings, moody fog mixing with tropical heat, vampire aesthetics in paradise, lush atmospheric decay",
+        "negative_prompt": "cold, stone only, grey, dry, winter, european, classic"
+    },
+    {
+        "name": "RM - Fusion - Candy Viscera",
+        "prompt": "anatomical horror made of confectionery for {prompt} . organs of gummy translucent gelatin, fluid strawberry syrup, bones of white chocolate, surgical incisions revealing layers of cake and fondant, grotesque sweetness, body horror made delicious, sticky tactile textures, unsettlingly appetizing",
+        "negative_prompt": "real gore, blood, scary, dark, metallic, industrial, rot"
+    },
+    {
+        "name": "RM - Fusion - Steampunk Kaiju",
+        "prompt": "giant monster movie meets victorian engineering depicting {prompt} . colossal monstrosity constructed from brass gears and steam pistons, destroying a clockwork city, smoke billowing from exhaust vents, hydraulic roaring, rivets popping under immense pressure, cinematic scale destruction, retro-tech nightmare",
+        "negative_prompt": "biological, flesh, modern city, lasers, aliens, sleek, clean"
+    },
+    {
+        "name": "RM - Fusion - Disco Slasher",
+        "prompt": "1970s funk energy meets 1980s horror violence version of {prompt} . stalking through a kaleidoscope of mirror ball reflections, blood spatter glittering like sequins, fabrics stained with fear, funky typography spelling out doom, groovy lighting highlighting a sharp blade, dance floor terror, stylish nightmare",
+        "negative_prompt": "modern, serious, dark, gothic, quiet, subtle, boring"
+    },
+    {
+        "name": "RM - Fusion - Bioluminescent Noir",
+        "prompt": "hardboiled detective aesthetic of {prompt} in a deep-sea trench . coats of translucent jellyfish skin, rain-slicked streets illuminated by anglerfish streetlamps, coral reef structures in eternal night, pressurized atmosphere, bioluminescent fluids, aquatic mystery, shadowy fluid crime, submerged noir",
+        "negative_prompt": "sunlight, dry, surface world, fire, smoke, dust, bright"
+    },
+    {
+        "name": "RM - Fusion - Renaissance Glitch",
+        "prompt": "classical oil painting of {prompt} corrupted by digital entropy . weeping pixelated tears, classical landscapes melting into datamoshed distortion, divine light turning into RGB signal noise, cracked varnish meeting JPEG artifacts, old master technique fractured by modern error, artistic disintegration",
+        "negative_prompt": "clean, perfect, hd, purely traditional, purely digital, smooth"
+    },
+    {
+        "name": "RM - Fusion - Quantum Abstract",
+        "prompt": "scientific visualization of {prompt} meets abstract expressionism . splashes of paint behaving like subatomic particles, brushstrokes forming event horizons, chaotic energy fields, probability clouds rendered in thick impasto, mathematical formulas exploding into color, physics as art, dynamic conceptualism",
+        "negative_prompt": "representational, realistic, portrait, landscape, calm, simple"
+    },
+    {
+        "name": "RM - Fusion - Aztec Synthwave",
+        "prompt": "ancient mesoamerican mythology of {prompt} in a retro-future grid . mythical forms of neon laser beams, stone pyramids floating in a magenta cyberscape, obsidian artifacts glowing with digital energy, ritual sacrifice on a CRT monitor, retro-tech gods, synthetic spirituality",
+        "negative_prompt": "historical, realistic, stone, dirt, jungle, brown, natural"
+    },
+    {
+        "name": "RM - Fusion - Rococo Horror",
+        "prompt": "pastel elegance of {prompt} hiding unspeakable terror . frilly fabrics stained with faint blood, porcelain figures with too many teeth, ghostly tea parties, ornate gold frames containing screaming faces, soft lighting illuminating macabre details, zombie aristocrat aesthetic, beautiful nightmare",
+        "negative_prompt": "dark, gritty, heavy, industrial, masculine, rough, ugly"
+    }
+]

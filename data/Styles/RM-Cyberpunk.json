@@ -1,0 +1,52 @@
+[
+    {
+        "name": "RM - Future - Cyberpunk (Classic)",
+        "prompt": "gritty cyberpunk city aesthetic of {prompt} . high tech low life, neon rain, towering skyscrapers, holographic ads, wet streets, jagged digital artifacts, Blade Runner atmosphere",
+        "negative_prompt": "sunny, bright, nature, clean, utopia, medieval, wood, stone"
+    },
+    {
+        "name": "RM - Future - Synthwave (Outrun)",
+        "prompt": "retro 80s synthwave style art of {prompt} . neon grids, magenta and cyan color palette, retro-futuristic sun, wireframe graphics, chrome reflections, vaporwave aesthetic, dreamlike",
+        "negative_prompt": "realistic, rusty, dirty, beige, earth tones, gritty, low contrast"
+    },
+    {
+        "name": "RM - Future - Steampunk",
+        "prompt": "intricate steampunk design of {prompt} . brass gears, copper pipes, steam powered machinery, victorian fashion, leather straps, clockwork mechanisms, industrial fantasy",
+        "negative_prompt": "plastic, neon, digital, modern, sci-fi, sleek, clean, minimalist"
+    },
+    {
+        "name": "RM - Future - Dieselpunk",
+        "prompt": "heavy dieselpunk illustration of {prompt} . 1940s war aesthetic, grime, oil stains, steel plating, rivets, internal combustion engines, smog, industrial warfare vibe",
+        "negative_prompt": "clean, eco-friendly, solar, bright, magic, fantasy, delicate"
+    },
+    {
+        "name": "RM - Future - Solarpunk",
+        "prompt": "optimistic solarpunk concept art of {prompt} . sustainable technology, art nouveau architecture integrated with nature, lush greenery, solar panels, stained glass, bright sunlight, utopian",
+        "negative_prompt": "pollution, grime, dark, dystopian, rusty, industrial, cyberpunk, neon"
+    },
+    {
+        "name": "RM - Future - Biopunk",
+        "prompt": "visceral biopunk art of {prompt} . organic technology, flesh and metal fusion, genetic engineering, Cronenberg aesthetic, wet textures, pulsating veins, eerie",
+        "negative_prompt": "clean, mechanical, dry, robot, hard edges, standard sci-fi"
+    },
+    {
+        "name": "RM - Future - Atompunk",
+        "prompt": "retro 1950s atompunk art of {prompt} . space age design, tailfins, chrome curves, rayguns, googie architecture, optimistic retro-future, Fallout pre-war aesthetic",
+        "negative_prompt": "gritty, cyberpunk, dark, digital, flat screens, modern, rusty"
+    },
+    {
+        "name": "RM - Future - Cassette Futurism",
+        "prompt": "lo-fi cassette futurism art of {prompt} . late 70s sci-fi aesthetic, chunky analog technology, CRT monitors with green text, beige plastic, magnetic tape, Alien (1979) tech style",
+        "negative_prompt": "touchscreens, holograms, sleak, blue led, modern, 4k, high resolution"
+    },
+    {
+        "name": "RM - Future - Y2K Aesthetic",
+        "prompt": "early 2000s Y2K aesthetic art of {prompt} . translucent colored plastic, blobject design, metallic chrome, iridescent textures, matrix code, optimistic digital era vibe",
+        "negative_prompt": "grunge, rusty, warm tones, wood, vintage, retro 80s"
+    },
+    {
+        "name": "RM - Future - Post-Apocalyptic",
+        "prompt": "desolate post-apocalyptic landscape of {prompt} . overgrown ruins, decay, rust, scavenged items, survivalist gear, muted earth tones, Last of Us aesthetic",
+        "negative_prompt": "clean, new, shiny, intact, bustling city, neon, futuristic"
+    }
+]

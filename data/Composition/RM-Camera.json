@@ -1,0 +1,197 @@
+[
+    {
+        "name": "RM - Camera - Aerial View",
+        "prompt": "high-altitude aerial photography of {prompt} . straight down bird's-eye view, drone perspective, map-like composition, flattened topography, vast scale, geometric landscape patterns, satellite aesthetic",
+        "negative_prompt": "ground level, horizon line, perspective, side view, macro, close up, isometric"
+    },
+    {
+        "name": "RM - Camera - Bokeh / Depth of Field",
+        "prompt": "photography of {prompt} with heavy bokeh . wide f/1.2 aperture, razor-sharp focal point, creamy diffused background, buttery soft blur, distinct subject separation, dreamy ethereal depth",
+        "negative_prompt": "flat focus, deep depth of field, sharp background, busy, cluttered, 2d"
+    },
+    {
+        "name": "RM - Camera - Close-Up Shot",
+        "prompt": "intimate close-up shot of {prompt} . framing the face or specific detail, capturing subtle emotions, shallow depth of field, intense focus, exclusion of background context, narrative intimacy",
+        "negative_prompt": "wide shot, full body, landscape, distant, establishing shot, busy background"
+    },
+    {
+        "name": "RM - Camera - Crane Shot",
+        "prompt": "sweeping crane shot of {prompt} . moving camera perspective from high to low or low to high, fluid vertical motion, cinematic grandeur, revealing the environment, epic scale",
+        "negative_prompt": "static, handheld, shaky, eye level, flat, restricted view"
+    },
+    {
+        "name": "RM - Camera - Cutaway Shot",
+        "prompt": "narrative cutaway shot of {prompt} . sudden shift to a specific detail or object, providing context, B-roll aesthetic, isolated focus, expository framing, distinct visual break",
+        "negative_prompt": "wide shot, master shot, main action, continuous take, complex scene"
+    },
+    {
+        "name": "RM - Camera - Disposable Camera",
+        "prompt": "90s disposable camera flash photo of {prompt} . harsh direct on-camera flash, deep fall-off shadows, heavy vignette, high-contrast lo-fi grain, amateur analog aesthetic, overexposed foreground",
+        "negative_prompt": "studio lighting, softbox, professional, hd, smooth, digital"
+    },
+    {
+        "name": "RM - Camera - Dolly Zoom (Vertigo Effect)",
+        "prompt": "disorienting dolly zoom shot of {prompt} . zolly effect, subject size remains constant while background perspective expands or contracts, cinematic tension, Vertigo effect, psychological unease",
+        "negative_prompt": "static, standard zoom, flat, normal perspective, stable"
+    },
+    {
+        "name": "RM - Camera - Dutch Angle",
+        "prompt": "dynamic dutch angle shot of {prompt} . radically tilted horizon, destabilized diagonal composition, disorienting perspective, psychological tension, frantic kinetic energy, unnerving visual imbalance",
+        "negative_prompt": "straight, level, symmetrical, balanced, calm, static, stable"
+    },
+    {
+        "name": "RM - Camera - Establishing Shot",
+        "prompt": "wide establishing shot of {prompt} . environmental context, distant framing, scene-setting composition, immense scale, narrative introduction, atmospheric breadth",
+        "negative_prompt": "close up, macro, detail shot, portrait, claustrophobic, vague"
+    },
+    {
+        "name": "RM - Camera - Fisheye / Wide Angle",
+        "prompt": "ultra wide angle fisheye lens shot of {prompt} . pronounced barrel distortion, exaggerated spherical perspective, immersive 10mm field of view, sweeping curved horizon, dynamic spatial expansion, hyper-real scale",
+        "negative_prompt": "telephoto, flat, compressed, zoom, macro, bokeh, standard"
+    },
+    {
+        "name": "RM - Camera - From Behind",
+        "prompt": "shot of {prompt} from behind . dorsal view, viewing the horizon, mysterious atmosphere, facing away from camera, anonymous subject, narrative anticipation, following shot",
+        "negative_prompt": "front view, face, portrait, selfie, eye contact, profile, side view"
+    },
+    {
+        "name": "RM - Camera - GoPro Action",
+        "prompt": "GoPro action camera shot of {prompt} . immersive POV perspective, ultra-wide barrel distortion, vibrant high-contrast clarity, hyper-kinetic energy, raw immediate presence, rugged durability aesthetic",
+        "negative_prompt": "telephoto, bokeh, studio, portrait, flat, painting"
+    },
+    {
+        "name": "RM - Camera - Handheld / Selfie",
+        "prompt": "handheld selfie shot of {prompt} . intimate wide-angle distortion, casual arm-length perspective, authentic slight motion blur, personal front-facing viewpoint, spontaneous candid aesthetic",
+        "negative_prompt": "tripod, professional, studio, cinematic, steady, perfect composition"
+    },
+    {
+        "name": "RM - Camera - High Angle",
+        "prompt": "high angle shot of {prompt} . steep downward perspective, diminishing scale, vast aerial overview, vulnerable isolation, comprehensive spatial context, sweeping top-down view",
+        "negative_prompt": "low angle, looking up, imposing, heroic, eye level, macro"
+    },
+    {
+        "name": "RM - Camera - Insert Shot",
+        "prompt": "focused insert shot of {prompt} . extreme attention to a specific prop or detail, narrative clue, exclusion of surrounding action, precise framing, significant object focus",
+        "negative_prompt": "wide angle, busy, messy, distracting background, full body"
+    },
+    {
+        "name": "RM - Camera - Isometric",
+        "prompt": "isometric view of {prompt} . orthographic parallel projection, diagonal 3/4 perspective, miniature diorama aesthetic, geometric rigidity, clean non-converging lines, structured spatial logic",
+        "negative_prompt": "perspective, vanishing point, horizon, eye level, realistic camera, distortion"
+    },
+    {
+        "name": "RM - Camera - Knolling (Flat Lay)",
+        "prompt": "knolling photography of {prompt} . precise overhead flat lay, meticulous grid arrangement, organized parallel alignment, deconstructed aesthetic, clean structured categorization, 90-degree top-down clarity",
+        "negative_prompt": "messy, perspective, side view, angled, chaotic, pile, random"
+    },
+    {
+        "name": "RM - Camera - Long Shot",
+        "prompt": "cinematic long shot of {prompt} . full body visibility with ample surrounding environment, placing subject in context, distant framing, narrative scale, spatial relationship",
+        "negative_prompt": "close up, tight framing, cropped, portrait, macro"
+    },
+    {
+        "name": "RM - Camera - Low Angle",
+        "prompt": "low angle shot of {prompt} . upward-facing perspective, imposing monumental scale, dominant heroic presence, dramatic vertical distortion, towering stature, grand cinematic height",
+        "negative_prompt": "top down, bird's eye view, eye level, neutral, shrinking, weak"
+    },
+    {
+        "name": "RM - Camera - Macro",
+        "prompt": "extreme close-up macro photography of {prompt} . microscopic definition, intricate textural revelation, shallow focal plane, 1:1 magnification, hyper-detailed surface analysis, unseen nuances",
+        "negative_prompt": "wide shot, landscape, blurry, low res, distant, full body"
+    },
+    {
+        "name": "RM - Camera - Medium Shot",
+        "prompt": "classic medium shot of {prompt} . framing from waist up, standard dialogue perspective, neutral distance, clear body language and facial expression, balanced composition",
+        "negative_prompt": "extreme close up, extreme long shot, distorted, abstract"
+    },
+    {
+        "name": "RM - Camera - Over the Shoulder",
+        "prompt": "over-the-shoulder shot of {prompt} . foreground framing element, deep cinematic layering, observational perspective, third-person immersion, depth-cued focus, narrative proximity",
+        "negative_prompt": "selfie, front view, solo, landscape, macro, flat"
+    },
+    {
+        "name": "RM - Camera - Panorama",
+        "prompt": "sweeping panoramic shot of {prompt} . ultra-wide aspect ratio, 180-degree field of view, encompassing horizon, epic scale, grand vista, seamless environmental context",
+        "negative_prompt": "square crop, portrait orientation, narrow, confined, macro, telephoto"
+    },
+    {
+        "name": "RM - Camera - POV (First Person)",
+        "prompt": "immersive point of view (POV) shot of {prompt} . first-person perspective, view from the eyes, hands or feet visible in foreground, immediate presence, experiential framing, VR aesthetic, interactive angle",
+        "negative_prompt": "third person, over the shoulder, distant, detached, selfie, portrait, studio"
+    },
+    {
+        "name": "RM - Camera - Reaction Shot",
+        "prompt": "emotional reaction shot of {prompt} . focus on facial response, capturing instantaneous emotion, sharp focus on eyes and expression, narrative pay-off, isolated human moment",
+        "negative_prompt": "wide shot, back of head, landscape, action blur, distant"
+    },
+    {
+        "name": "RM - Camera - Rule of Thirds",
+        "prompt": "cinematic composition of {prompt} using rule of thirds . offset focal point, balanced negative space, deliberate visual flow, dynamic asymmetrical equilibrium, narrative framing",
+        "negative_prompt": "centered, dead center, symmetrical, mugshot, passport photo, boring"
+    },
+    {
+        "name": "RM - Camera - Security Footage (CCTV)",
+        "prompt": "grainy CCTV security footage of {prompt} . elevated surveillance angle, digital timestamp overlay, desaturated low-fidelity noise, gritty monitoring aesthetic, raw unpolished reality, compression artifacts",
+        "negative_prompt": "hd, 4k, cinematic, beautiful, colorful, artistic, bokeh"
+    },
+    {
+        "name": "RM - Camera - Sideways (Profile)",
+        "prompt": "side profile shot of {prompt} . 90-degree lateral view, distinct silhouette, contour focus, neutral vertical alignment, mugshot profile aesthetic, flat depth",
+        "negative_prompt": "front view, ¾ view, facing camera, rotation, perspective, dynamic"
+    },
+    {
+        "name": "RM - Camera - Static Shot",
+        "prompt": "locked-off static shot of {prompt} . absolute camera stillness, observational distance, tableau aesthetic, lack of motion blur, deliberate framing, formal composition",
+        "negative_prompt": "handheld, shaky, motion blur, tracking, panning, dynamic"
+    },
+    {
+        "name": "RM - Camera - Symmetrical",
+        "prompt": "perfectly symmetrical composition of {prompt} . absolute mathematical centering, mirror-like equilibrium, formal geometric precision, static harmony, balanced structural integrity",
+        "negative_prompt": "asymmetrical, off-center, messy, dutch angle, rule of thirds, chaotic"
+    },
+    {
+        "name": "RM - Camera - Telephoto / Compression",
+        "prompt": "telephoto long lens shot of {prompt} . extreme lens compression, flattened spatial depth, intimate isolation, stacked visual planes, 200mm focal length aesthetic, focused cinematic intensity",
+        "negative_prompt": "wide angle, distorted, fisheye, vast background, distance, small subject"
+    },
+    {
+        "name": "RM - Camera - Thermal Imaging",
+        "prompt": "thermal imaging camera shot of {prompt} . infrared heat signature mapping, spectrum of cold blues to searing whites, temperature-based contrast, glowing silhouette outlines, scientific visualization",
+        "negative_prompt": "natural light, realistic colors, texture, shadow, reflection"
+    },
+    {
+        "name": "RM - Camera - Tilt-Shift",
+        "prompt": "tilt-shift photography of {prompt} . selective focus plane, miniature faking effect, blurred top and bottom, toy-like scale, diorama aesthetic, distinct optical blur",
+        "negative_prompt": "sharp, deep focus, realistic scale, flat, standard lens, massive"
+    },
+    {
+        "name": "RM - Camera - Tracking Shot",
+        "prompt": "smooth tracking shot of {prompt} . camera moving alongside subject, maintaining constant distance, fluid lateral motion, cinematic flow, immersive following perspective",
+        "negative_prompt": "static, shaky, handheld, zoom, cut, stationary"
+    },
+    {
+        "name": "RM - Camera - Two Shot",
+        "prompt": "cinematic two shot of {prompt} . framing two subjects together, interaction and dialogue focus, mid-shot composition, relationship dynamic, balanced spacing, narrative connection",
+        "negative_prompt": "solo, single subject, crowd, landscape, extreme close up, isolation"
+    },
+    {
+        "name": "RM - Camera - Upside Down",
+        "prompt": "disorienting upside-down shot of {prompt} . inverted horizon, gravity-defying perspective, ceiling view, hanging composition, surreal orientation, inverted reality",
+        "negative_prompt": "right side up, normal, grounded, standard, balanced, stable"
+    },
+    {
+        "name": "RM - Camera - Vanishing Point",
+        "prompt": "one-point perspective shot of {prompt} . strong leading lines converging to a single center point, infinite depth, tunnel vision, architectural symmetry, Stanley Kubrick corridor aesthetic, deep focus",
+        "negative_prompt": "flat, 2d, shallow depth of field, chaotic, messy, dutch angle, asymmetrical"
+    },
+    {
+        "name": "RM - Camera - Whip Pan",
+        "prompt": "dynamic whip pan shot of {prompt} . horizontal motion blur, streaking lights, high velocity, kinetic energy, directional speed, action movie aesthetic, rushing movement",
+        "negative_prompt": "static, frozen, still, sharp, clear, tripod, calm, slow"
+    },
+    {
+        "name": "RM - Camera - Worm's Eye View",
+        "prompt": "extreme worm's-eye view of {prompt} . camera placed at ground level looking straight up, exaggerated verticality, looming subject, giant scale, ant's view perspective, dramatic height",
+        "negative_prompt": "eye level, high angle, bird's eye, neutral, downward, top down"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "name": "RM - Material - Bubble Gum",
+        "prompt": "pink bubble gum sculpture of {prompt} . matte pink texture, soft inflated shapes, stretchy and pliable look, pop art aesthetic, playful and sweet, blown bubble details, sticky surface",
+        "negative_prompt": "metallic, sharp, jagged, dark, gritty, transparent, glass, hard, rough"
+    },
+    {
+        "name": "RM - Material - Candy / Gummy",
+        "prompt": "translucent gummy candy sculpture of {prompt} . sugar coated, gelatinous texture, subsurface scattering, vibrant fruit colors, Haribo aesthetic, edible look",
+        "negative_prompt": "opaque, metal, wood, rock, dry, matte, savory"
+    },
+    {
+        "name": "RM - Material - Cloud Formation",
+        "prompt": "subject made of fluffy white clouds {prompt} . cumulus texture, blue sky background, soft edges, pareidolia effect, airy and ethereal, meteorological art",
+        "negative_prompt": "solid, hard, heavy, dark, rock, metal, ground"
+    },
+    {
+        "name": "RM - Material - Embroidery",
+        "prompt": "embroidered fabric patch of {prompt} . raised thread texture, stitched patterns, woven cloth background, vibrant thread colors, tactile needlework",
+        "negative_prompt": "flat, printed, smooth, shiny, liquid, stone, photo, realistic"
+    },
+    {
+        "name": "RM - Material - Glass",
+        "prompt": "crystal clear glass sculpture of {prompt} . high refractive index, distortion and caustics, pristine transparency, sharp glossy reflections, fragile elegance, hand-blown craftsmanship, optical clarity",
+        "negative_prompt": "opaque, plastic, metal, wood, matte, dull, fuzzy, rough"
+    },
+    {
+        "name": "RM - Material - Gold Leaf",
+        "prompt": "gilded gold leaf art of {prompt} . flaking gold texture, metallic shine, rich yellow tones, byzantine icon aesthetic, textured background, opulence",
+        "negative_prompt": "silver, matte, dull, plastic, modern, flat color, grey"
+    },
+    {
+        "name": "RM - Material - Ice Carving",
+        "prompt": "translucent ice carving of {prompt} . melting texture, refractive light, cold atmosphere, frozen water, crystalline details, shiny, slick",
+        "negative_prompt": "warm, opaque, wood, stone, fire, dry, fuzzy, matte"
+    },
+    {
+        "name": "RM - Material - Latte Art",
+        "prompt": "coffee foam latte art of {prompt} . poured milk foam on espresso, creamy brown and white textures, barista skill, liquid surface, cafe aesthetic, top down view",
+        "negative_prompt": "solid, dry, metal, plastic, sharp, 3d render, illustration"
+    },
+    {
+        "name": "RM - Material - Liquid Metal",
+        "prompt": "liquid metal sculpture of {prompt} . chrome reflection, fluid mercury texture, melting and dripping, terminator T-1000 aesthetic, mirror finish, futuristic",
+        "negative_prompt": "matte, dry, rusty, wood, paper, fabric, rough, textured"
+    },
+    {
+        "name": "RM - Material - Marble Statue",
+        "prompt": "classical marble statue of {prompt} . white carrara marble, smooth stone texture, museum lighting, renaissance sculpture, heavy and solid, detailed drapery",
+        "negative_prompt": "color, flesh, skin, realistic, warm, soft, fuzzy, plastic"
+    },
+    {
+        "name": "RM - Material - Mosaic",
+        "prompt": "ancient roman mosaic of {prompt} . small colored stone tesserae, grout lines, fragmented image, decorative pattern, textured surface, historical artifact",
+        "negative_prompt": "smooth, digital, high resolution, photo, 3d render, vector"
+    },
+    {
+        "name": "RM - Material - Needlefelt",
+        "prompt": "needlefelted wool craft of {prompt} . fuzzy texture, soft fibers, cute and round, visible stray hairs, handmade felt, warm and cozy, tactile",
+        "negative_prompt": "hard, shiny, smooth, metal, plastic, wet, sharp, realistic"
+    },
+    {
+        "name": "RM - Material - Origami",
+        "prompt": "origami paper art of {prompt} . folded paper, sharp creases, geometric planes, paper texture, handmade, japanese craft, minimalist construction, shadow depth",
+        "negative_prompt": "smooth, curved, realistic, metal, plastic, liquid, messy"
+    },
+    {
+        "name": "RM - Material - Porcelain",
+        "prompt": "delicate porcelain sculpture of {prompt} . glossy white ceramic, blue painted details, smooth glaze, fragile, fine china aesthetic, ming vase style",
+        "negative_prompt": "rough, matte, fuzzy, dirt, rock, metal, plastic, dark"
+    },
+    {
+        "name": "RM - Material - Rough Concrete",
+        "prompt": "rough derelict concrete texture of {prompt} . cracked and stained cement, brutalist decay, exposed rebar, weathering, industrial ruin aesthetic, raw construction material, eroded surface, heavy texture",
+        "negative_prompt": "smooth, polished, clean, marble, new, shiny, painted, pristine, flat"
+    },
+    {
+        "name": "RM - Material - Rusty Metal",
+        "prompt": "heavily rusted metal sculpture of {prompt} . oxidized iron texture, flaking corrosion, orange and brown patina, industrial decay, weathered steel, rough surface, ancient machinery aesthetic",
+        "negative_prompt": "shiny, new, polished, smooth, clean, chrome, silver, plastic, glass"
+    },
+    {
+        "name": "RM - Material - Smoke",
+        "prompt": "shape formed from swirling smoke of {prompt} . wispy, ethereal, translucent, grey and white volumetric fog, fading edges, ghost-like, airy",
+        "negative_prompt": "solid, heavy, hard edges, colorful, geometric, defined, sharp"
+    },
+    {
+        "name": "RM - Material - Stained Glass",
+        "prompt": "stained glass window design of {prompt} . vibrant translucent colors, black lead cames, backlit, church window aesthetic, fragmented light, bold outlines",
+        "negative_prompt": "3d, realistic, photo, soft, fuzzy, opaque, modern, plastic"
+    },
+    {
+        "name": "RM - Material - Translucent Plastic",
+        "prompt": "translucent frosted plastic object of {prompt} . semi-transparent material, soft subsurface light diffusion, smooth matte finish, injection molded aesthetic, contemporary product design, ethereal haze, soft tactile feel",
+        "negative_prompt": "opaque, solid, metal, wood, rock, high contrast, sharp reflections"
+    },
+    {
+        "name": "RM - Material - Wood Carving",
+        "prompt": "intricate wood carving of {prompt} . visible wood grain, chisel marks, varnished oak, rustic, totem pole aesthetic, solid and heavy, hand carved",
+        "negative_prompt": "plastic, metal, shiny, smooth, glass, liquid, soft, neon"
+    },
+{
+        "name": "RM - Material - Bioluminescent Fungi",
+        "prompt": "bioluminescent organic mushroom texture of {prompt} . glowing fungal surface, spongy porous details, vibrant neon spores, alien flora aesthetic, pulsating light, damp organic matter",
+        "negative_prompt": "metal, dry, stone, plastic, artificial, sharp, geometric, dull"
+    },
+    {
+        "name": "RM - Material - Circuit Board",
+        "prompt": "electronic circuit board sculpture of {prompt} . green PCB material, gold conductive traces, soldered components, microchips and capacitors, tech-hardware aesthetic, rigid and flat",
+        "negative_prompt": "organic, soft, fluid, round, natural, fuzzy, messy, liquid"
+    },
+    {
+        "name": "RM - Material - Crumpled Aluminum Foil",
+        "prompt": "crumpled aluminum foil sculpture of {prompt} . highly reflective silver texture, chaotic creases and folds, sharp angular highlights, metallic sheen, kitchen foil aesthetic, lightweight and thin",
+        "negative_prompt": "smooth, flat, matte, fabric, heavy, stone, transparent, liquid"
+    },
+    {
+        "name": "RM - Material - Soap Bubble",
+        "prompt": "iridescent soap bubble form of {prompt} . thin film interference, rainbow reflections, extremely fragile, spherical distortion, transparent liquid surface, floating and airy",
+        "negative_prompt": "solid, heavy, opaque, matte, rock, wood, metal, sharp"
+    },
+    {
+        "name": "RM - Material - Chainmail",
+        "prompt": "interlocking metal chainmail armor of {prompt} . woven steel rings, medieval armor aesthetic, flexible metallic fabric, shiny iron texture, repetitive geometric pattern, heavy protection",
+        "negative_prompt": "solid plate, organic, skin, soft, fragile, glass, plastic, wood"
+    },
+    {
+        "name": "RM - Material - Neon Tube",
+        "prompt": "glowing neon glass tube art of {prompt} . bent glass tubing, bright electrified gas, sign art aesthetic, dark background for contrast, vibrant light emission, smooth curves",
+        "negative_prompt": "unlit, matte, rough, stone, wood, fabric, flat, dark"
+    },
+    {
+        "name": "RM - Material - Polished Obsidian",
+        "prompt": "carved volcanic obsidian sculpture of {prompt} . glossy black glass, sharp conchoidal fractures, volcanic rock texture, mysterious dark reflection, deep black, heavy and cold",
+        "negative_prompt": "rough, matte, light color, white, plastic, soft, warm"
+    },
+    {
+        "name": "RM - Material - Knitted Wool",
+        "prompt": "chunky knitted wool texture of {prompt} . interlocking yarn loops, cozy sweater aesthetic, visible stitching patterns, soft fabric feel, warmth, handmade textile",
+        "negative_prompt": "smooth, hard, metal, plastic, glass, wet, sharp, rigid"
+    },
+    {
+        "name": "RM - Material - Topographic Paper",
+        "prompt": "layered topographic paper cut art of {prompt} . stacked colored paper sheets, depth contour lines, elevation map aesthetic, clean cut edges, drop shadows between layers, dimensional relief",
+        "negative_prompt": "flat, drawn, printed, messy, textureless, liquid, shiny"
+    },
+    {
+        "name": "RM - Material - Voxel Lego",
+        "prompt": "plastic brick construction of {prompt} . assembled from small studded blocks, lego aesthetic, vibrant primary colors, grid-based structure, toy-like appearance, rigid geometry",
+        "negative_prompt": "curved, smooth, melted, organic, realistic, soft, fluid"
+    },
+    {
+        "name": "RM - Material - Ivory Carving",
+        "prompt": "intricate carved ivory sculpture of {prompt} . creamy white antique color, smooth polished surface, subtle Schreger lines texture, delicate craftsmanship, precious material aesthetic, soft luster",
+        "negative_prompt": "plastic, bone, rough, dark, heavy, stone, metal, industrial"
+    },
+    {
+        "name": "RM - Material - Polished Ebony",
+        "prompt": "carved ebony wood sculpture of {prompt} . deep dense black wood, fine grain texture, satin polished finish, heavy and hard material, elegant dark aesthetic, mysterious",
+        "negative_prompt": "light wood, pine, oak, plastic, painted, transparent, rough, soft"
+    },
+    {
+        "name": "RM - Material - Ebony & Ivory Inlay",
+        "prompt": "combined ebony and ivory marquetry of {prompt} . high contrast black and white materials, intricate inlay patterns, dual-tone aesthetic, luxurious craftsmanship, seamless interlocking joinery, refined ornamental inlaid elegance, smooth surface",
+        "negative_prompt": "grey, monochrome, painted, plastic, fuzzy, rough, messy, singular material"
+    },
+    {
+        "name": "RM - Material - Polished Mahogany",
+        "prompt": "polished mahogany wood masterpiece of {prompt} . rich reddish-brown timber, deep swirling wood grain, high-gloss varnish, victorian furniture aesthetic, warm and heavy, luxury woodwork",
+        "negative_prompt": "raw wood, splintered, matte, pale, pine, plywood, rustic, unfinished"
+    },
+    {
+        "name": "RM - Material - Skeletal Bone",
+        "prompt": "intricate skeletal bone structure of {prompt} . bleached calcified texture, porous surface details, fused joints and vertebrae, ossuary aesthetic, off-white organic material, brittle and ancient",
+        "negative_prompt": "flesh, skin, blood, meat, soft, wet, shiny, metal, plastic, modern, clean, smooth"
+    }
+]

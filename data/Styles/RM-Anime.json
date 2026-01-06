@@ -1,0 +1,177 @@
+[
+    {
+        "name": "RM - Anime - Shonen",
+        "prompt": "classic shonen anime art of {prompt} . high-voltage kinetic energy, bold emphatic outlines, intense cel-shaded contrast, spirited atmosphere, vibrant primary saturation, passionate intensity, classic heroic aesthetic",
+        "negative_prompt": "soft, pastel, dreamy, romance, shoujo, delicate lines, watercolor"
+    },
+    {
+        "name": "RM - Anime - Shoujo",
+        "prompt": "beautiful shoujo anime art of {prompt} . ethereal romantic atmosphere, delicate diaphanous linework, soft pastel luminescence, dreamy sentimental aesthetic, decorative floral motifs, airy lightness, shimmering emotional depth",
+        "negative_prompt": "thick lines, gritty, dark, horror, action, masculine, heavy shadows"
+    },
+    {
+        "name": "RM - Anime - Cyberpunk Edge",
+        "prompt": "futuristic cyberpunk anime style of {prompt} . hyper-chromatic neon saturation, digital distortion, aggressive high-tech aesthetic, phosphorescent lighting, glitch artifacts, deep synthetic contrasts, futuristic dystopia vibe",
+        "negative_prompt": "natural, rustic, vintage, soft, watercolor, fantasy, medieval"
+    },
+    {
+        "name": "RM - Anime - Dark Fantasy",
+        "prompt": "gritty dark fantasy anime art of {prompt} . oppressive desaturated atmosphere, heavy ink cross-hatching, gritty visceral texture, grim solemnity, high-contrast shadow play, raw intense brutality, sombre epic aesthetic",
+        "negative_prompt": "bright, colorful, cute, chibi, funny, slice of life, clean lines"
+    },
+    {
+        "name": "RM - Anime - Slice of Life",
+        "prompt": "gentle slice of life anime art of {prompt} . gentle ambient luminosity, soft naturalistic color palette, cozy heartwarming atmosphere, pristine visual clarity, sentimental everyday aesthetic, peaceful serene mood, delicate shading",
+        "negative_prompt": "dramatic, action, explosion, fantasy, sci-fi, horror, dark"
+    },
+    {
+        "name": "RM - Anime - Pop Art Vector",
+        "prompt": "vibrant pop art anime style of {prompt} . vibrant graphic impact, sharp vector flatness, bold geometric stylization, high-contrast chromatic blocks, stylish modern minimalism, rhythmic visual energy, punchy aesthetic",
+        "negative_prompt": "painterly, textured, realistic, 3d, gradient, soft, watercolor"
+    },
+    {
+        "name": "RM - Anime - Isekai Fantasy",
+        "prompt": "polished isekai fantasy anime art of {prompt} . polished digital vibrance, magical luminous effects, high-fantasy adventure aesthetic, crisp clean linework, radiant saturation, immersive world-building atmosphere, gloss finish",
+        "negative_prompt": "dark, gritty, realistic, retro, grainy, horror, sketchy"
+    },
+    {
+        "name": "RM - Anime - Goth Loli",
+        "prompt": "gothic lolita anime style of {prompt} . victorian gothic elegance, ornate decorative complexity, somber monochrome with deep crimson accents, melancholy sophistication, intricate ornamental detailing, classical dark romance",
+        "negative_prompt": "sporty, casual, sci-fi, armor, plain, simple, bright neon"
+    },
+    {
+        "name": "RM - Anime - Thick Impasto",
+        "prompt": "anime oil painting style of {prompt} . expressive impasto texture, rich volumetric color, emotional painterly depth, tangible brushwork, sweeping artistic gestures, dramatic light interplay, heavy sentimental atmosphere",
+        "negative_prompt": "flat, vector, simple, cel shaded, digital, clean, shiny"
+    },
+    {
+        "name": "RM - Anime - Ink Wash (Sumi-e)",
+        "prompt": "traditional Japanese ink wash anime style of {prompt} . traditional monochromatic ink wash, fluid calligraphic strokes, minimalist negative space, varying line weight, organic textural roughness, dynamic flowing motion, zen aesthetic",
+        "negative_prompt": "colorful, digital, 3d, glossy, modern, sharp, neon"
+    },
+    {
+        "name": "RM - Anime - Studio Ghibli",
+        "prompt": "a whimsical anime art piece of {prompt} in the style of Studio Ghibli . whimsical hand-painted warmth, soft watercolor textures, nostalgic pastoral atmosphere, gentle emotional depth, intricate environmental richness, organic color palette, enchanting storytelling vibe",
+        "negative_prompt": "3d render, plastic, neon, sharp edges, futuristic, dark, gritty, horror"
+    },
+    {
+        "name": "RM - Anime - Makoto Shinkai",
+        "prompt": "a breathtaking anime wallpaper of {prompt} in the style of Makoto Shinkai . hyper-luminous visual fidelity, breathtaking atmospheric lighting, brilliant lens flare effects, emotive high-contrast vibrance, cinematic depth, crystal-clear radiance, sentimental grandeur",
+        "negative_prompt": "flat color, dull, low resolution, sketch, simple background, matte"
+    },
+    {
+        "name": "RM - Anime - Kyoto Animation",
+        "prompt": "a high-quality anime illustration of {prompt} by Kyoto Animation . exquisite production value, soft emotional luminosity, glossy high-fidelity shading, vibrant sentimental aesthetic, fluid motion blur, pristine clarity, heartwarming atmosphere",
+        "negative_prompt": "rough sketch, ugly, distorted face, horror, dark, gritty, western cartoon"
+    },
+    {
+        "name": "RM - Anime - Studio Trigger",
+        "prompt": "a dynamic and bold anime illustration of {prompt} by Studio Trigger . explosive dynamic energy, sharp angular geometry, hyper-vibrant neon palette, exaggerated perspective, raw sketchy intensity, frantic visual rhythm, bold stylistic impact",
+        "negative_prompt": "photorealistic, soft, blurry, watercolor, calm, boring, flat"
+    },
+    {
+        "name": "RM - Anime - Production I.G",
+        "prompt": "high-tech anime imagery of {prompt} by Production I.G . sophisticated high-tech atmosphere, cool atmospheric lighting, advanced digital compositing, crisp mechanical precision, gritty sci-fi realism, intellectual depth, polished cinematic tone",
+        "negative_prompt": "sketch, loose lines, chibi, cute, flat color, low budget"
+    },
+    {
+        "name": "RM - Anime - MAPPA",
+        "prompt": "a intense and dynamic anime illustration of {prompt} by MAPPA . intense cinematic dynamism, high-contrast dramatic shading, fluid motion blur, gritty textural realism, dark mature atmosphere, high-octane visual energy, sharp detailed focus",
+        "negative_prompt": "static, boring, flat, soft, shoujo, vintage, washed out"
+    },
+    {
+        "name": "RM - Anime - Ufotable",
+        "prompt": "an epic anime battle scene of {prompt} by Ufotable . digital particle spectacle, lush dynamic lighting, fluid combat choreography aesthetic, deep rich color saturation, cinematic composition, intricate visual effects, epic grandeur",
+        "negative_prompt": "static, boring, low quality, pale, washed out, sketch"
+    },
+    {
+        "name": "RM - Anime - Studio Shaft",
+        "prompt": "avant-garde anime art of {prompt} by Studio Shaft . avant-garde surrealism, abstract geometric patterns, sharp sterile focus, experimental composition, psychological intensity, minimalist symbolist aesthetic, eccentric visual flair",
+        "negative_prompt": "realistic, boring, standard, messy, blurry, photograph, western cartoon"
+    },
+    {
+        "name": "RM - Anime - Madhouse",
+        "prompt": "a dark and edgy anime style illustration of {prompt} by Madhouse . dark psychological intensity, deep oppressive shadows, bold dramatic linework, edgy thriller atmosphere, high-tension composition, mature serious tone, gritty detailed shading",
+        "negative_prompt": "moe, cute, fluffy, bright, sunny, low resolution"
+    },
+    {
+        "name": "RM - Anime - Wit Studio",
+        "prompt": "a highly polished anime still of {prompt} by Wit Studio . highly polished cinematic fidelity, thick defining linework, vibrant grounded color palette, depth-cued focus, dramatic atmospheric lighting, rich textural quality, epic scale",
+        "negative_prompt": "flat, vector, simple, ugly, distorted, bad anatomy"
+    },
+    {
+        "name": "RM - Anime - 1990s Cel Shaded",
+        "prompt": "a classic 1990s anime still of {prompt} . classic vintage aesthetic, authentic cel-shaded flatness, bold matte colors, slight analog grain, nostalgic broadcast quality, sharp shadows, retro anime charm",
+        "negative_prompt": "3d, cgi, modern digital drawing, smooth shading, hyperrealistic, 4k"
+    },
+    {
+        "name": "RM - Anime - 1980s Retro VHS",
+        "prompt": "a retro 1980s anime screenshot of {prompt} . retro analog warmth, VHS magnetic tape artifacts, slight chromatic aberration, soft bloom lighting, deep shadowed contrast, hand-drawn graininess, nostalgic cyberpunk atmosphere",
+        "negative_prompt": "modern, digital, vector, clean, 4k, bright, colorful, moe"
+    },
+    {
+        "name": "RM - Anime - 1970s Vintage",
+        "prompt": "vintage 1970s anime style art of {prompt} . antique hand-painted cel animation, muted earth tone palette, low-fidelity analog warmth, scratchy film texture, nostalgic retro charm, soft washed-out look, classic simplicity",
+        "negative_prompt": "digital, neon, 4k, hd, modern, glossy, 3d, cgi"
+    },
+    {
+        "name": "RM - Anime - Ukiyo-e Style",
+        "prompt": "traditional Japanese woodblock print of {prompt} . traditional woodblock print texture, flat dimensional perspective, bold calligraphic outlines, textured washi paper grain, historical Edo aesthetic, stylized decorative composition",
+        "negative_prompt": "photorealistic, 3d, shiny, glossy, digital painting, anime, modern"
+    },
+    {
+        "name": "RM - Anime - Watercolor",
+        "prompt": "soft anime watercolor painting of {prompt} . ethereal wet-on-wet blending, translucent color bleeding, organic paper texture, soft dreamy atmosphere, delicate artistic touches, gentle pastel tones, romantic haziness",
+        "negative_prompt": "sharp, vector, digital, neon, bold lines, black ink"
+    },
+    {
+        "name": "RM - Anime - Silhouette",
+        "prompt": "high contrast anime silhouette art of {prompt} . stark monochromatic contrast, minimalist vector precision, sharp defining edges, absolute shadow play, dramatic graphic impact, two-tone aesthetic, bold visual clarity",
+        "negative_prompt": "detailed, texture, shading, realism, 3d, gradient"
+    },
+    {
+        "name": "RM - Anime - Chibi",
+        "prompt": "a cute chibi sticker design of {prompt} . playful kawaii distortion, simplified vector linework, flat vibrant coloring, expressive caricature style, bold sticker-like borders, whimsical charm, miniature aesthetic",
+        "negative_prompt": "realistic, detailed, scary, dark, complex, background"
+    },
+    {
+        "name": "RM - Anime - Mecha",
+        "prompt": "a high-detail mecha anime concept of {prompt} . hard-surface industrial texture, intricate mechanical complexity, futuristic engineering aesthetic, metallic sheen, sharp angular geometry, high-tech precision, heavy robotic atmosphere",
+        "negative_prompt": "organic, soft, flesh, fantasy, magic, blurry"
+    },
+    {
+        "name": "RM - Anime - Araki Style (JoJo)",
+        "prompt": "menacing anime art of {prompt} in the style of Hirohiko Araki . hyper-stylized dramatic flair, heavy intense shading, bizarre fashion aesthetic, vivid surreal color shifts, bold distinct linework, flamboyant energy, menacing atmospheric tension",
+        "negative_prompt": "soft, moe, gentle, slice of life, cute, simple, flat"
+    },
+    {
+        "name": "RM - Anime - Oda Style (One Piece)",
+        "prompt": "energetic anime art of {prompt} in the style of Eiichiro Oda . exuberant dynamic energy, exaggerated fluid forms, vibrant adventurous atmosphere, whimsical chaotic clutter, distinct hatching texture, boundless spirited aesthetic, expressive distortion",
+        "negative_prompt": "serious, dark, gritty, realistic, stiff, boring, noir"
+    },
+    {
+        "name": "RM - Anime - Studio Orange (3D/2D Hybrid)",
+        "prompt": "cinematic 3D anime render of {prompt} by Studio Orange . cinematic 3D/2D hybrid rendering, fluid motion capture smoothness, dynamic volumetric lighting, high-fidelity CGI texture, cel-shaded depth, polished digital atmosphere",
+        "negative_prompt": "flat 2d, traditional cel, sketchy, stiff, low poly, standard anime"
+    },
+    {
+        "name": "RM - Anime - Toriyama Style (Dragon Ball)",
+        "prompt": "classic shonen anime art of {prompt} in the style of Akira Toriyama . classic retro-shonen energy, angular geometric forms, clean bold linework, solid distinct coloring, dynamic kinetic impact, mechanical precision, spirited adventurous vibe",
+        "negative_prompt": "soft, shoujo, flower bubbles, watercolor, realistic, painterly"
+    },
+    {
+        "name": "RM - Anime - Panty & Stocking (Cartoon)",
+        "prompt": "stylized cartoon anime art of {prompt} . stylized western-cartoon fusion, thick vector outlines, angular blocky geometry, vibrant flat color fields, anarchic pop-art energy, rhythmic visual chaos, bold graphic simplicity",
+        "negative_prompt": "detailed, shading, gradient, realistic, anime, soft, watercolor"
+    },
+    {
+        "name": "RM - Anime - City Pop (80s Album Cover)",
+        "prompt": "retro 80s city pop anime illustration of {prompt} . retro 80s urban nostalgia, bright summery luminance, clean crisp linework, refreshing breezy atmosphere, vibrant saturated pop colors, vintage album cover aesthetic, optimistic vibe",
+        "negative_prompt": "dark, night, cyberpunk, neon, gritty, horror, sad"
+    },
+    {
+        "name": "RM - Anime - Niji Style",
+        "prompt": "high-budget niji anime illustration of {prompt} . hyper-detailed digital painting, dramatic cinematic lighting, rich volumetric color gradients, exquisite character design, atmospheric depth, polished promotional art quality, 4k visual fidelity",
+        "negative_prompt": "sketch, low budget, unfinished, flat, blurry, amateur, dull, pixelated"
+    }
+]

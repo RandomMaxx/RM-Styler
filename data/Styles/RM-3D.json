@@ -1,0 +1,67 @@
+[
+    {
+        "name": "RM - 3D - 16-bit Sprite (Pre-rendered)",
+        "prompt": "pre-rendered 3d sprite of {prompt} . Donkey Kong Country style, silicon graphics aesthetic, dithering, limited color palette, 90s cgi converted to pixel art",
+        "negative_prompt": "vector, hd, modern 3d, cel shaded, anime, drawing, sketch"
+    },
+    {
+        "name": "RM - 3D - Bronze Cast",
+        "prompt": "digital 3d bronze casting of {prompt} . oxidized metal texture, subsurface scattering, ambient occlusion, museum display lighting, heavy metallic aesthetic",
+        "negative_prompt": "plastic, flesh, glass, lightweight, colorful, anime, 2d"
+    },
+    {
+        "name": "RM - 3D - Cel Shaded (Anime 3D)",
+        "prompt": "cel-shaded 3d model of {prompt} . flat anime shading, sharp outlines, vibrant colors, Genshin Impact or Guilty Gear Strive aesthetic, arc system works style, clean geometry",
+        "negative_prompt": "photorealistic, hyperrealistic, noise, gritty, raytracing, ambient occlusion, heavy shadows"
+    },
+    {
+        "name": "RM - 3D - Claymation",
+        "prompt": "stop-motion clay animation of {prompt} . Aardman style, plasticine texture, visible fingerprints, handmade feel, slightly jerky movement blur, miniature photography aesthetic",
+        "negative_prompt": "smooth, digital, cgi, 2d, vector, anime, flat, glossy"
+    },
+    {
+        "name": "RM - 3D - Glassmorphism",
+        "prompt": "3d glassmorphism render of {prompt} . frosted glass layers, translucent materials, soft diffuse lighting, pastel gradients, modern UI design aesthetic, smooth curves",
+        "negative_prompt": "opaque, metal, wood, rock, sharp, gritty, high contrast, industrial"
+    },
+    {
+        "name": "RM - 3D - Isometric Diorama",
+        "prompt": "3d isometric diorama of {prompt} . miniature blind box toy aesthetic, orthographic camera view, soft global illumination, clean blender render, cute and contained",
+        "negative_prompt": "perspective, wide angle, realistic scale, gritty, dark, messy, flat 2d"
+    },
+    {
+        "name": "RM - 3D - Low Poly",
+        "prompt": "low poly 3d art of {prompt} . faceted geometry, flat shading, retro video game aesthetic, minimalist, angular, vibrant colors, PlayStation 1 era graphics",
+        "negative_prompt": "high resolution, smooth, photorealistic, 4k, detailed texture, round"
+    },
+    {
+        "name": "RM - 3D - Octane Render",
+        "prompt": "hyper-realistic Octane Render of {prompt} . path traced, high contrast lighting, depth of field, caustic lighting, cinema 4d, glossy surfaces, studio lighting, highly detailed masterpiece",
+        "negative_prompt": "low res, flat, noise, grain, blurry, sketch, 2d, illustration"
+    },
+    {
+        "name": "RM - 3D - Pixar Style",
+        "prompt": "3d animated feature film still of {prompt} by Pixar . subsurface scattering, cute proportions, vibrant lighting, expressive faces, render man engine, Disney aesthetic, high fidelity",
+        "negative_prompt": "2d, sketch, anime, gritty, dark, realistic, horror, rough"
+    },
+    {
+        "name": "RM - 3D - PS1 Retro",
+        "prompt": "retro PS1 era 3d graphics of {prompt} . jagged edges, unfiltered pixel textures, low polygon count, affine texture mapping, jittery polygons, CRT screen effect, 1990s video game",
+        "negative_prompt": "anti-aliasing, 4k, smooth, high res, stable, modern, photorealistic"
+    },
+    {
+        "name": "RM - 3D - Unreal Engine 5",
+        "prompt": "next-gen video game screenshot of {prompt} . Unreal Engine 5 render, lumen global illumination, nanite geometry, ray tracing, hyper-realistic, 8k, cinematic composition",
+        "negative_prompt": "low res, blurry, cartoon, 2d, sketch, painting, watercolor"
+    },
+    {
+        "name": "RM - 3D - Voxel Art",
+        "prompt": "voxel art isometric view of {prompt} . cube-based geometry, MagicaVoxel render, tilt-shift effect, cute, clean, Minecraft aesthetic, lego-like",
+        "negative_prompt": "curved, round, organic, smooth, high resolution, 2d, messy"
+    },
+    {
+        "name": "RM - 3D - ZBrush Sculpt",
+        "prompt": "digital ZBrush clay sculpt of {prompt} . monochromatic grey matcap, high poly geometry, intricate surface detailing, unfinished digital clay aesthetic, character artist concept",
+        "negative_prompt": "textured, colored, low poly, smooth, blurry, photo, 2d"
+    }
+]

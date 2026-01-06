@@ -1,0 +1,37 @@
+[
+    {
+        "name": "RM - FX - Datamosh",
+        "prompt": "datamoshed digital art of {prompt} . video compression artifacts, pixel bleeding, melting pixels, glitch art, broken video file aesthetic, surreal distortion",
+        "negative_prompt": "clean, sharp, high res, perfect, analog, painting"
+    },
+    {
+        "name": "RM - FX - Thermal Vision",
+        "prompt": "thermal camera imaging of {prompt} . predator vision, heat map colors (blue to red to yellow), high contrast, scientific visualization, glowing heat signatures",
+        "negative_prompt": "natural colors, lighting, texture, shadows, realistic"
+    },
+    {
+        "name": "RM - FX - ASCII Art",
+        "prompt": "complex ASCII art of {prompt} . image created entirely from text characters, green on black terminal, retro hacker aesthetic, monospaced font texture",
+        "negative_prompt": "pixels, smooth, solid lines, painting, photo, color"
+    },
+    {
+        "name": "RM - FX - Double Exposure",
+        "prompt": "artistic double exposure photography of {prompt} . silhouette of subject filled with nature landscape, dreamy overlay, multiple exposure, True Detective intro aesthetic",
+        "negative_prompt": "single image, simple, standard photo, solid, opaque"
+    },
+    {
+        "name": "RM - FX - Glitch Art (Pixel Sort)",
+        "prompt": "pixel sorting glitch art of {prompt} . dragging vertical lines of pixels, data corruption, digital decay, aesthetic error, melting colors",
+        "negative_prompt": "clean, perfect, painting, analog, smooth, unbroken"
+    },
+    {
+        "name": "RM - FX - VHS Tracking",
+        "prompt": "bad VHS tracking error on {prompt} . horizontal static lines, color bleeding, warping at bottom of frame, magnetic tape noise, retro 80s home video aesthetic",
+        "negative_prompt": "dvd, digital, clean, 4k, sharp, stable"
+    },
+    {
+        "name": "RM - FX - CRT Monitor",
+        "prompt": "macro photography of CRT monitor showing {prompt} . visible RGB phosphor dots, scanlines, slight curvature, glowing pixels, retro technology aesthetic",
+        "negative_prompt": "lcd, led, flat screen, sharp, paper, print, matte"
+    }
+]

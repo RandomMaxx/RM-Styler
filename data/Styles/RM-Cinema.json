@@ -1,0 +1,97 @@
+[
+    {
+        "name": "RM - Cinema - Analog Film",
+        "prompt": "analog film photography of {prompt} . shot on Kodak Portra 400, distinctive film grain, soft optical focus, warm organic tones, nostalgic emulsion texture, 35mm aesthetic, subtle light leaks, authentic realism",
+        "negative_prompt": "digital, cgi, 3d render, sharp, high contrast, artificial, plastic, cartoon, anime"
+    },
+    {
+        "name": "RM - Cinema - Wes Anderson",
+        "prompt": "cinematic shot of {prompt} in the style of Wes Anderson . obsessive symmetrical composition, pastel color palette, quirky distinct framing, flat lighting, whimsical atmosphere, meticulous stylized aesthetic, art house vibe",
+        "negative_prompt": "dark, gritty, asymmetrical, messy, high contrast, action, horror"
+    },
+    {
+        "name": "RM - Cinema - Film Noir",
+        "prompt": "classic film noir movie still of {prompt} . high-contrast black and white, dramatic chiaroscuro lighting, deep mysterious shadows, slatted light patterns, cynical atmospheric mood, 1940s cinematic aesthetic",
+        "negative_prompt": "color, bright, happy, sunny, flat lighting, anime, cartoon, 3d"
+    },
+    {
+        "name": "RM - Cinema - Cyberpunk",
+        "prompt": "futuristic cyberpunk photography of {prompt} . neon atmospheric lighting, deep blue and pink hues, slick reflective textures, high tech low life vibe, cinematic depth of field, volumetric fog, digital distopia",
+        "negative_prompt": "daylight, sunny, nature, rustic, vintage, sepia, black and white"
+    },
+    {
+        "name": "RM - Cinema - Epic Fantasy",
+        "prompt": "epic fantasy movie still of {prompt} . sweeping atmospheric scale, rich earthy tones, highly detailed textures, dramatic lighting, grand cinematic scope, 8k resolution, legendary atmosphere",
+        "negative_prompt": "cartoon, anime, bright, neon, sci-fi, modern, clean, plastic"
+    },
+    {
+        "name": "RM - Cinema - Stanley Kubrick",
+        "prompt": "cinematic shot of {prompt} by Stanley Kubrick . unnerving one-point perspective, absolute symmetry, sterile clinical atmosphere, eerie calmness, deep depth of field, psychological detachment, precise composition",
+        "negative_prompt": "messy, handheld camera, shaky, low resolution, warm, cozy, cluttered"
+    },
+    {
+        "name": "RM - Cinema - Tim Burton",
+        "prompt": "dark fantasy movie still of {prompt} by Tim Burton . gothic expressionist aesthetic, twisted spiraling geometry, high contrast deep shadows, whimsical macabre atmosphere, moody theatrical lighting, stylized darkness",
+        "negative_prompt": "bright, sunny, cheerful, realistic, standard, boring, sci-fi, neon"
+    },
+    {
+        "name": "RM - Cinema - Quentin Tarantino",
+        "prompt": "stylized movie still of {prompt} by Quentin Tarantino . distinctive low angle perspective, saturated stylized colors, pulp aesthetic, 35mm film grain, intense cinematic coolness, sharp dialogue-scene vibe",
+        "negative_prompt": "digital, clean, fantasy, medieval, black and white, soft, dreamy"
+    },
+    {
+        "name": "RM - Cinema - David Fincher",
+        "prompt": "psychological thriller shot of {prompt} by David Fincher . clinical low-key lighting, desaturated green and yellow color grading, precise mechanical camera work, heavy shadows, gritty psychological realism, meticulous detail",
+        "negative_prompt": "bright, happy, pastel, comedic, fantasy, cartoon, oversaturated"
+    },
+    {
+        "name": "RM - Cinema - Jean-Pierre Jeunet",
+        "prompt": "whimsical french cinema shot of {prompt} by Jean-Pierre Jeunet . wide angle lens distortion, saturated golden and green palette, high contrast textures, eccentric detailed framing, magical realism, warm romantic atmosphere",
+        "negative_prompt": "blue, cold, standard lens, boring, flat, american blockbuster style"
+    },
+    {
+        "name": "RM - Cinema - Dario Argento",
+        "prompt": "Italian Giallo horror shot of {prompt} by Dario Argento . vibrant gelatin lighting, surreal neon reds and blues, nightmarish atmosphere, artistic horror tension, stylish composition, chromatic intensity",
+        "negative_prompt": "natural lighting, dull, brown, grey, found footage, realistic"
+    },
+    {
+        "name": "RM - Cinema - Denis Villeneuve",
+        "prompt": "grand scale sci-fi shot of {prompt} by Denis Villeneuve . imposing brutalist scale, dense atmospheric fog, monochromatic minimalist palette, immense visual weight, contemplative cinematic depth, stark composition",
+        "negative_prompt": "cluttered, colorful, busy, comedy, small scale, macro, vintage"
+    },
+    {
+        "name": "RM - Cinema - 1950s Technicolor",
+        "prompt": "vintage 1950s movie still of {prompt} . Three-Strip Technicolor process, hyper-saturated chromatic vibrancy, glamour studio lighting, deep focus, golden age cinematic polish, lush vivid tones",
+        "negative_prompt": "black and white, muted, desaturated, gritty, modern, digital, grain"
+    },
+    {
+        "name": "RM - Cinema - German Expressionism",
+        "prompt": "silent film horror still of {prompt} . German Expressionism style, high contrast stark black and white, jagged geometric distortion, surreal angular perspectives, dramatic painted shadows, psychological unease",
+        "negative_prompt": "color, realism, modern, straight lines, bright, soft, hd"
+    },
+    {
+        "name": "RM - Cinema - 1980s VHS Horror",
+        "prompt": "retro horror movie screenshot of {prompt} . VHS magnetic tape glitch effects, tracking lines, low resolution fuzz, harsh directional lighting, heavy grain, B-movie aesthetic, eerie analog texture",
+        "negative_prompt": "4k, hd, clean, digital, pristine, expensive, blockbuster"
+    },
+    {
+        "name": "RM - Cinema - Alfred Hitchcock",
+        "prompt": "classic thriller shot of {prompt} by Alfred Hitchcock . suspenseful voyeuristic composition, precise framing, sharp technicolor focus, psychological tension, master of suspense aesthetic, cinematic elegance",
+        "negative_prompt": "modern, action, shaky cam, dark, gritty, desaturated, horror"
+    },
+    {
+        "name": "RM - Cinema - Andrei Tarkovsky",
+        "prompt": "poetic cinema shot of {prompt} by Andrei Tarkovsky . contemplative long take, muted sepia and earth tones, metaphysical atmosphere, slow cinematic rhythm, tactile textural decay, dreamlike philosophical depth",
+        "negative_prompt": "fast paced, action, bright, comedy, clean, modern, hollywood"
+    },
+    {
+        "name": "RM - Cinema - George Miller",
+        "prompt": "high octane action shot of {prompt} by George Miller . saturated orange and teal contrast, kinetic motion blur, practical effects intensity, gritty post-apocalyptic energy, chaotic distinct clarity",
+        "negative_prompt": "calm, slow, dark, indoor, dialogue, clean, fantasy"
+    },
+    {
+        "name": "RM - Cinema - French New Wave",
+        "prompt": "French New Wave cinema shot of {prompt} . handheld camera spontaneity, jump cut aesthetic, available natural lighting, high-grain monochrome, rebellious cinematic freedom, raw authentic texture, cool detachment",
+        "negative_prompt": "studio lighting, steady cam, color, polished, blockbuster, expensive"
+    }
+]

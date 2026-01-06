@@ -1,0 +1,137 @@
+[
+    {
+        "name": "RM - Color - Teal and Orange",
+        "prompt": "cinematic teal and orange color grading of {prompt} . complementary color theory, warm luminous highlights, cool deep shadows, dramatic blue and amber contrast, hollywood blockbuster aesthetic, dynamic tonal separation",
+        "negative_prompt": "black and white, sepia, flat, pastel, monochromatic, dull, low contrast"
+    },
+    {
+        "name": "RM - Color - Vaporwave Neon",
+        "prompt": "vaporwave color palette of {prompt} . saturated cyan, magenta, and hot pink hues, fluorescent neon gradients, deep violet shadows, 1980s retro-digital aesthetic, high-chroma intensity, nostalgic synthetic vibes",
+        "negative_prompt": "earth tones, brown, beige, rustic, natural, dull, desaturated"
+    },
+    {
+        "name": "RM - Color - Pastel Dream",
+        "prompt": "soft pastel color palette of {prompt} . delicate pale pinks and baby blues, mint green accents, desaturated airy tones, dreamy ethereal atmosphere, soft low-contrast lighting, gentle romantic aesthetic",
+        "negative_prompt": "neon, dark, black, high contrast, gritty, harsh, saturated"
+    },
+    {
+        "name": "RM - Color - Monochromatic Red",
+        "prompt": "monochromatic red color palette of {prompt} . intense spectrum of crimson, scarlet, and burgundy, dramatic single-hue composition, high-impact saturation, psychological tension, visceral visual heat",
+        "negative_prompt": "blue, green, yellow, multicolor, rainbow, full color, pastel"
+    },
+    {
+        "name": "RM - Color - Earth Tones",
+        "prompt": "natural earth tone color palette of {prompt} . warm terracotta, muted olive green, and ochre hues, organic beige textures, rustic brown depth, grounded atmospheric warmth, harmonious natural aesthetic",
+        "negative_prompt": "neon, fluorescent, artificial, plastic, cold, blue, purple"
+    },
+    {
+        "name": "RM - Color - Black and White Noir",
+        "prompt": "high contrast black and white photography of {prompt} . deep inky blacks, brilliant white highlights, complete desaturation, dramatic chiaroscuro lighting, timeless film noir aesthetic, shadowy mystery",
+        "negative_prompt": "color, sepia, vintage, rainbow, pastel, faded"
+    },
+    {
+        "name": "RM - Color - Sin City (Spot Color)",
+        "prompt": "black and white art with a splash of red of {prompt} . stark grayscale composition, single isolated vivid red accent, selective color technique, high-contrast graphic novel aesthetic, dramatic visual isolation",
+        "negative_prompt": "full color, rainbow, muted, brown, sepia, blue, green"
+    },
+    {
+        "name": "RM - Color - Matrix Green",
+        "prompt": "digital green color grading of {prompt} . monochromatic phosphor green tint, terminal code aesthetic, cybernetic atmosphere, digital rain vibes, ominous sci-fi hue, high-tech dystopian mood",
+        "negative_prompt": "red, warm, sunny, orange, natural, healthy skin tones"
+    },
+    {
+        "name": "RM - Color - Infrared (False Color)",
+        "prompt": "infrared aerochrome photography of {prompt} . surreal color shifts, spectrum displacement, bubblegum pink and crimson hues, dreamlike false-color aesthetic, invisible light spectrum visualization, psychedelic atmosphere",
+        "negative_prompt": "natural green, realistic, standard, boring, digital, normal colors"
+    },
+    {
+        "name": "RM - Color - Cyberpunk",
+        "prompt": "nighttime cyberpunk color palette of {prompt} . deep indigo and violet darkness, piercing neon blue and pink highlights, uv-reactive luminescence, high-tech noir aesthetic, synthetic saturation",
+        "negative_prompt": "daylight, sun, yellow, beige, white, bright, rustic"
+    },
+    {
+        "name": "RM - Color - Sepia Vintage",
+        "prompt": "aged sepia tone photography of {prompt} . monochromatic amber and cream hues, faded archival look, antique paper texture, 19th-century aesthetic, warm nostalgic weathering, historical atmosphere",
+        "negative_prompt": "color, black and white, neon, modern, digital, cool tones"
+    },
+    {
+        "name": "RM - Color - Wes Anderson",
+        "prompt": "wes anderson color palette of {prompt} . distinctive pastel yellow, pink, and baby blue triad, flat lighting style, quirky vintage chromatic aesthetic, meticulous color coordination, whimsical warmth",
+        "negative_prompt": "dark, gritty, neon, high contrast, black shadows, messy"
+    },
+    {
+        "name": "RM - Epoch - Kodachrome 64",
+        "prompt": "vintage Kodachrome 64 photography of {prompt} . distinct red and yellow saturation, rich archival contrast, sharp fine film grain, iconic journalistic aesthetic, deep color density, lifelike vibrancy",
+        "negative_prompt": "digital, washed out, low contrast, pastel, modern, flat, hdr"
+    },
+    {
+        "name": "RM - Epoch - Technicolor 2-Strip",
+        "prompt": "vintage Technicolor 2-strip film still of {prompt} . limited red and green color spectrum, omission of blue hues, warm peach and teal interpretation, 1920s hollywood aesthetic, retro cinematic vibrance",
+        "negative_prompt": "blue, purple, modern, full color, realistic, digital, 4k"
+    },
+    {
+        "name": "RM - Epoch - Bleach Bypass",
+        "prompt": "cinematic bleach bypass look of {prompt} . desaturated color palette, harsh high contrast, crushed black levels, silver retention technique, gritty metallic texture, raw visceral intensity",
+        "negative_prompt": "saturated, colorful, vibrant, soft, pastel, happy, bright"
+    },
+    {
+        "name": "RM - Epoch - Cross Processing",
+        "prompt": "cross processed film photography of {prompt} . unpredictable chemical color shifts, high contrast, greenish-yellow highlights, deep blue shadows, lomo artistic style, vibrant experimental aesthetic",
+        "negative_prompt": "natural colors, realistic, standard, balanced, digital, clean"
+    },
+    {
+        "name": "RM - Epoch - Wet Plate Collodion",
+        "prompt": "antique wet plate collodion photography of {prompt} . chemical emulsion stains, uneven development borders, extremely shallow depth of field, ghostly ethereal exposure, 1860s tintype texture, raw historical authenticity",
+        "negative_prompt": "clean, digital, color, modern, sharp, perfect focus, bright"
+    },
+    {
+        "name": "RM - Epoch - Daguerreotype",
+        "prompt": "historical daguerreotype portrait of {prompt} . sharp metallic detail, reflective silver surface quality, long exposure stillness, mercury vapor aesthetic, 1840s patina, eerie high-fidelity monochromatic look",
+        "negative_prompt": "paper texture, grain, color, soft, motion blur, modern"
+    },
+    {
+        "name": "RM - Epoch - 1970s New Hollywood",
+        "prompt": "1970s grit film stock of {prompt} . muted earthy tones, prominent organic film grain, natural available lighting, unpolished realism, slightly yellowed vintage tint, raw cinematic atmosphere",
+        "negative_prompt": "clean, digital, blue, teal and orange, glossy, studio lighting"
+    },
+    {
+        "name": "RM - Epoch - Polaroid Instant",
+        "prompt": "vintage polaroid instant photo of {prompt} . soft optical focus, flash falloff vignetting, characteristic greenish color cast, nostalgic snapshot aesthetic, chemical development artifacts, instant film texture",
+        "negative_prompt": "high res, sharp, professional, studio, digital, perfect lighting"
+    },
+    {
+        "name": "RM - Epoch - Day for Night",
+        "prompt": "cinematic day for night shot of {prompt} . underexposed blue filter technique, high contrast sunlight simulated as moonlight, unnatural deep shadows, surreal nocturnal atmosphere, classic hollywood illusion",
+        "negative_prompt": "realistic night, pitch black, noise, high iso, modern night mode"
+    },
+    {
+        "name": "RM - Epoch - 16mm Home Video",
+        "prompt": "retro 16mm home movie still of {prompt} . soft image fidelity, visible dust and scratches, warm nostalgic color grading, handheld motion blur, sentimental memory aesthetic, vintage amateur footage vibe",
+        "negative_prompt": "4k, stable, sharp, digital, professional, cinema, imax"
+    },
+    {
+        "name": "RM - Camera - Leica Look",
+        "prompt": "photography of {prompt} shot on Leica M11 . distinct 'Leica look', incredible micro-contrast, 3D pop effect, sharp focus falloff, rich natural color rendering, creamy bokeh, masterful optical fidelity",
+        "negative_prompt": "flat, digital, oversharpened, plastic, low contrast, boring, standard dslr look"
+    },
+    {
+        "name": "RM - Camera - Hasselblad (Medium Format)",
+        "prompt": "medium format photography of {prompt} shot on Hasselblad . extreme resolution clarity, immense color depth, 16-bit tonal range, lifelike textural detail, shallow depth of field compression, studio-quality perfection",
+        "negative_prompt": "35mm, phone camera, low res, noisy, gritty, high contrast, crushed blacks"
+    },
+    {
+        "name": "RM - Color - Fujifilm Classic Chrome",
+        "prompt": "photography of {prompt} in Fujifilm Classic Chrome style . muted documentary tones, low saturation, hard tonal contrast, soft highlight roll-off, photo-journalistic aesthetic, subtle film simulation",
+        "negative_prompt": "vibrant, neon, hdr, oversaturated, bright, commercial, glossy"
+    },
+    {
+        "name": "RM - Color - Fujifilm Velvia",
+        "prompt": "photography of {prompt} in Fujifilm Velvia style . hyper-vivid color saturation, deep crushed blacks, high contrast, magenta shadow cast, punchy dramatic vibrancy, slide film aesthetic",
+        "negative_prompt": "muted, pastel, washed out, low contrast, flat, grey, boring"
+    },
+    {
+        "name": "RM - Camera - Arri Alexa (Cinema)",
+        "prompt": "cinematic shot of {prompt} on Arri Alexa . high dynamic range, smooth highlight roll-off, organic color science, rich cinematic texture, hollywood standard fidelity, subtle digital noise pattern",
+        "negative_prompt": "video look, tv soap opera effect, harsh highlights, digital clipping, sharp"
+    }
+]

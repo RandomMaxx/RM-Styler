@@ -1,0 +1,117 @@
+[
+    {
+        "name": "RM - Basic - Photography",
+        "prompt": "photorealistic photography of {prompt} . hyper-realistic visual fidelity, incredibly sharp focus, lifelike texture, 8k resolution, natural lighting, optical clarity, depth of field, raw reality, captured on high-end dslr",
+        "negative_prompt": "painting, drawing, sketch, cartoon, anime, 3d render, illustration, low resolution, blur"
+    },
+    {
+        "name": "RM - Basic - Portrait Photography",
+        "prompt": "studio portrait photography of {prompt} . professional lighting setup, 85mm lens aesthetic, razor-sharp focal point, creamy bokeh background, high-end retouching style, emotive connection, skin texture detail, intimate composition",
+        "negative_prompt": "wide angle, landscape, distorted, messy, low quality, grainy, blurry, out of focus"
+    },
+    {
+        "name": "RM - Basic - Painting",
+        "prompt": "classic oil painting of {prompt} . rich traditional media textures, visible brushstrokes, layered pigment depth, artistic composition, painterly aesthetic, masterful technique, canvas texture",
+        "negative_prompt": "photo, digital, vector, flat, glossy, 3d, realistic, camera"
+    },
+    {
+        "name": "RM - Basic - Portrait Painting",
+        "prompt": "fine art portrait painting of {prompt} . expressive brushwork, psychological depth, traditional canvas texture, classical lighting, artistic interpretation, emotional resonance, impasto details",
+        "negative_prompt": "photograph, snapshot, digital art, flat, vector, cartoon, anime"
+    },
+    {
+        "name": "RM - Basic - Cinematic Film Still",
+        "prompt": "cinematic film still of {prompt} . wide aspect ratio, anamorphic lens flare, color graded, dramatic lighting, motion picture aesthetic, high budget production value, storytelling composition, atmospheric depth",
+        "negative_prompt": "vertical, amateur, home video, tv show, sitcom, bright, flat, studio"
+    },
+    {
+        "name": "RM - Basic - Sketch",
+        "prompt": "rough pencil sketch of {prompt} . graphite texture, loose gestural lines, hand-drawn shading, unfinished paper aesthetic, artistic study, raw stroke details, monochromatic sketch",
+        "negative_prompt": "color, paint, digital, realistic, photo, 3d, clean, polished"
+    },
+    {
+        "name": "RM - Basic - Illustration",
+        "prompt": "digital illustration of {prompt} . clean artistic lines, vibrant color application, stylized composition, polished commercial aesthetic, creative visual storytelling, refined graphic design, smooth finish",
+        "negative_prompt": "photo, realistic, sketchy, messy, rough, grainy, traditional paint"
+    },
+    {
+        "name": "RM - Basic - Digital Illustration",
+        "prompt": "high-quality digital illustration of {prompt} . expressive digital painting techniques, smooth gradients, crisp resolution, vibrant RGB color palette, tablet artistry, contemporary aesthetic, clean execution, professional portfolio quality",
+        "negative_prompt": "traditional media, paper texture, rough, sketch, watercolor, oil painting, grainy, blurry, low res, pixelated"
+    },
+    {
+        "name": "RM - Basic - Line Art",
+        "prompt": "minimalist line art of {prompt} . continuous contour lines, black ink on white, clean negative space, elegant simplicity, vector-style precision, graphic abstraction, outlining",
+        "negative_prompt": "color, shading, gradient, realistic, photo, painting, complex, busy"
+    },
+    {
+        "name": "RM - Basic - Minimal Ink & Tone",
+        "prompt": "ink-and-tone illustration of {prompt} . stylized realism, crisp linework, refined print-era finish, intimate and restrained, cool neutral tones, stark and empty background, minimal, graphic, modern pop-graphic aesthetic, subtle halftone texture",
+        "negative_prompt": "vibrant, colorful, warm tones, 3d render, photorealistic, messy, chaotic, busy, oil painting, watercolor, happy, energetic"
+    },
+    {
+        "name": "RM - Basic - Manga",
+        "prompt": "classic manga style art of {prompt} . black and white ink, screentone shading, dynamic paneling feel, traditional Japanese comic aesthetic, expressive linear energy, detailed inking",
+        "negative_prompt": "color, 3d, painting, realistic, western comic, soft, watercolor"
+    },
+    {
+        "name": "RM - Basic - Anime",
+        "prompt": "high-quality anime art of {prompt} . vibrant cel shading, clean distinct lines, emotional lighting, high-fidelity animation style, colorful and expressive, polished digital finish",
+        "negative_prompt": "sketch, realistic, 3d, western cartoon, gritty, dirty, low res"
+    },
+    {
+        "name": "RM - Basic - 3D Render",
+        "prompt": "3D octane render of {prompt} . ray-traced global illumination, photorealistic materials, subsurface scattering, ambient occlusion, physically based rendering, unreal engine 5 aesthetic, virtual perfection",
+        "negative_prompt": "2d, drawing, painting, sketch, flat, cartoon, anime, brushstrokes"
+    },
+    {
+        "name": "RM - Basic - Concept Art",
+        "prompt": "digital concept art of {prompt} . broad brushstrokes, atmospheric lighting, visual development style, imaginative composition, rough but evocative, cinematic pre-production aesthetic",
+        "negative_prompt": "photo, finished render, clean lines, vector, realistic, polish"
+    },
+    {
+        "name": "RM - Basic - Pixel Art",
+        "prompt": "retro pixel art of {prompt} . low resolution 16-bit aesthetic, limited color palette, blocky geometry, nostalgic gaming vibe, dithering shading, sprite style, crisp pixels",
+        "negative_prompt": "high resolution, anti-aliasing, smooth, vector, 3d, realistic, photo"
+    },
+    {
+        "name": "RM - Basic - Claymation",
+        "prompt": "stop-motion claymation style of {prompt} . plasticine texture, thumbprints, physical lighting, miniature photography aesthetic, hand-crafted feel, Aardman animation style",
+        "negative_prompt": "digital, cgi, 2d, drawing, painting, smooth, vector, anime"
+    },
+    {
+        "name": "RM - Basic - Watercolor",
+        "prompt": "soft watercolor painting of {prompt} . translucent fluid pigments, wet-on-wet technique, artistic color bleeding, textured paper grain, delicate atmospheric washes, expressive splatter, ethereal artistic style",
+        "negative_prompt": "oil paint, heavy acrylic, digital, sharp lines, opaque, vector, flat"
+    },
+    {
+        "name": "RM - Basic - Vector Art",
+        "prompt": "clean vector graphic art of {prompt} . smooth crisp bezier curves, flat bold colors, geometric precision, scalable aesthetic, minimalist design, sharp edges, professional graphic illustration",
+        "negative_prompt": "pixelated, blurry, sketchy, textured, realistic, photo, watercolor, shading"
+    },
+    {
+        "name": "RM - Basic - Sculpture",
+        "prompt": "classical sculpture of {prompt} . chiseled marble or bronze texture, three-dimensional form, dramatic gallery lighting, static solidity, realistic anatomical definition, museum masterpiece aesthetic",
+        "negative_prompt": "2d, flat, painting, drawing, colorful, flesh, living, moving"
+    },
+    {
+        "name": "RM - Basic - Charcoal",
+        "prompt": "expressive charcoal drawing of {prompt} . deep black carbon tones, smudged textural shading, rough paper grain, high contrast chiaroscuro, dramatic monochromatic atmosphere, raw artistic energy",
+        "negative_prompt": "color, paint, digital, smooth, clean, vector, shiny"
+    },
+    {
+        "name": "RM - Basic - Papercraft",
+        "prompt": "layered papercraft art of {prompt} . cut paper textures, dimensional stacked layers, cast shadows between sheets, craft aesthetic, physical depth, tactile collage feel, minimalist geometry",
+        "negative_prompt": "drawing, painting, flat, 3d render, realistic, glossy, digital"
+    },
+    {
+        "name": "RM - Basic - Graffiti",
+        "prompt": "urban graffiti art of {prompt} . vibrant spray paint textures, aerosol drips, bold street art aesthetic, mural composition, expressive tag style, rough wall surface texture, rebellious energy",
+        "negative_prompt": "clean, studio, canvas, paper, elegant, framed, traditional"
+    },
+    {
+        "name": "RM - Basic - Low Poly",
+        "prompt": "low poly 3D art of {prompt} . simplified polygonal geometry, faceted angular surfaces, retro video game aesthetic, flat shading, vibrant minimalism, abstract geometric form",
+        "negative_prompt": "high res, smooth, realistic, detailed, round, organic, photo"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "RM - Horror - 1980s Slasher",
+        "prompt": "retro 1980s slasher movie still of {prompt} . low-budget film grain, harsh directional flashlight beams, menacing atmospheric tension, visceral practical effects, ominous dark synthesis, shadowy stalker aesthetic, terrifying night mood, gritty texture",
+        "negative_prompt": "digital, clean, cgi, modern, high budget, bright, comedy, friendly"
+    },
+    {
+        "name": "RM - Horror - Body Horror",
+        "prompt": "visceral body horror art of {prompt} in the style of David Cronenberg . grotesque biological mutation, fluid organic distortion, unsettling anatomical realism, glistening slimy textures, practical effects aesthetic, raw flesh transformation, disturbing metabolic metamorphosis",
+        "negative_prompt": "clean, mechanical, robot, bloodless, cartoon, anime, cute, dry"
+    },
+    {
+        "name": "RM - Horror - J-Horror",
+        "prompt": "terrifying Japanese horror movie still of {prompt} . psychological dread, damp suffocating atmosphere, grainy static noise overlay, curse-laden aesthetic, supernatural distortion, eerie spectral presence, desaturated cold tones, haunted visual intensity",
+        "negative_prompt": "western, action, explosion, bright, sunny, clear, colorful, american horror"
+    },
+    {
+        "name": "RM - Horror - Junji Ito",
+        "prompt": "horrifying manga panel of {prompt} by Junji Ito . intricate obsessive ink stippling, dense black lines, hypnotic spiral patterns, unsettling surrealism, macabre fine details, cosmic dread atmosphere, monochromatic terror",
+        "negative_prompt": "color, painting, 3d, soft, moe, kawaii, simple, sketch"
+    },
+    {
+        "name": "RM - Horror - Found Footage",
+        "prompt": "found footage horror screenshot of {prompt} . shaky handheld camera chaotic motion, digital compression artifacts, night vision granular noise, claustrophobic realism, amateur camcorder aesthetic, panic-inducing immediacy, raw unpolished terror",
+        "negative_prompt": "cinematic lighting, steady cam, tripod, 4k, hd, professional, studio"
+    },
+    {
+        "name": "RM - Horror - Clive Barker",
+        "prompt": "dark fantasy horror of {prompt} by Clive Barker . visceral gothic gore, fetishistic leather textures, exposed raw anatomy, blending of pain and pleasure, ornate supernatural suffering, cenobite aesthetic, dark cinematic lighting, grotesque majesty",
+        "negative_prompt": "clean, holy, bright, angelic, soft, cartoon, anime, vanilla"
+    },
+    {
+        "name": "RM - Horror - Zombie Apocalypse",
+        "prompt": "gritty zombie horror shot of {prompt} . decaying necrotic textures, post-apocalyptic atmosphere, practical gore effects, visceral decomposition, bleak desaturated palette, survivalist tension, raw cinematic grit",
+        "negative_prompt": "vampire, clean, fantasy, magic, fast zombies, cgi, gloss"
+    },
+    {
+        "name": "RM - Horror - Silent Hill",
+        "prompt": "psychological survival horror of {prompt} . suffocating volumetric fog, corroded industrial textures, peeling rust and decay, nightmarish otherworld atmosphere, desaturated sepia and grey tones, isolationist dread, psychological manifestation",
+        "negative_prompt": "clean, shiny, futuristic, sci-fi, bright, happy, nature, green"
+    },
+    {
+        "name": "RM - Horror - Universal Monsters",
+        "prompt": "classic 1930s horror movie still of {prompt} . high-contrast black and white film, dramatic theatrical lighting, gothic atmospheric mood, vintage silver screen grain, expressionist shadows, chilling retro elegance, creature feature aesthetic",
+        "negative_prompt": "color, modern, gore, slasher, handheld, digital, 4k"
+    },
+    {
+        "name": "RM - Horror - Liminal Space",
+        "prompt": "unsettling liminal space photography of {prompt} . uncanny emptiness, sterile fluorescent lighting, nostalgic disorientation, wrong geometry, eerie silence, transitional atmosphere, dream-like isolation, void aesthetic",
+        "negative_prompt": "people, monsters, action, dark, cluttered, cozy, homey"
+    },
+    {
+        "name": "RM - Horror - Trevor Henderson",
+        "prompt": "unnerving creature art of {prompt} by Trevor Henderson . degraded polaroid texture, blurry amateur photography style, cryptid sighting aesthetic, shadow-obscured menace, unsettling integration into reality, low-fidelity terror, flash photography darkness",
+        "negative_prompt": "high definition, clear, detailed, professional, painting, drawing, bright"
+    },
+    {
+        "name": "RM - Horror - Cosmic Horror (Lovecraft)",
+        "prompt": "eldritch cosmic horror art of {prompt} . incomprehensible non-euclidean geometry, ancient malevolent atmosphere, maddening vast scale, deep abyssal palette, unnameable terror, writhing organic textures, insanity-inducing magnitude",
+        "negative_prompt": "jumpscare, slasher, gore, zombies, human, comprehensible, simple"
+    },
+    {
+        "name": "RM - Horror - SCP Foundation",
+        "prompt": "clinical horror photography of {prompt} . sterile containment atmosphere, cold concrete textures, surveillance footage aesthetic, scientific detachment, anomalous realism, bureaucratic uneasy dread, classified archival quality",
+        "negative_prompt": "fantasy, magic, bright, colorful, cartoon, anime, painting"
+    },
+    {
+        "name": "RM - Horror - Analog Horror",
+        "prompt": "analog horror broadcast of {prompt} . distorted VHS tracking errors, low-fidelity signal noise, unnerving visual corruption, eerie magnetic tape aesthetic, psychological disturbance, broadcast intrusion vibe, uncanny valley realism",
+        "negative_prompt": "hd, 4k, clean, movie, cinema, hollywood, color, bright"
+    },
+    {
+        "name": "RM - Horror - Folk Horror (Daylight)",
+        "prompt": "bright daylight folk horror of {prompt} . blinding sunny atmosphere, pastoral terror, ritualistic undertones, deceptively cheerful palette, uncanny isolation, ancient pagan aesthetic, vivid natural lighting, disquieting serenity",
+        "negative_prompt": "dark, night, shadows, gothic, vampire, castle, rain"
+    },
+    {
+        "name": "RM - Horror - Phobia (Trypophobia)",
+        "prompt": "unsettling texture horror of {prompt} . repetitive clustered holes, irregular organic cavities, visceral perforated patterns, skin-crawling density, repulsive biological detail, intensive visual trigger, porous aesthetic",
+        "negative_prompt": "smooth, clean, flat, metal, plastic, geometric, pleasant"
+    }
+]

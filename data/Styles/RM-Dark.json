@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RM - Dark Art - Zdzisław Beksiński",
+        "prompt": "dystopian surrealist painting of {prompt} by Zdzisław Beksiński . intricate organic decay, osseous textures, muted ochre and bone palette, nightmarish atmospheric depth, gothic surrealism, fibrous details, haunting monumental scale",
+        "negative_prompt": "bright, happy, colorful, modern, clean, shiny, cute, flat, simple"
+    },
+    {
+        "name": "RM - Dark Art - H.R. Giger",
+        "prompt": "biomechanical art of {prompt} by H.R. Giger . monochromatic interplay of machine and organism, fused industrial textures, airbrush precision, claustrophobic complexity, alien aesthetic, nightmarish ribbed details, seamless bio-synthetic integration",
+        "negative_prompt": "colorful, floral, soft, fantasy, bright, sunny, nature, wooden, rustic"
+    },
+    {
+        "name": "RM - Dark Art - Francisco Goya (Black Paintings)",
+        "prompt": "haunting oil painting of {prompt} in the style of Francisco Goya's Black Paintings . heavy dark earth tones, rough expressive impasto, psychological madness, tormented atmosphere, grotesque abstraction, somber intensity, raw emotional weight",
+        "negative_prompt": "rococo, bright, royal, polished, smooth, happy, calm, detailed background"
+    },
+    {
+        "name": "RM - Dark Art - Francis Bacon",
+        "prompt": "visceral oil painting of {prompt} by Francis Bacon . fluid form distortion, psychological horror, frantic motion blur, stark geometric framing, visceral organic textures, raw existential isolation, disturbing abstract intensity",
+        "negative_prompt": "realistic, pretty, symmetrical, calm, traditional, detailed, serene"
+    },
+    {
+        "name": "RM - Dark Art - Gustave Doré",
+        "prompt": "intricate wood engraving of {prompt} by Gustave Doré . dramatic high-contrast monochrome, meticulous cross-hatching, epic atmospheric scale, theatrical illumination, masterful line work density, classical illustrative grandeur",
+        "negative_prompt": "color, painting, watercolor, blurry, modern, digital, simple, flat"
+    },
+    {
+        "name": "RM - Dark Art - Hieronymus Bosch",
+        "prompt": "chaotic triptych painting of {prompt} by Hieronymus Bosch . fantastical surreal complexity, intricate grotesque details, dense compositional layering, bizarre organic hybrids, symbolic nightmare aesthetic, vivid hallucinatory textures",
+        "negative_prompt": "empty, minimalist, realistic, modern, portrait, calm, single subject"
+    },
+    {
+        "name": "RM - Dark Art - Odilon Redon",
+        "prompt": "symbolist charcoal drawing of {prompt} by Odilon Redon . deep velvety blacks, dreamlike shadow play, melancholic mystery, soft grainy texture, noir atmosphere, ethereal abstraction, poetic darkness",
+        "negative_prompt": "bright colors, realistic, scientific, clear, sharp, sunshine, happy"
+    },
+    {
+        "name": "RM - Dark Photo - Joel-Peter Witkin",
+        "prompt": "macabre photography of {prompt} by Joel-Peter Witkin . distressed negative artifacts, heavy grit, morbid elegance, gothic surrealism, antique textural decay, rich sepia or monochrome tones, transgressive aesthetic",
+        "negative_prompt": "clean, digital, hd, color, pretty, fashion, commercial, smooth"
+    },
+    {
+        "name": "RM - Dark Photo - Diane Arbus",
+        "prompt": "psychological black and white portrait of {prompt} by Diane Arbus . classic square format, harsh direct flash, high contrast, uncanny atmospheric tension, raw unfiltered realism, confronting presence, unvarnished truth",
+        "negative_prompt": "color, studio lighting, glamour, airbrushed, happy, smiling, scenic"
+    },
+    {
+        "name": "RM - Dark Photo - Gregory Crewdson",
+        "prompt": "cinematic dark photography of {prompt} by Gregory Crewdson . twilight atmospheric mood, eerie staged illumination, profound isolation, uncanny psychological depth, hyper-real detailing, suspended narrative tension",
+        "negative_prompt": "snapshot, candid, bright, sunny, happy, low quality, black and white"
+    },
+    {
+        "name": "RM - Dark Photo - Francesca Woodman",
+        "prompt": "surreal gothic photography of {prompt} by Francesca Woodman . long exposure motion blur, ethereal spectral quality, textural decay, high-contrast monochrome, intimate haunting atmosphere, fugitive presence, poetic obscurity",
+        "negative_prompt": "sharp, frozen, digital, color, commercial, landscape, bright"
+    },
+    {
+        "name": "RM - Dark Photo - Daido Moriyama",
+        "prompt": "gritty atmospheric photography of {prompt} by Daido Moriyama . high-contrast harsh monochrome, heavy film grain, motion blur distortion, rough visceral texture, dynamic snapshot aesthetic, are-bure-boke intensity",
+        "negative_prompt": "smooth, clean, color, tripod, sharp, fine art, calm"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RM - Fantasy - Frazetta (Sword & Sorcery)",
+        "prompt": "iconic sword and sorcery oil painting of {prompt} in the style of Frank Frazetta . raw primal energy, dynamic muscular tension, dramatic chiaroscuro, heavy expressive brushstrokes, savage atmospheric intensity, epic action composition, rich dark earth tones, barbaric majesty",
+        "negative_prompt": "anime, bright, cute, flat, vector, clean, sci-fi, peaceful, soft"
+    },
+    {
+        "name": "RM - Fantasy - High Fantasy (Alan Lee)",
+        "prompt": "classic high fantasy watercolor and pencil art of {prompt} in the style of Alan Lee . intricate architectural weathering, misty ethereal atmosphere, muted earth tones, ancient textural depth, delicate graphite shading, legendary middle-earth aesthetic, watercolor wash",
+        "negative_prompt": "neon, bright, digital, glossy, sci-fi, modern, anime, cartoon"
+    },
+    {
+        "name": "RM - Fantasy - Golden Age (Arthur Rackham)",
+        "prompt": "vintage golden age fairy tale illustration of {prompt} in the style of Arthur Rackham . intricate sinuous ink lines, muted watercolor washes, gnarly organic textures, whimsical eerie atmosphere, textured parchment feel, classical storybook aesthetic, twisted nature",
+        "negative_prompt": "bright, neon, modern, digital, smooth, 3d, photograph, glossy"
+    },
+    {
+        "name": "RM - Fantasy - Heroic (Boris Vallejo)",
+        "prompt": "classic heroic fantasy art of {prompt} in the style of Boris Vallejo . hyper-realistic anatomical perfection, glistening skin textures, vibrant dramatic lighting, oil painting sheen, epic grandiose composition, intense physical presence, rich saturation",
+        "negative_prompt": "sketch, rough, dull, faded, abstract, anime, cartoon, flat"
+    },
+    {
+        "name": "RM - Fantasy - Faerie (Brian Froud)",
+        "prompt": "whimsical faerie folklore style of {prompt} in the style of Brian Froud . intricate organic clutter, textured watercolor and graphite, mossy earth tones, mischievous magical atmosphere, nature-entwined complexity, goblin-core aesthetic, textured realism",
+        "negative_prompt": "clean, minimal, sci-fi, metal, plastic, geometric, modern"
+    },
+    {
+        "name": "RM - Fantasy - Yoshitaka Amano",
+        "prompt": "ethereal fantasy art of {prompt} in the style of Yoshitaka Amano . wispy delicate linework, flowing watercolor washes, pale mystical palette, ornate decorative complexity, dreamlike floating composition, melancholic elegance, art nouveau influence",
+        "negative_prompt": "heavy, muscular, gritty, dark, photographic, realistic, 3d"
+    },
+    {
+        "name": "RM - Fantasy - Michael Whelan",
+        "prompt": "masterful science-fantasy illustration of {prompt} in the style of Michael Whelan . surreal symbolic lighting, rich vibrant color palette, pristine realistic detail, imaginative atmospheric depth, clean polished composition, visionary aesthetic, cover art quality",
+        "negative_prompt": "sketchy, messy, dark, horror, gritty, black and white"
+    },
+    {
+        "name": "RM - Fantasy - Modern TCG",
+        "prompt": "polished modern digital fantasy art of {prompt} . cinematic magic effects, high-fidelity texture rendering, dynamic action lighting, spellbinding chromatic intensity, detailed illustrative polish, epic scale, Magic the Gathering card aesthetic",
+        "negative_prompt": "sketch, rough, traditional media, watercolor, low res, blur"
+    },
+    {
+        "name": "RM - Fantasy - Grimdark",
+        "prompt": "gritty grimdark fantasy art of {prompt} . gothic industrial weight, heavily weathered textures, dark desaturated palette, eternal war atmosphere, visceral mud and metal, oppressive mood, Warhammer aesthetic, dirty realism",
+        "negative_prompt": "clean, bright, happy, anime, high fantasy, sparkle, magic"
+    },
+    {
+        "name": "RM - Fantasy - 80s D&D (Larry Elmore)",
+        "prompt": "classic 1980s RPG fantasy art of {prompt} . vibrant oil painting style, narrative adventure composition, classic high adventure atmosphere, clear lighting, Dragonlance aesthetic, traditional fantasy realism",
+        "negative_prompt": "digital, modern, concept art, sketch, loose, dark, horror"
+    },
+    {
+        "name": "RM - Fantasy - Dark Souls",
+        "prompt": "melancholic dark fantasy art of {prompt} . decaying grandeur, fading light, high contrast shadows, intricate armor textures, oppressive atmospheric weight, FromSoftware aesthetic, tragic beauty, desaturated cool tones",
+        "negative_prompt": "bright, happy, colorful, anime, cartoon, simple, clean"
+    },
+    {
+        "name": "RM - Fantasy - Blacklight (Frank Frazetta Neon)",
+        "prompt": "psychedelic vintage fantasy poster of {prompt} . black velvet painting aesthetic, glowing neon UV colors, deep blacks, retro 70s rock opera vibe, fluorescent highlights, mystical atmosphere",
+        "negative_prompt": "pastel, beige, white, clean, modern, digital, realistic"
+    }
+]

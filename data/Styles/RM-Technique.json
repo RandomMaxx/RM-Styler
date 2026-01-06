@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RM - Technique - Charcoal Drawing",
+        "prompt": "expressive charcoal drawing of {prompt} . smudged shading, deep blacks, rough paper texture, loose gestures, messy, dramatic contrast, traditional art student sketch",
+        "negative_prompt": "color, digital, clean, vector, smooth, shiny, liquid, sharp lines"
+    },
+    {
+        "name": "RM - Technique - Graphite Sketch",
+        "prompt": "rough graphite pencil sketch of {prompt} . visible pencil strokes, hatching and cross-hatching, grey tones, hb pencil texture, unfinished edges, sketchbook aesthetic",
+        "negative_prompt": "ink, color, paint, 3d, realistic, digital, polished, gradient"
+    },
+    {
+        "name": "RM - Technique - Continuous Line",
+        "prompt": "minimalist continuous line art of {prompt} . single unbroken line, abstract, simple, clean black stroke on white, picasso style, elegant contour",
+        "negative_prompt": "shading, detail, realistic, color, complex, messy, texture, filling"
+    },
+    {
+        "name": "RM - Technique - Blueprint",
+        "prompt": "architectural blueprint of {prompt} . technical drawing, white lines on blue background, schematic measurements, grid lines, engineering aesthetic, precise",
+        "negative_prompt": "perspective, color, organic, sketch, messy, painting, realistic"
+    },
+    {
+        "name": "RM - Technique - Ballpoint Pen",
+        "prompt": "detailed ballpoint pen art of {prompt} . blue ink, heavy cross-hatching, scribble shading, obsessive detail, sketchbook doodle aesthetic, ink build-up",
+        "negative_prompt": "pencil, paint, watercolor, digital, smooth, erase, vector"
+    },
+    {
+        "name": "RM - Technique - Linocut",
+        "prompt": "bold linocut print of {prompt} . block printing, negative space, carved texture, ink stamp aesthetic, high contrast black and white, folk art feel",
+        "negative_prompt": "gradient, grey, shading, fine lines, digital, photo, realistic"
+    },
+    {
+        "name": "RM - Technique - Risograph",
+        "prompt": "vibrant risograph print of {prompt} . grainy texture, limited color palette, halftone dots, slight misalignment of layers, fluorescent inks, zine aesthetic",
+        "negative_prompt": "smooth, high resolution, digital, clean, vector, perfect registration"
+    },
+    {
+        "name": "RM - Technique - Etching",
+        "prompt": "vintage copper plate etching of {prompt} . incredible fine detail, bank note style, engraving, sepia ink, hatched shading, scientific illustration style",
+        "negative_prompt": "bold lines, marker, painting, blur, photo, modern, colorful"
+    },
+    {
+        "name": "RM - Technique - Cyanotype",
+        "prompt": "cyanotype sun print of {prompt} . prussian blue and white, silhouette, botanical print aesthetic, chemical development texture, soft edges, analog photography",
+        "negative_prompt": "red, yellow, multicolor, digital, sharp, vector, painting"
+    },
+    {
+        "name": "RM - Technique - Stipple (Pointillism)",
+        "prompt": "ink stipple art of {prompt} . shading created entirely by small dots, tattoo design style, black ink, high detail, time consuming technique, pointillism",
+        "negative_prompt": "lines, strokes, washing, painting, grey, gradient, solid color"
+    },
+    {
+        "name": "RM - Technique - Chalkboard",
+        "prompt": "chalk art on blackboard of {prompt} . white and pastel chalk dust, smudges, dusty texture, hand drawn typography, cafe menu aesthetic, rough",
+        "negative_prompt": "marker, pen, digital, sharp, clean, paper, bright white"
+    },
+    {
+        "name": "RM - Technique - Scratchboard",
+        "prompt": "scratchboard art of {prompt} . white lines scratched into black surface, negative drawing, sharp details, engraving style, dramatic contrast, illustrative",
+        "negative_prompt": "pencil, charcoal, grey, color, soft, painting, digital"
+    }
+]

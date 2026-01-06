@@ -1,0 +1,642 @@
+[
+    {
+        "name": "Subject - Dark Fantasy - The Abyssal Sorcerer",
+        "prompt": "An abyssal sorcerer reclining on a cracked stone dais, his obsidian-black skin flickering with glowing crimson veins, long silver hair spilling over the edge of the stone, cinematic, photorealistic, crimson glow filter, dark fantasy atmosphere, glowing fiery red eyes, one hand casually holding a swirling orb of fire, surrounded by shadowy tendrils and glowing runes etched into the stone floor. {prompt}",
+        "negative_prompt": "bright, cheerful, daylight, sunshine, cartoon, anime, sketch, low quality, blurred, deformed, friendly, cute"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Dark Forest Sorceress",
+        "prompt": "A woman standing in a forest. She is wearing a black and gold corset with intricate gold designs on the front and back. The corset has a high neckline and long sleeves. The woman has long black hair that falls over her shoulders. Her face is painted black with white and gold accents. Above her head, there is a large, ornate headpiece that is made up of multiple branches and leaves. The branches are arranged in a symmetrical pattern. The leaves are a mix of different shades of brown and beige. The background is filled with trees and fallen leaves, creating a peaceful and serene atmosphere. The overall mood of the image is dark and mysterious. {prompt}",
+        "negative_prompt": "bright, sunny, urban, industrial, sci-fi, modern clothing, colorful, happy, crowded, low resolution"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Horned Scholar",
+        "prompt": "A woman in a black dress with horns on her head, holding a book in her hands. The book is engulfed in flames, and the background is filled with a mysterious, ethereal atmosphere. The woman's gaze is captivating, as if she is reading a story. {prompt}",
+        "negative_prompt": "bright, daylight, modern background, technology, happy, comedy, sketch, vector, watermark"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Mystic Seer",
+        "prompt": "A dark and mysterious female entity with long, flowing blue hair, wearing an intricate black hat tilted to the side, casting a shadow over her partially obscured face. She holds a glowing purple crystal ball in her right hand, her left hand extended in a magical gesture. The crystal pulses with violet light. The background is a tapestry of complex arcane patterns and fractal designs, creating a deep, eerie, and occult atmosphere. {prompt}",
+        "negative_prompt": "bright, cheerful, sunny, cute, kawaii, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text, sci-fi, mechanical, robot, modern clothing"
+    },
+    {
+        "name": "Subject - High Fantasy - The Celestial Weaver",
+        "prompt": "A breathtaking fantasy image of a celestial goddess standing upon the highest peak of the world, above a blanket of midnight clouds. Her skin is a deep, translucent indigo, speckled with living constellations that shift as she moves. She is weaving the night sky, holding glowing threads of starlight that connect the stars above into intricate mythological shapes. Her hair floats weightlessly, turning into wisps of nebula gas. The lighting is ethereal, sourced entirely from the stars and the golden threads in her hands, casting a soft, cool glow on the snow-capped peak. The atmosphere is silent, majestic, and infinite. {prompt}",
+        "negative_prompt": "day, sun, sunshine, warm tones, urban, sci-fi, technology, wires, buildings, noise, chaotic, cartoon, sketch, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text"
+    }, 
+    {
+        "name": "Subject - Dark Fantasy - The Ominous King",
+        "prompt": "A mythical creature sitting on a throne-like structure. The creature appears to be a man with long white hair and horns on his head. He is wearing a white robe with intricate gold designs on it. His body is muscular and muscular, and his legs are crossed in front of him. He has a serious expression on his face. The throne is made of stone and has intricate carvings and designs on its pillars. The background is dark and gloomy, with a hint of light shining on the creature. The overall mood of the image is ominous and ominous. {prompt}",
+        "negative_prompt": "friendly, smiling, happy, bright, colorful, vibrant, weak, simple background, cartoon, deformed"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Post-Apocalyptic Witcher",
+        "prompt": "A grim figure as a witcher wearing power armor. His facial expression is a grimace. He is outfitted in a war-torn suit tinged with fur and dark colors, yet reveals the harsh realities of a post-apocalyptic world. Bleak dark grainy apocalyptic environment. {prompt}",
+        "negative_prompt": "clean, pristine, luxury, bright colors, happy, cheerful, sunshine, vegetation, nature, smooth"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Storm-Gazing Sorcerer",
+        "prompt": "A sweeping cinematic view of a mysterious sorcerer standing at the edge of a balcony on a floating citadel. He gazes out over a vast, dark, and stormy landscape illuminated by distant lightning. He wears a voluminous, flowing cloak that constantly shifts colors like an aurora, transitioning from deep purples to metallic blues. His long silver hair falls in loose waves, and his face is partially obscured by an intricate mask crafted from glowing blue crystals. In one hand, he holds a long, gnarled staff topped with a swirling vortex of arcane light, while faint tendrils of magical energy emanate from his other hand. Behind him, the citadel’s interior is visible through an archway, featuring floating staircases, glowing arcane runes etched on stone walls, and hovering magical orbs providing dim illumination. The atmosphere is ominous and magical. {prompt}",
+        "negative_prompt": "bright day, sunlight, blue sky, happy, cheerful, modern, sci-fi, high-tech, clean, pristine, cartoon, sketch, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text"
+    },
+    {
+        "name": "Subject - High Fantasy - The Dragon-Girl Adventurer",
+        "prompt": "A young half-human, half-dragon girl with striking, purple opalescent scales shimmering like polished gems under soft, ethereal light. Her playful smile reveals small, pointed teeth, while her large, curious eyes glint with mischievous energy. Delicate horns curl gracefully from her forehead, glowing faintly with a lavender hue, and her short, spiky hair transitions seamlessly into iridescent dragon spines along the back of her head and neck. She stands in a dynamic pose, one clawed hand resting on her hip, the other holding a glowing crystal orb. Her attire combines rugged leather straps and a flowing, translucent cape that catches the magical breeze, scattering rainbow-like glimmers. Tiny, delicate wings sprout from her back, adding to her whimsical charm. The backdrop is a fantastical landscape of floating islands suspended in a twilight sky, glowing fungi, and cascading waterfalls that shimmer like liquid starlight. Wisps of magical energy swirl around her, emphasizing her quirky and otherworldly nature. The overall composition bursts with color, texture, and a sense of boundless adventure. {prompt}",
+        "negative_prompt": "dark, horror, grim, gritty, scary, sad, dull colors, low quality, bad anatomy, blurred, blurry"
+    },
+    {
+        "name": "Subject - High Fantasy - The Dragon's Companion",
+        "prompt": "A large black dragon with its wings spread wide, standing on a rocky cliff. The dragon's body is covered in intricate patterns and designs, and its tail is curled around its body. The cliff is covered with green moss and rocks, and there is a small stream running through it. In the background, there are tall trees with yellow leaves, and a stone bridge can be seen in the distance. A young girl in a red dress is standing on the edge of the cliff, looking up at the dragon. The overall mood of the image is peaceful and serene. {prompt}",
+        "negative_prompt": "war, battle, violence, fire, destruction, horror, dark, gloomy, scary, chaotic, blurred"
+    },
+    {
+        "name": "Subject - High Fantasy - The Elven Forest Guardian",
+        "prompt": "A spectral forest guardian, her form ethereal and shimmering with hues of pale turquoise and silver, a 24 year old, elven girl, (((long delicate pointed elven ears))), standing in the middle of misty ethereal fantasy woodland setting. Her hair cascades like a waterfall of moonlight, intertwining with delicate vines and blue blossoms that glow faintly in the dim light. She has druidic and nordic influenced braids in her long silver hair, Her flowing robes seem woven from leaves and mist, and her bare feet leave trails of shimmering light on the forest floor. She cradles a staff of ancient gnarled curled wood, its tip has an ornate silver top that holds a crystal that radiates a soft blue soothing light. Around her, the forest is alive with glowing fireflies, and iridescent glowing flowers, and the soft hum of ancient magic creating a serene yet haunting atmosphere. Thick thighs, leg slit, cleavage, medium breasts, elegant silver jewelry, oiled skin, white thigh-high open toe stockings. {prompt}",
+        "negative_prompt": "urban, industrial, sci-fi, dark, horror, violence, armor, weapons, fire, dry, dead, cartoon"
+    },
+    {
+        "name": "Subject - High Fantasy - The Elven Warrior",
+        "prompt": "A tall and elegant elven warrior with sharp, piercing green eyes, standing amidst an ancient forest. His long, silver hair cascades over his shoulders, and his intricately carved leather armor gleams in the soft moonlight filtering through the trees. In his hand, he holds a gleaming silver longsword with glowing runes etched along the blade. The leaves around him shimmer with magic, and the distant sound of rustling branches suggests unseen watchers. His expression is both noble and watchful, ready to defend his sacred homeland. {prompt}",
+        "negative_prompt": "relaxed, sleeping, peaceful, urban, sci-fi, guns, modern, cartoon, sketch, lowres"
+    },
+    {
+        "name": "Subject - High Fantasy - The Elven Bath",
+        "prompt": "A captivating fantasy image of a stunning elven girl with long, flowing white hair, sitting at the edge of a subterranean pool inside a bioluminescent cave. She is dressed in a delicate, sheer gown that drapes over her curvaceous form. She leans back on her left arm in a relaxed, seductive pose, dipping her toes into the crystal-clear water, creating soft ripples. In her right hand, she casually holds a gleaming sword, its tip resting on the damp stone floor. The cave is illuminated by the soft blue glow of crystals and the shimmering reflections from the water, creating an intimate and mystical atmosphere. {prompt}",
+        "negative_prompt": "standing, dry, bright day, sun, ugly, deformed, extra limbs, bad anatomy, low quality, sketch, cartoon, text, watermark, blur"
+    },
+    {
+        "name": "Subject - High Fantasy - The Falling Rogue",
+        "prompt": "Full body, dynamic pose: A rogue archer falling backward out of a gothic tower window, firing an arrow mid-fall. Glass shatters around them. The cape flutters violently. The perspective is looking down from the window, seeing the ground far below. {prompt}",
+        "negative_prompt": "static, standing, ground level, calm, safe, boring, portrait, low quality, bad anatomy, deformed, blurred, modern, sci-fi"
+    },
+    {
+        "name": "Subject - High Fantasy - The Forest Mage",
+        "prompt": "A young mage with short white hair and round glasses kneels atop a mystical stone platform surrounded by a vast, glowing forest. Twisting, ancient trees with bioluminescent leaves rise in the background, their canopies forming an otherworldly glow of greens and blues that match the orb atop the mage's highly ornate magical staff. The glowing green orb casts faint ripples of light across her determined face, her piercing green eyes mirroring its radiance. She wears a detailed green hooded robe adorned with intricate metallic and gemstone accessories, evoking a mystical and antique feel. Her robes shimmer faintly, reflecting the glowing flora around her, and the intricate stitches and embroidered patterns on her layered garments become more pronounced in the soft, ambient light. The mage crouches on the platform, surrounded by glowing runes etched into the stone beneath her feet, suggesting a summoning or ritual in progress. Her dynamic posture, slightly leaning forward, conveys readiness and curiosity as if she is preparing to cast a powerful spell or decipher an ancient mystery. Above her, a crackling aurora stretches across the sky, blending vibrant colors of emerald, gold, and violet, adding grandeur and magic to the atmosphere. Wisps of energy and floating embers dance in the air, creating a sense of life and motion in the scene. The lighting emphasizes her features and the ornate carvings on her staff, adding depth to the intricate composition. Her neutral yet focused expression adds an air of mystery, inviting viewers to imagine the story unfolding in this breathtaking and fantastical world. {prompt}",
+        "negative_prompt": "warrior, melee, sword, armor, dark, horror, grim, scary, dull, low quality, bad anatomy"
+    },
+    {
+        "name": "Subject - High Fantasy - The Ice Sage",
+        "prompt": "A humanoid figure with translucent, icy skin and deep blue eyes. The figure is in a cavern made of sparkling ice, with icicles hanging from above. The background is filled with shimmering reflections of light, giving the impression of a magical underground chamber. The figure is wearing a flowing white cloak adorned with intricate silver designs, and is holding a glowing blue crystal in their hand. Their expression is calm and serene, as if they are in deep contemplation. The overall mood is cold, mystical, and enchanting. {prompt}",
+        "negative_prompt": "warm colors, fire, heat, lava, sun, daylight, dry, desert, dirt, mud, messy, chaotic, aggressive, low quality, bad anatomy, blurred"
+    },
+    {
+        "name": "Subject - High Fantasy - The Oni in the Shrine",
+        "prompt": "A long-lost oni woman standing solemnly in an abandoned, derelict Japanese shrine. Her presence is both haunting and beautiful, exuding an ethereal aura that blurs the line between the mortal and the supernatural. Her crimson skin glows faintly in the dim light, accentuating her otherworldly allure. Two imposing, curved horns emerge from her forehead, weathered with cracks that shimmer faintly with a golden hue, as though holding fragments of a forgotten power. Her flowing, tattered kimono, once richly embroidered with scenes of cherry blossoms and dragons, now hangs in faded disrepair, the fabric swaying gently as if moved by an unseen breeze. Long, silver-white hair spills over her shoulders, glinting softly like moonlight in the gloom. Her golden eyes, sharp and reflective, seem to pierce through the viewer, filled with melancholy and wisdom borne of centuries. The shrine around her is in ruin, wooden beams splintered and moss creeping over stone lanterns. Shattered offerings litter the floor, and faded paper talismans hang limply from the rafters. The air is thick with an eerie silence, broken only by the faint hum of energy emanating from the oni's presence. Shafts of pale light filter through cracks in the roof, illuminating swirling motes of dust and highlighting her spectral glow. The scene is steeped in sorrow, mystery, and the quiet power of a forgotten legend. {prompt}",
+        "negative_prompt": "happy, smiling, bright, cheerful, modern, western architecture, clean, new, pristine, cartoon"
+    },
+    {
+        "name": "Subject - High Fantasy - The Sea Serpent Rider",
+        "prompt": "A young blond girl rides a majestic white sea serpent with opalescent scales that shimmer like liquid pearls under the sun. Her golden hair flows in the sea breeze, and her light blue and white garments, accented with silver, mirror the ocean's hues. She exudes calm determination, her piercing blue eyes reflecting the vast sky and sea. The serpent's sinuous body arcs gracefully through the waves, its shimmering scales shifting with hints of pink, green, and blue. Delicate fin-like crests adorn its head, and its glowing eyes radiate intelligence. The ocean roars beneath them, deep blues and greens contrasting with white foam as sunlight dances on the waves. The sky is a brilliant blue, dotted with wispy clouds, and distant rock formations rise from the sea, adding to the grandeur. The scene captures the harmony of mystical beauty and natural power as the girl and serpent move through this untamed world. {prompt}",
+        "negative_prompt": "storm, dark, night, horror, conflict, monster, scary, ugly, deformed, low quality, blurry"
+    },
+    {
+        "name": "Subject - Dark Fantasy - The Skull Warrior & The Maiden",
+        "prompt": "a man with long hair and a skull-like face, wearing a black robe with intricate patterns and designs. He is holding a sword in his right hand and appears to be in a battle-ready stance. The man's face is covered in blood and grime, and his eyes are glowing red. In front of him, there is a woman with short black hair, wearing traditional Japanese clothing. She is reaching out to touch the man's hand, as if she is about to touch him. The background is filled with a chaotic and eerie atmosphere, with red lanterns hanging from the ceiling and a large dragon-like creature looming in the distance. The overall mood of the image is dark and foreboding. {prompt}",
+        "negative_prompt": "bright, cheerful, day, sun, happy, smiling, modern, sci-fi, clean, pristine, comedy, peaceful, safety, cartoon, sketch"
+    },
+    {
+        "name": "Subject - High Fantasy - The Tiefling Battlemage",
+        "prompt": "tiefling battlemage whose crystallized horns channel lightning into her weapons. Storm clouds form patterns in her scaled skin, and her tail leaves thunder in its wake. Her armor grows new spikes with each spell cast Fantastic lighting. {prompt}",
+        "negative_prompt": "calm, peaceful, sunshine, clear sky, boring, flat lighting, human, soft, gentle"
+    },
+    {
+        "name": "Subject - High Fantasy - The Viking Princess",
+        "prompt": "A young Viking princess stepping boldly into a mythical temple of the old gods. She is scantily clad in radiant silver armor, its intricate engravings of Nordic runes and mythical beasts gleaming in the faint, ethereal light that filters through the temple’s towering arches. Her armor highlights her form, with a gleaming breastplate, bracers, and a short, layered skirt of overlapping silver plates, leaving her midriff bare. A flowing crimson cape trails behind her, adding a regal touch to her warrior presence. Her long, golden hair cascades over her shoulders, crowned with a simple circlet of silver, and her icy blue eyes burn with determination. She grips a large, rune-etched sword in one hand, its blade shimmering faintly as if alive with divine power. The temple is vast and awe-inspiring, carved from ancient stone, their forms both imposing and otherworldly. Faint beams of light pierce through cracks in the structure, illuminating swirling mists that cling to the ground. Glowing runes pulse softly along the walls, casting a mystical aura. The air seems heavy with the echoes of forgotten prayers and the distant rumble of divine power. The princess steps forward, her expression resolute and unyielding, embodying courage and reverence as she faces the sacred and mysterious domain of her ancestors. {prompt}",
+        "negative_prompt": "modern, sci-fi, guns, dirty, ugly, deformed, weak, coward, dark, horror, blurry, lowres"
+    },
+    {
+        "name": "Subject - High Fantasy - The Viking Warrior",
+        "prompt": "A fierce young Viking girl stands on a charred, blood-soaked battlefield, clutching a massive battle axe that radiates both heat and menace. Her blond hair, braided tightly, is streaked with ash and blood, framing a face marked by determination and hardened by the chaos of war. She wears battered leather and chainmail armor, adorned with fur-lined pauldrons and Nordic runes glowing faintly with crimson light, as though imbued with ancient power. The battle axe in her hands is enormous, its double-bladed edge glowing a fiery red, as if freshly forged in a volcanic forge. Dark blood drips from the blade, pooling at her feet and staining the blackened earth. Runes etched into the metal pulse with an eerie, molten light, hinting at its mystical origins. The weapon exudes a sense of both brutality and divine fury, its weight symbolic of her strength and her cause. The ground beneath her is scorched and littered with the fallen, a grim testament to the ferocity of the battle. Flickering flames dance across the battlefield, casting jagged shadows over her and illuminating the thick, smoke-filled air. The sky above is a deep, smoky red, streaked with ash and the dying light of the sun, creating an apocalyptic backdrop. Despite the carnage, she stands tall, her piercing blue eyes blazing with unyielding resolve. Blood splatters her armor and face, a stark contrast to her pale skin, but she shows no sign of weariness. The scene captures her as a symbol of defiance and survival, a warrior forged by fire and battle, ready to wield her burning axe against any foe that dares to challenge her. {prompt}",
+        "negative_prompt": "peace, clean, pristine, happy, sunshine, flowers, bright, cheerful, calm, safety, weak"
+    },
+    {
+        "name": "Subject - High Fantasy - The Warrior of the Burning City",
+        "prompt": "an old warrior kneeling on a grassy hill, his silhouette framed against the fiery glow of a burning city in the distance. His once-proud armor, now battered and tarnished, bears deep dents and scratches, testifying to countless battles fought and endured. The remnants of his tattered red cape flutter weakly in the smoky breeze, clinging to the cracked pauldrons of his shoulders. In his hands, he cradles the broken remains of his sword, the blade snapped jaggedly near the hilt. The warrior's head is bowed, his grizzled hair streaked with ash and dirt, and his face hidden beneath the shadow of his battered helm. The weight of defeat and the toll of time hang heavily on his stooped figure. The hill is sparse, dotted with patches of wildflowers and tall grass that sway in stark contrast to the chaos below. The burning city sprawls on the horizon, its spires engulfed in flames and plumes of dark smoke rising into the twilight sky. Embers drift upwards like lost souls, painting the air with a fiery glow that clashes with the deepening purples and blues of the night. The composition is poignant and evocative, capturing the warrior's quiet grief and the resilience of a man who has given everything in the face of inevitable loss. {prompt}",
+        "negative_prompt": "victory, happy, celebration, pristine armor, young, clean, bright, cheerful, day, sun"
+    },
+    {
+        "name": "Subject - High Fantasy - The Winged Warrior",
+        "prompt": "a female warrior with huge glowing wings, dressed in a dark blue outfit, adorned with a necklace and earrings. She is crouched on a rock, her right arm resting on her hip, while her left arm rests on her right knee. Her left arm is bent at the elbow, and she is holding a large sword in her right hand. Her right arm is wrapped around her waist, adding a touch of balance to the scene. The backdrop, a stormy sky, is filled with dark gray clouds, and a lightning bolt is visible in the upper right corner of the frame. {prompt}",
+        "negative_prompt": "sunshine, calm, happy, bright, peaceful, blue sky, weak, small wings, text, watermark"
+    },
+    {
+        "name": "Subject - Surreal - The Bead-Adorned Portrait",
+        "prompt": "a close-up image of a young woman's face. She has long white hair that is styled in loose waves and cascades down her back. Her eyes are a piercing blue and her lips are a soft pink. She is looking directly at the camera with a serious expression. The focal point of the image is the woman's head, which is adorned with a colorful headpiece made up of purple, blue, and red beads. The headpiece is made up from small, round beads that are arranged in a circular pattern. The beads are of different sizes and colors, including red, orange, and blue. The woman's hair is also adorned with red beads, which add a pop of color to the image. The background is blurred, but it appears to be a soft, dreamy setting with a red net-like structure on the left and right sides. {prompt}",
+        "negative_prompt": "full body, landscape, realism, dark, gritty, horror, scary, ugly, deformed, messy"
+    },
+    {
+        "name": "Subject - Surreal - The Dreamlike Woman",
+        "prompt": "a surreal and dreamlike scene. It is a close-up of a woman's head and upper body, with her eyes closed and her head tilted upwards. The woman's hair is flowing in the wind, creating a sense of movement and energy. The hair is a vibrant shade of pink, with streaks of white and gold throughout. The background is black, and there are small pink and white bubbles floating around the woman. The bubbles are of different sizes and shapes, creating an abstract and surreal atmosphere. The overall mood of the image is dreamlike and ethereal. {prompt}",
+        "negative_prompt": "realism, photo, sharp, jagged, hard edges, dark, horror, scary, ugly, deformed"
+    },
+    {
+        "name": "Subject - Composition - Atmospheric Temple",
+        "prompt": "A grand temple carved into a mountainside, illuminated by a crescent moon that hangs directly above. The temple’s steps are lined with glowing lanterns, and its pillars are covered in intricate carvings of celestial symbols. A robed figure kneels before a massive glowing altar, surrounded by floating orbs of light. The atmosphere is serene and magical, with a soft mist rolling in from the surrounding forest. {prompt}",
+        "negative_prompt": "day, sun, noise, chaos, sci-fi, modern, industrial, war, violence, fire, bright"
+    },
+    {
+        "name": "Subject - Composition - Cyberpunk-Baroque Exoskeleton Woman",
+        "prompt": "Off-center composition, three-quarters with high-key lighting, a cute young woman wearing an intricate advanced futuristic tight plugsuit exoskeleton with mechanical details, holding a laser lance, oil slick rainbow colored black plating, holographic elements, white short hair, futuristic baroque and rococo cyberpunk, opulent baroque cyber church, neon lights, dynamic pose, opulent, hyper detailed, fantastic, mythical, full Body. {prompt}",
+        "negative_prompt": "rustic, primitive, simple, minimalism, nature, forest, old, dirty, low quality, bad anatomy"
+    },
+    {
+        "name": "Subject - Composition - Dark & Dim Warrior",
+        "prompt": "Off-center composition, full body with slight upward angle, The image shows a man in armor standing in a dark room, illuminated by a red light. The armor is made up of metal and has intricate designs on it. The background is blurred, giving the image a mysterious and captivating atmosphere, dark and dim light. {prompt}",
+        "negative_prompt": "bright, day, sunshine, flash photography, happy, cheerful, cartoon, sketch, vector"
+    },
+    {
+        "name": "Subject - Composition - Dark Forest Woman",
+        "prompt": "Off-center composition, wide-angle with subject facing away, The image shows a woman with long black hair wearing a black and gold dress adorned with intricate designs. Her face is adorned with a crown, and the background is filled with dried leaves and trees., dark and dim light. {prompt}",
+        "negative_prompt": "centered, bright, urban, modern, sci-fi, happy, cheerful, day, sun, flash"
+    },
+    {
+        "name": "Subject - Composition - Demon Hunter",
+        "prompt": "Off-center composition, full body with slight upward angle, The image shows a man in a black cloak, holding a sword in his hand, standing in front of a large, dark-colored creature with horns. The creature appears to be a monster, and the man is standing on a dark floor, with a stone wall in the background, dark and dim light. {prompt}",
+        "negative_prompt": "bright, happy, peace, calm, day, sun, friendly, cute, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Composition - Dragon Rider Warrior",
+        "prompt": "Off-center composition, three-quarters with high-key lighting, The image shows a woman riding on the back of a black horse, with a red cape, surrounded by a fiery landscape of mountains and a cloudy sky. The woman appears to be a warrior, and the dragon is a mythical creature, with its wings spread wide and its mouth open, as if it is roaring. The sky is filled with clouds and lightning, adding to the dramatic atmosphere of the scene, dark and dim light. {prompt}",
+        "negative_prompt": "calm, stationary, bright, day, happy, cheerful, peaceful, blue sky, sun"
+    },
+    {
+        "name": "Subject - Composition - Epic Phoenix Summoning",
+        "prompt": "A magnificent phoenix emerges from a swirling vortex of flames, its wings radiating golden and crimson light. Below, an enchanted battlefield is strewn with broken weapons and glowing runes. A young sorcerer stands in the midst of the chaos, arms outstretched, summoning the bird of fire. The horizon is ablaze with fiery clouds, and the ground glows with molten cracks, amplifying the epic intensity of the Scene. {prompt}",
+        "negative_prompt": "water, ice, cold, calm, peace, blue, green, quiet, silence, empty"
+    },
+    {
+        "name": "Subject - Composition - Ethereal Huntress",
+        "prompt": "A ethereal fantasy image, In a mystical forest of purple, gold, and deep blue, a young huntress silently stalks a radiant golden deer. Her spear is raised, her eyes glowing with focus as she blends into the enchanted woods. The deer shimmers with liquid gold, its antlers twisting like branches, leaving trails of light with each step. Ancient trees with spiraling trunks glow softly, their leaves tinged with luminous blues and golds. The air is thick with tension, as golden light and shadows swirl around them, creating a vivid contrast between the huntress’s sharp precision and the ethereal, mythical beauty of the forest. {prompt}",
+        "negative_prompt": "urban, industrial, sci-fi, photo, realism, noise, dirt, grime, ugly, deformed"
+    },
+    {
+        "name": "Subject - Composition - Frozen Citadel",
+        "prompt": "cool tones with radiant highlights, futuristic and mystical. A towering citadel of shimmering crystal rises from a frozen tundra, its spires glowing with pale blue light. The icy ground reflects the citadel’s brilliance, while swirling snow dances around it. A group of adventurers in heavy cloaks and armor approaches the gates, their footsteps crunching in the snow. The sky above is filled with auroras, casting vibrant colors across the landscape. {prompt}",
+        "negative_prompt": "heat, fire, desert, warm tones, red, orange, dry, summer, sun"
+    },
+    {
+        "name": "Subject - Composition - Genasi Champion",
+        "prompt": "A genasi champion polishes her crystal blade while floating cross-legged above the ground. Her armor seems to shift between solid and gaseous forms, made from enchanted cloudstuff and reinforced with lightning-infused metals. Wind spirits dance around her weapons, and her cloak billows without any breeze. The mountain peak she rests upon rises above the cloud layer, where other air elementals soar freely through the thin atmosphere. Her hair floats as if underwater and crackles with electrical energy, eyes swirling with miniature storms, while her skin has a faint bluish tint that ripples like the northern lights Fantastic lighting. {prompt}",
+        "negative_prompt": "earth, heavy, dark, underground, cave, dirt, mud, still, stagnant"
+    },
+    {
+        "name": "Subject - Composition - High-Tech Mage (Anime Style)",
+        "prompt": "Off-center composition, full body with slight upward angle, Victorian Gothic Art, Cyberpunk Art, Color splash, Rainbowpunk, (a bunch of aquatint, short (jellyfish ying yang, glass statue, intricate and detailed lighting, ying yang theme, (masterpiece, high detail, best quality) , sharp, smooth anime:1.2) , wearing lace and lurex fabric, high-tech hair, magewave, broad lighting, academism, luminous trails, cleancore, this is an image of a high-tech mage in an intricately lit room. the mage is wearing lace and lurex fabric and has long white hair styled in waves. they are holding a staff adorned with intricate patterns and are surrounded by glowing symbols that seem to be casting spells. the room itself appears to be made of glass and is filled with floating light particles that create a magical atmosphere. the overall scene suggests a sense of power and mysticism. the high-quality printing technique used for this image ensures that every detail is rendered with precision and clarity:1.3), High-tech Mage in Intricately Lit Room with Luminous Trails and Cleancore Style. {prompt}",
+        "negative_prompt": "photorealistic, 3d, western art style, sketch, blurry, noisy, low quality, bad anatomy, dark, gritty"
+    },
+    {
+        "name": "Subject - Composition - Kitsune in Burning Shrine",
+        "prompt": "A haunting fantasy image portrays a Japanese fox ghost, or kitsune, in human form, standing in the flickering light of a dark Shinto shrine consumed by smoke and fire. The kitsune is ethereal yet commanding, her slender figure draped in a tattered yet elegant white and red kimono that flows like mist around her. Her face is pale and otherworldly, with sharp, vulpine features and glowing, slit-pupil eyes that pierce through the smoky air. Her long, silken hair cascades like a black waterfall, catching the faint glow of the flames. Nine majestic fox tails, each shimmering with a faint spectral aura, fan out behind her in an elegant arc, shifting as if alive. Her hands are raised slightly, one holding a crimson prayer bead necklace and the other wreathed in ghostly blue foxfire, its light casting eerie shadows on the shrine’s ancient wooden beams. The shrine is dark and foreboding, its once-sacred walls scorched and crumbling. Smoke curls from smoldering incense sticks, mingling with the embers in the air. Ancient torii gates loom in the background, barely visible through the haze, while ominous flickers of flame light up the crimson kanji carved into the shrine’s structure. The composition exudes mystery, power, and the unsettling beauty of the supernatural. {prompt}",
+        "negative_prompt": "happy, bright, modern, western architecture, clean, new, pristine, cartoon, comedy, peaceful"
+    },
+    {
+        "name": "Subject - Composition - Nymph and Knight",
+        "prompt": "A captivating fantasy image depicts a young nymph in a moment of enchanting allure, her ethereal beauty glowing softly in the moonlit night. She stands knee-deep in a tranquil, mist-shrouded pond, her delicate, translucent gown clinging to her form and shimmering like water under the silver moon. Her skin has an otherworldly glow, tinged with hues of pale green and gold, and her hair flows like a cascade of wildflowers and ivy, trailing in the water around her. Her eyes, luminous and entrancing, lock onto a young knight standing hesitantly at the water’s edge. The knight, clad in slightly tarnished armor, holds his sword loosely at his side, his posture betraying a mix of caution and undeniable fascination. His youthful face, partly obscured by his helmet, reveals both awe and vulnerability as he inches closer, drawn by the nymph's beguiling smile and outstretched hand. The setting is otherworldly and dreamlike, the pond surrounded by gnarled, ancient trees draped in hanging moss and glowing with faint bioluminescent lights. Ripples in the water reflect the soft glimmers of fireflies and the knight’s shimmering armor, while shadowy shapes beneath the surface hint at a hidden danger. The composition captures the tension between innocence and peril, as the knight steps toward the nymph’s outstretched hand, the mist curling around him like unseen tendrils pulling him closer to his fate. The image is a perfect blend of beauty, mystery, and quiet foreboding. {prompt}",
+        "negative_prompt": "day, sun, dry, desert, urban, noise, ugly, deformed, scary, horror (excessive)"
+    },
+    {
+        "name": "Subject - Composition - Orc Chieftain",
+        "prompt": "A powerful and imposing orc chieftain stands at the forefront of a dense, mystical forest, exuding an aura of strength and wisdom. The orc's skin is a vibrant shade of green, with pronounced muscular features that reflect his warrior nature. He wears intricate armor adorned with sharp spikes and glowing green gemstones, signifying his status and power. Draped over his shoulders is a fur-lined cloak that blends seamlessly with the forest surroundings. In his hand, he holds a staff topped with a glowing, green crystal, which emits a soft, eerie light. The staff is intricately carved with ancient symbols, adding to its mystical appearance. Behind him, a group of armored warriors, dressed in earth-toned robes and metal armor, stand ready, showing loyalty and readiness for battle. The forest is bathed in a soft, greenish light filtering through the dense canopy, with tall trees enveloping the scene, creating an atmosphere of mystery and ancient power. {prompt}",
+        "negative_prompt": "weak, thin, urban, sci-fi, human, modern, clean, bright, happy, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Composition - Ranger at the Grave",
+        "prompt": "A melancholic fantasy image portrays a ranger standing solemnly at the edge of a forest clearing, his shadow falling across a simple grave marked by a wooden cross. His green cloak is pulled tightly around his shoulders, and his bow rests loosely in his hand. His quiver is nearly empty, with only a few arrows remaining—a testament to a long and arduous journey. His face is lined with grief, his sharp features softened by the pain of loss. Behind him, the dense forest stretches endlessly, bathed in the dim, golden light of a setting sun. Wildflowers grow around the grave, their delicate blooms swaying gently in the breeze, in stark contrast to the ranger’s stillness. The distant cries of birds and the rustle of leaves create a serene yet somber atmosphere, capturing the ranger’s quiet mourning and the beauty of nature that endures even in the face of death. {prompt}",
+        "negative_prompt": "happy, celebration, battle, action, city, urban, noise, crowd, bright, cheerful"
+    },
+    {
+        "name": "Subject - Composition - Red Kimono Swordswoman",
+        "prompt": "off-center composition, dynamic left aligned composition, The image shows a woman in a red kimono, adorned with intricate designs, holding a sword in her right hand. Her face is adorned with red paint, and the background is blurred, giving the image a dreamy, ethereal feel, dark and dim light. {prompt}",
+        "negative_prompt": "centered, bright, western, modern, sci-fi, day, sun, happy, cheerful, cartoon"
+    },
+    {
+        "name": "Subject - Composition - Rich Textures",
+        "prompt": "rich textures and deep shadows, mystical and ornate. {prompt}",
+        "negative_prompt": "flat, simple, minimalism, vector, low quality, blurred, blurry, washed out"
+    },
+    {
+        "name": "Subject - Composition - Shinobi on Rooftop",
+        "prompt": "A dynamic fantasy image captures a young female shinobi in motion, sprinting gracefully across the tiled roof of an ancient Japanese castle under the silver glow of the moon. Viewed from a dramatic top-down perspective, her lithe form cuts a striking silhouette against the textured rooftop. Her sleek black and deep-indigo attire blends seamlessly with the shadows, adorned with subtle patterns of swirling clouds and cranes that glint faintly in the moonlight. A flowing scarf trails behind her, fluttering like a whisper in the night breeze. Her face is partially obscured by a mask, but her sharp eyes gleam with focus and determination. In one hand, she clutches a gleaming kunai, while the other extends for balance as she leaps effortlessly between roof ridges. Her tabi boots grip the tiles with precision, leaving no sound in her wake. Below her, the sprawling castle complex is illuminated by the soft glow of paper lanterns, their warm light a stark contrast to the cool hues of the night. The rooftops ripple like a sea of dark waves, interspersed with pagoda towers and stone courtyards shrouded in mist. The background fades into a serene yet mysterious landscape of dense forests and distant mountains, bathed in pale moonlight. The composition captures the fluidity and elegance of her movement, emphasizing the tension of her covert mission under the watchful gaze of the moon. {prompt}",
+        "negative_prompt": "day, sun, ground level, static, heavy armor, noise, ugly, deformed, blurred, low quality"
+    },
+    {
+        "name": "Subject - Composition - Succubus",
+        "prompt": "A dark and seductive image features a purple-skinned succubus standing in a shadowy, otherworldly setting, her presence both alluring and dangerous. Her smooth, violet skin shimmers faintly under a dim, hellish red light, accentuating her otherworldly beauty. Long, twisting horns spiral elegantly from her head, their surfaces textured with faint ridges and glowing runes that pulse like living veins. Her devilish smile is wicked and enticing, revealing sharp, pearly fangs that glint against her full, dark lips. Her almond-shaped eyes burn with an intense crimson glow, framed by long lashes and subtly shadowed lids, drawing all attention to her hypnotic gaze. Her flowing, jet-black hair cascades down her back, blending into the surrounding darkness like liquid night. She stands confidently, her pose accentuating her lithe, demonic form. Small, leathery wings curl slightly behind her, their veins glowing faintly, and a thin, barbed tail sways lazily at her side. The background is hazy and infernal, filled with curling smoke, faint embers, and the crumbling remains of a throne carved from black stone. The image radiates dark sensuality and danger, capturing the succubus’s irresistible charm and the underlying menace of her devilish allure. {prompt}",
+        "negative_prompt": "holy, bright, angelic, purity, day, sun, happy, cute, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Composition - Turkish Rococo Weather Witch",
+        "prompt": "Off-center composition, dynamic left-aligned composition, a dark menacing turkish rococo weather witch, turkish iconography, gipsy details, wearing a magnificent weather cape, wearing black gloves, casting a weather lighning magic spell, dimly lit old arcane laboratory with colored flasks and Flames. {prompt}",
+        "negative_prompt": "calm, sunny, clear sky, minimalism, modern, sci-fi, happy, cheerful, day"
+    },
+    {
+        "name": "Subject - Composition - Vampire Girl in Darkness",
+        "prompt": "A dark and haunting image captures a young albino vampire girl standing in almost complete darkness, illuminated only by the faint, cold light of a waning moon. Her Rococo-inspired lace dress, once elegant, now appears ghostly and worn, its tattered layers merging with the shadows. The intricate embroidery is barely visible, and the pearls glint like faint stars swallowed by the gloom. Her alabaster skin glows faintly against the oppressive blackness, and her piercing crimson eyes burn like embers in the void. Her long, silvery-white hair flows like a spectral mist, catching the faintest glimmers of moonlight. A tarnished silver tiara with blood-red gemstones seems to float in the dark, crowning her eerie presence. The setting is shrouded in near-total darkness—a ruined ballroom with broken windows letting in slivers of moonlight and tendrils of fog. Cracked walls and shattered glass dissolve into the deep shadows, where details are lost entirely. The weak flicker of dying candlelight casts fleeting, jagged reflections, creating an atmosphere of suffocating emptiness. Everything is consumed by the darkness, except for her, a chilling figure that seems to command the void itself, embodying quiet menace and eternal despair. {prompt}",
+        "negative_prompt": "light, day, sun, bright, happy, cheerful, colorful, modern, clean, pristine"
+    },
+    {
+        "name": "Subject - Composition - Vampire Girl Portrait",
+        "prompt": "A captivating fantasy image features a young albino vampire girl, her ethereal beauty both delicate and haunting. She stands poised in a Rococo-inspired lace dress, a masterpiece of craftsmanship with layers of sheer, ivory fabric adorned with intricate floral embroidery and pearl accents. The dress features a high neckline and puffed sleeves, with cascading ruffles that flow like whispers of moonlight. A satin ribbon cinches her narrow waist, trailing softly behind her. Her skin is porcelain pale, almost luminescent, contrasting sharply with her haunting crimson eyes that seem to glow faintly in the dim light. Her long, silvery-white hair cascades down her back in soft, flowing waves, adorned with a delicate tiara of filigree silver and tiny blood-red gemstones. Her lips are painted a subtle rose hue, with a hint of sharp fangs peeking out as she offers a faint, enigmatic smile. The setting is equally opulent yet foreboding—a grand, candlelit chamber with high arched windows veiled by tattered curtains, allowing faint beams of moonlight to filter in. The ornate walls are adorned with faded tapestries and gilded mirrors, their reflective surfaces tarnished with age. Shadows pool around the edges of the room, and the faint scent of decay mingles with the lingering aroma of dried roses in an elaborate vase. The composition exudes a sense of timeless elegance intertwined with a subtle, menacing aura, capturing the girl's dual nature as both a creature of beauty and an immortal predator. {prompt}",
+        "negative_prompt": "dirt, grime, ugly, deformed, low quality, bad anatomy, cartoon, sketch, bright day"
+    },
+    {
+        "name": "Subject - Composition - Warlock Dissolving into Smoke",
+        "prompt": "A chilling fantasy image depicts a male warlock dissolving into smoke, striding down an ancient, cracked road under a twilight sky heavy with storm clouds. His presence is dark and menacing, radiating an aura of malevolent power. The warlock’s figure is clad in a tattered black robe dissolving into smoke that billows unnaturally around him, as if stirred by unseen winds. His gaunt face is shadowed by a wide hood, but glowing red eyes pierce through the darkness like embers from a dying fire. From his back, massive shadowy wings make of smoke unfurl, formed of writhing, smoke-like tendrils that spiral and dissipate into the air. The smoke wings are in constant motion, their edges flickering and curling like living flames of darkness, and they seem to absorb the faint light around them. The road he walks is ancient and weathered, lined with crumbling stone markers etched with faded runes. Gnarled, leafless trees twist skyward along the path, their skeletal branches clawing at the stormy heavens. The surrounding landscape is barren and desolate, shrouded in a dim, oppressive haze that blends with the swirling shadows emanating from the warlock. The sky above mirrors the chaos below, with roiling clouds illuminated by flashes of lightning that briefly highlight the warlock’s sinister form. The composition captures the ominous energy of his march, as though each step draws him closer to unleashing a dark and devastating power upon the world. {prompt}",
+        "negative_prompt": "solid, static, bright, holy, nature, life, happy, cheerful, sun, day"
+    },
+    {
+        "name": "Subject - Composition - Warrior with Glowing Wings",
+        "prompt": "a female warrior with (huge glowing wings:1.5), dressed in a dark blue outfit, adorned with a necklace and earrings. She is crouched on a rock, her right arm resting on her hip, while her left arm rests on her right knee. Her left arm is bent at the elbow, and she is holding a large sword in her right hand. Her right arm is wrapped around her waist, adding a touch of balance to the scene. The backdrop, a stormy sky, is filled with dark gray clouds, and a lightning bolt is visible in the upper right corner of the frame. {prompt}",
+        "negative_prompt": "sunshine, calm, happy, bright, peaceful, weak, small wings, text, watermark"
+    },
+    {
+        "name": "Subject - Composition - Bunny Girl on Chocobo",
+        "prompt": "A vibrant fantasy image showcases a young bunny girl riding a majestic white and yellow feathered chocobo eagle, a giant ostrich like bird sprinting gracefully on two strong, sinewy legs. The chocobo’s golden-yellow-white plumage is lush and radiant, with short, expressive wings tucked close to its sides. Its tail feathers fan out in a burst of brilliant colors—reds, blues, and greens—that shimmer as they catch the light, trailing like a streak of living fire behind it. Its sharp beak curves slightly downward, and its large, curious eyes gleam with determination as it races forward, its talons digging into the earth with each powerful stride. The bunny girl rides confidently on its back, her colorful leather armor a striking mix of emerald greens, deep purples, and fiery oranges, with silver accents that catch the sunlight. The armor is fitted yet flexible, allowing ease of movement, and is adorned with swirling patterns and small rabbit-shaped motifs that add a touch of whimsy. Her long, floppy ears bounce rhythmically with the chocobo’s gallop, peeking out from beneath a small, feathered cap. She grips the reins firmly, her gloved hands steady as she leans forward, her expression a mix of joy and focus. The chocobo is saddled with finely crafted leather gear, decorated with silver buckles and colorful embroidery to match the rider's armor. The reins and saddle straps flutter slightly in the wind as the duo charges through an open plain, the ground a blur beneath them. In the background, rolling hills dotted with wildflowers and the faint silhouette of a distant forest create a sense of boundless adventure, framing the energetic scene with a touch of magic and wonder. {prompt}",
+        "negative_prompt": "dark, gloom, horror, night, slow, static, ugly, deformed, low quality, blurred"
+    },
+    {
+        "name": "Subject - Cyberpunk - Bio-Mechanical Baroque",
+        "prompt": "An image of a queen whose dress is made of living flesh and gold filigree. Her high collar is formed from bone and pearls. She holds a scepter that is a human spine dipped in gold. The lighting is reminiscent of Rembrandt—deep shadows and a single, golden light source illuminating her face. {prompt}",
+        "negative_prompt": "modern, clean, minimalism, rustic, bright, flat lighting, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Bioluminescent Baroque Dame",
+        "prompt": "A vibrant portrait, a close-up of a young woman. She is draped in an opulent, multilayered Baroque gown woven from shimmering, iridescent fabrics intertwined with complex bioluminescent tubing and glowing filigree structures that pulse with electric blue and violet light. Her face features delicate, technological cybernetic enhancements along her cheekbones and neck that integrate seamlessly with ancient-style jewelry. The lighting is dramatic and mysterious, sourced mainly from the neon glow of her own attire against a dark, richly decorated futuristic background. The texture is rich, combining historical luxury with advanced technology. {prompt}",
+        "negative_prompt": "daylight, natural light, simple, rustic, minimalism, modern clothing, flat lighting, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text, sketch, cartoon"
+    },
+    {
+        "name": "Subject - Cyberpunk - Chrome and Flesh Fusion",
+        "prompt": "Extreme close-up of a human hand holding a robotic hand. The human hand is dirty, scarred, and warm-toned. The robotic hand is sleek, chrome, and cold. Where they touch, nanobots are swarming, blurring the line between the two, turning the flesh into metal and the metal into flesh. The background is out of focus bokeh lights. {prompt}",
+        "negative_prompt": "long shot, full body, landscape, clean, sterile, flat, vector, cartoon"
+    },
+    {
+        "name": "Subject - Cyberpunk - Cyber-Baroque Opera",
+        "prompt": "A diva performs on a stage made of shifting holographic fractals. She is a cyborg, her body a masterpiece of white porcelain and exposed clockwork gears. She wears a gown made of fiber-optic cables that change color with the pitch of her voice. The audience is a mix of masked nobles and high-tech drones. The architecture is a fusion of 18th-century opera house opulence and futuristic chrome, with velvet drapes hanging alongside laser grids. The lighting is dramatic, spotlighting the singer while the rest of the hall is steeped in rich, velvety shadows. {prompt}",
+        "negative_prompt": "silence, empty, nature, rustic, simple, minimalism, bright, daylight"
+    },
+    {
+        "name": "Subject - Cyberpunk - Cyber-Monk Meditation",
+        "prompt": "A monk in orange tech-wear robes sits in the lotus position atop a skyscraper pinnacle. He is plugged into the city's power grid via thick black cables entering the back of his neck. His eyes are rolled back, glowing pure white. A digital halo of data streams circles his head. Below him, the cyberpunk city is a blurred sea of traffic and lights. The mood is serene amidst chaos. {prompt}",
+        "negative_prompt": "nature, forest, ground level, noise, action, violence, primitive, rustic"
+    },
+    {
+        "name": "Subject - Cyberpunk - Heavy Metal Ballerina",
+        "prompt": "A ballerina with legs replaced by sleek, bladed prosthetics. She is mid-leap in an abandoned warehouse covered in graffiti. Her tutu is made of wire mesh and tulle. The floor is wet concrete, reflecting her form. Her pose is graceful, but her legs look dangerous and weaponized. The lighting is a single spotlight cutting through the dust. {prompt}",
+        "negative_prompt": "gentle, soft, organic, nature, clean, pristine, safe, weak"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Biomechanical Dryad",
+        "prompt": "A nature spirit in a sci-fi world. Her skin is synthetic green mesh, and her \"leaves\" are solar panels. She is fused with a tree that has metal bark and fiber-optic roots. She is weeping oil, mourning a forest of stumps. The lighting is harsh and industrial, with a single spotlight isolating her in the darkness. {prompt}",
+        "negative_prompt": "lush, healthy, organic, sun, happy, cheerful, nature (real), clean"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Corporate Angel",
+        "prompt": "A security cyborg designed to look like an angel. She has wings made of solar panels and polished steel feathers. Her face is a smooth, featureless visor. She hovers above a corporate plaza, wielding a flaming energy sword. The perspective is looking up from the ground, making her look imposing and divine. The building behind her is a monolith of black glass. {prompt}",
+        "negative_prompt": "demon, dark, dirty, ground level, small, weak, organic wings, nature"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Cyber-Necromancer",
+        "prompt": "A necromancer in a cyberpunk setting. He wears a hood made of optical camouflage fabric and a chest piece of exposed server racks and cooling tubes. He is raising \"undead\" cyborgs from a scrap heap—skeletons made of chrome and wire, eyes glowing red. Green digital smoke (matrix code) billows around his feet. He holds a staff that looks like a giant antenna, crackling with electricity. The setting is a rainy neon alleyway, reflecting pink and blue lights on the wet metal. {prompt}",
+        "negative_prompt": "life, nature, sun, day, clean, organic, happy, bright, holy"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Ethereal Cyborg",
+        "prompt": "A highly detailed cinematic film still of a young woman, 20 years old, with long, flowing hair, standing in a thick, ethereal mist on a futuristic rooftop garden at dawn. Soft, diffused light filters through the fog, catching the iridescent sheen of her advanced cybernetic arm and the delicate implants tracing her cheekbones. Her synthetic limbs have a pearlescent, almost organic quality, blending technology with a surreal beauty. The atmosphere is dreamlike and hazy, with heavy film grain visible across the frame. Below her, the vague neon shapes of a sprawling cyberpunk city are shrouded in the mist. {prompt}",
+        "negative_prompt": "harsh light, direct sunlight, clear sky, dry, gritty, industrial realism, ugly, deformed, low quality, bad anatomy, cartoon, sketch, vector, simplistic, vibrant colors (excessive)"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Glitch in the Neon Rain",
+        "prompt": "A rogue android stands alone in a flooded alleyway of a vertically sprawling cyberpunk metropolis. The android’s synthetic skin is peeling away to reveal gold-plated circuitry underneath, mimicking the Japanese art of Kintsugi. They hold a transparent umbrella that glows with scrolling holographic data streams. The rain falling around them freezes in mid-air, distorted by a reality-bending glitch emanating from the android's core. Neon signs in pink and teal reflect off the wet pavement, while a flying police cruiser casts a harsh searchlight from above, creating a dramatic rim-light effect on the android's sorrowful face. {prompt}",
+        "negative_prompt": "sun, dry, desert, happy, nature, organic, clean, pristine, day"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Glitch Witch",
+        "prompt": "A hacker whose physical form is unstable. Her edges are pixelating and dissolving into digital noise. She wears a leather jacket with LED patches. She is standing in a server room, touching a mainframe, and the servers around her are turning into trees made of code. The color palette is matrix green and static grey. {prompt}",
+        "negative_prompt": "stable, clear, organic, nature, sun, bright, happy, clean"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Gold-Plated Mercenary",
+        "prompt": "An image of a mercenary whose entire skin has been replaced with gold plating. He looks like a living Oscar statue, but scarred and dented from battle. He is smoking a cigar, and the smoke forms digital skulls. He wears a heavy trench coat with a fur collar. The background is a dark, luxurious VIP lounge with red velvet and low light, reflecting warmly off his gold skin. {prompt}",
+        "negative_prompt": "clean, smooth, cheap, plastic, bright, day, happy, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Holographic Dryad",
+        "prompt": "A tree in a futuristic city park. The tree is dead wood, but a holographic projection of a dryad (forest spirit) flickers around it, trying to protect it. A corporate bulldozer is approaching. The dryad looks sad and glitchy, fading in and out. {prompt}",
+        "negative_prompt": "healthy, living, organic, nature (real nature), happy, bright, sun"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Holographic Lich King",
+        "prompt": "A digital lich sitting on a throne of motherboards and cables. His skull is chrome, and his eyes are pixelated blue flames. He wears robes of transparent plastic and fiber-optic cables. He holds a phylactery that is a glowing hard drive. The room is a server farm, cold and blue, with rows of blinking lights stretching into infinity. {prompt}",
+        "negative_prompt": "organic, flesh, blood, nature, magic (traditional), warm, fire, sun"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Memory Market",
+        "prompt": "A street vendor in a dimly lit, fog-drenched bazaar sells glowing glass jars, each containing a swirling, colored gas representing a specific memory. The vendor is an elderly woman with cybernetic eyes that zoom and click. A hooded customer hands over a credit chip, looking desperate. The stalls around them are piled high with retro-tech and strange artifacts. Lanterns strung overhead cast a warm, flickering glow that contrasts with the cold, blue light of the memory jars. {prompt}",
+        "negative_prompt": "bright, day, sun, clean, mall, modern, sterile, happy, cheerful"
+    },
+    {
+        "name": "Subject - Cyberpunk - High-Tech Mage (Yin-Yang Jellyfish)",
+        "prompt": "A high-tech mage standing in an intricately lit room made of glass, featuring a jellyfish yin-yang theme. The mage has long white hair styled in waves and wears detailed lace and lurex fabric. They hold a staff adorned with intricate patterns, surrounded by glowing symbols and luminous trails. The environment includes ethereal glass statues and floating light particles, creating a magical atmosphere with a balance of dualistic elements. {prompt}",
+        "negative_prompt": "rust, dirt, grime, medieval, stone, wood, dark, gloomy, low quality, bad anatomy, blurred, matte, noise, messy, chaotic"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Neon Necromancer",
+        "prompt": "A hooded figure in a high-tech slum raising the dead—but the \"dead\" are broken androids and scrapped robots rising from a junk pile. The necromancer uses a tablet and a wifi staff to animate them. Green code flows into the robots' eyes as they wake up. {prompt}",
+        "negative_prompt": "magic (traditional), fantasy, nature, organic, blood, gore, medieval"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Oil-Slick High Priestess",
+        "prompt": "Off-center composition, three-quarters view. A priestess of a digital cult wears a futuristic habit made of latex and oil-slick metal that shifts colors (rainbow black). Her face is hidden behind a veil of laser light. She stands at an altar made of stacked monitors displaying static. Cables snake out from under her robes like tentacles. The atmosphere is \"opulent baroque cyber church,\" with neon stained glass windows depicting circuit boards. {prompt}",
+        "negative_prompt": "matte, dry, rustic, simple, minimalism, nature, organic, wood, stone"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Porcelain Geisha 2.0",
+        "prompt": "A cyborg geisha with a face made of cracked white porcelain. Beneath the cracks, glowing red circuitry is visible. She is crying, but the tears are black oil. She wears a traditional kimono made of holographic plastic that shifts patterns. She stands in a rainy neon street, holding a paper umbrella that is burning. The reflection of neon signs (pink, teal, blue) is sharp on her porcelain skin. {prompt}",
+        "negative_prompt": "skin, flesh, happy, dry, day, sun, organic, natural"
+    },
+    {
+        "name": "Subject - Cyberpunk - The Street-Doc’s Garage",
+        "prompt": "A cluttered, gritty operating room in a garage. A \"street doc\" with four mechanical arms is working on a patient—a heavy-set cyborg with a cybernetic chest cavity open. The room is filled with cigarette smoke and green laser scanners. Tools are scattered everywhere. The lighting comes from a flickering overhead fluorescent strip and the glow of the patient's internal organs (which are batteries and pumps). {prompt}",
+        "negative_prompt": "clean, hospital, white, sterile, organized, bright, day, happy"
+    },
+    {
+        "name": "Subject - Cyberpunk - Turkish Rococo Cyborg Princess",
+        "prompt": "A fusion of history and future. A young woman with a porcelain face and visible robotic seams wears an elaborate kaftan made of smart-fabric that changes patterns. She is covered in heavy gold jewelry that integrates with her cybernetic implants. She lounges on a floating anti-gravity cushion in a room with intricate geometric mosaics that are actually QR codes. She holds a holographic hookah pipe. The colors are rich turquoise, gold, and neon pink. {prompt}",
+        "negative_prompt": "rustic, simple, dirt, grime, ugly, poor, low quality, blurred"
+    },
+    {
+        "name": "Subject - Gothic Horror - Banquet of the Beast",
+        "prompt": "A long dining table is set in a decaying manor, laden with rotting fruits and goblets of thick, dark wine. At the head of the table sits a werewolf in aristocrat’s clothing—a velvet vest and a cravat—struggling to maintain his humanity as he transforms. His claws grip the table, splintering the wood. The guests are statues with their eyes blindfolded. Moonlight streams through tattered curtains, highlighting the fur sprouting on the werewolf's face and the fear in his human eyes. {prompt}",
+        "negative_prompt": "happy, clean, day, sun, bright, fresh food, party, celebration, cartoon"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Angel of Rot",
+        "prompt": "A fallen angel with wings made of decaying autumn leaves and skeletal bat wings. She hovers over a graveyard, her feet bare and stained with earth. She wears a tattered, translucent white dress that clings to her form. Her face is beautiful but sad, with black tears running down her cheeks. Haloed behind her head is a ring of rusted iron thorns. The atmosphere is melancholic, foggy, and gothic, with muted greys, browns, and dying reds. {prompt}",
+        "negative_prompt": "life, health, green, blooming, happy, cheerful, bright, sun, clean"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Blood Moon Ritual",
+        "prompt": "On a cliff edge overlooking a turbulent black ocean, a coven of witches stands in a circle. They wear robes made of crow feathers and blackened leather. In the center, a floating obsidian monolith absorbs the light of a blood-red moon. The sky is a bruising mix of purple and crimson. Lightning strikes the water in the distance. The wind whips the witches' hair and robes, creating a sense of violent motion. The scene is lit primarily by the red moon and the pale skin of the witches. {prompt}",
+        "negative_prompt": "day, sun, blue sky, calm, peace, happy, bright, cheerful, colorful"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Bohemian Fortune Princess",
+        "prompt": "An image of a mesmerizing mystic sitting cross-legged on a Persian rug by a campfire. She wears a patchwork skirt of vibrant floral patterns, a corset of distressed leather, and countless necklaces of gold coins and talismans. Her hair is wild, dark, and curly, woven with ribbons and dried flowers. She holds a tarot card up to the viewer; the card is glowing, revealing a moving holographic image of a skull. The firelight creates a warm, intense chiaroscuro effect on her face, highlighting her dark, knowing eyes and the smoke curling from her lips. {prompt}",
+        "negative_prompt": "cold, blue, modern, sci-fi, clean, studio lighting, flat, bright day"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Bone Orchestra",
+        "prompt": "In a crypt with high vaulted ceilings, an orchestra of skeletons plays instruments made of strange anatomy—ribcage harps, femur flutes, and skull drums. They are dressed in rotting 18th-century formal wear. Ghostly, translucent spirits drift from the instruments instead of sound waves. The scene is lit by blue corpse-candles, creating deep, hollow shadows in the eye sockets of the musicians. {prompt}",
+        "negative_prompt": "flesh, life, day, silence, happy, concert, bright, colorful, living people"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Clockwork Lich",
+        "prompt": "An undead wizard whose decaying body has been replaced by intricate brass mechanisms and glass tubes pumping green necromantic fluid. He stands in a library where the books are flying off the shelves in a whirlwind. He holds a staff topped with a skull that has a ticking clock in its eye socket. Dust motes dance in the green light emitted by his machinery. The room is cluttered with scrolls, hourglasses, and anatomical drawings. The mood is frantic and intellectual, a blend of horror and scientific curiosity. {prompt}",
+        "negative_prompt": "flesh, blood, nature, simple, calm, organized, clean, bright"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Drowned Cathedral",
+        "prompt": "Deep underwater, an ancient gothic cathedral stands perfectly preserved, encased in a bubble of air. Inside, skeleton priests in tattered, algae-covered robes kneel in eternal prayer. A diver in a rusted, steampunk-style diving suit floats near the altar, illuminating the scene with a lantern. Schools of luminescent fish swim through the broken stained-glass windows, casting multicolored patterns on the stone floor. The water outside the bubble is a deep, crushing abyss, making the sanctuary feel fragile and isolated. {prompt}",
+        "negative_prompt": "sky, surface, fire, dry, sun, day, bright, modern, clean"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Eclipse Sacrifice",
+        "prompt": "A panoramic view of a jagged obsidian ziggurat. At the top, a priest in robes of flayed red leather raises a dagger. The sun is in a total eclipse, represented as a black hole with a ring of fire. The sky is pitch black, but the ground is illuminated by red lava veins running through the rock. Shadows are stretching unnaturally long, reaching towards the center of the altar. {prompt}",
+        "negative_prompt": "light, day, white, blue, happy, peaceful, calm, safety, vegetation"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Frost-Bound Lich Emperor",
+        "prompt": "Seated upon a throne of frozen blood and jagged black ice, an ancient Lich King gazes forward with hollow authority. His armor is a fusion of rusted medieval plate and crystallized frost, intricate frost patterns etched into the metal. A crown of icicles is fused to his bleached skull. In one skeletal hand, he holds a goblet overflowing with a swirling blue mist. The background is a ruined cathedral hall, where snow falls through the shattered ceiling, and the ghosts of fallen knights stand guard in the shadows. The lighting is cold, blue, and sharp, emphasizing the brittle texture of bone and ice. {prompt}",
+        "negative_prompt": "heat, fire, sun, green, life, warm, summer, happy, bright"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Lava-Born Demoness",
+        "prompt": "A fierce female demon emerging from a pool of lava. Her skin is cracked charcoal, with magma glowing in the fissures. She has hair made of flowing fire and smoke. She wears armor made of cooled volcanic rock and dragon scales. She holds a whip made of liquid flame. The background is a hellish landscape of basalt columns and fire geysers. The lighting is intense, under-lit by the lava, casting deep shadows on her upper face while illuminating her fierce grin. {prompt}",
+        "negative_prompt": "water, ice, cold, blue, snow, happy, gentle, weak, flat lighting"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Mirror-Mask Enchantress",
+        "prompt": "A sorceress wearing a mask made entirely of shattered mirror shards, reflecting the twisted faces of demons surrounding her. She wears a gown of midnight blue velvet that merges with the shadows of the floor. She stands in a hall of mirrors, creating an infinite regression of her image. In her hand, she holds a silver dagger dripping with black ink. The vibe is psychological horror mixed with high-fashion elegance. {prompt}",
+        "negative_prompt": "matte, simple, nature, happy, bright, day, sun, cute, friendly"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Obsidian Succubus",
+        "prompt": "A seductive demoness reclines on a divan of crushed red velvet in a gothic chamber. Her skin is a deep, polished obsidian black that reflects the candlelight. She has curving, ram-like horns adorned with gold filigree and chains. Her eyes are glowing pools of liquid gold. She wears sheer, spider-web lace lingerie and thigh-high leather boots. Her tail, tipped with a heart-shaped barb, lazily curls around a glass of wine. The lighting is low-key, warm, and intimate, focusing on the gloss of her skin and the texture of the velvet. {prompt}",
+        "negative_prompt": "bright, day, holy, white, rough, matte, ugly, deformed, cartoon"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Parasitic Paladin",
+        "prompt": "A heroic knight in shining silver armor, but upon closer inspection, the armor is actually a silver fungus consuming him. His face is visible through the open visor, showing a look of blissful trance, while mushrooms sprout from his pauldrons and joints. He stands in a dark cave, glowing with bioluminescent spores. The beauty of the armor contrasts with the body horror of the fungus. {prompt}",
+        "negative_prompt": "clean, pristine, health, tech, modern, sci-fi, day, sun, happy"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Plague Doctor Alchemist",
+        "prompt": "Off-center composition, dynamic angle. A sinister alchemist in a terrifying, ornate bird-mask made of beaten copper and leather stands in a laboratory filled with bubbling green flasks. He wears a heavy, waxed trench coat stained with chemicals. Green smoke billows from his sleeves and the beak of his mask. He holds a glass sphere containing a trapped, screaming soul. The room is dimly lit by the bioluminescent glow of the potions, casting long, eerie shadows against walls lined with preserved specimens in jars. {prompt}",
+        "negative_prompt": "clean, modern, sterile, bright, happy, friendly, cute, cartoon, sketch"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Serpent Queen of the Souk",
+        "prompt": "A witch who controls snakes stands in the center of a bustling, magical bazaar at night. She is draped in sheer, shimmering fabrics of emerald and indigo, with live snakes coiled around her arms and neck like jewelry. Her skin has patches of faint, iridescent scales. The market stalls around her are filled with magical lamps and floating spices. The lighting is a mix of warm lantern light and the cool, mystical glow of the snakes' eyes. {prompt}",
+        "negative_prompt": "day, sun, cold, modern, western, boring, flat, simple"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Smoke-Weaver of the Obsidian Spire",
+        "prompt": "A malevolent necromancer stands on a jagged cliff edge, his physical form dissolving into thick, billowing black smoke that twists into the shapes of screaming skulls. He wears tattered robes of rot-grey and charcoal, adorned with rusted iron chains and bird skulls. His face is hidden in the shadows of a deep hood, revealing only two burning green will-o'-the-wisps for eyes. He raises a staff made of a spinal column, and from the ground, skeletal hands claw their way up through the dirt. The atmosphere is suffocating and dark, with a desaturated color palette punctuated by the toxic green glow of his magic. {prompt}",
+        "negative_prompt": "solid, flesh, life, light, day, sun, happy, cheerful, bright colors"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Swamp Witch’s Bargain",
+        "prompt": "A witch stands waist-deep in a murky swamp, her skin the texture of bog wood. She holds out a hand dripping with black sludge, offering a golden apple that looks rot-free but sinister. Opposite her is a desperate knight, clean and shiny, hesitating to take it. The trees around them are draped in spanish moss that looks like hangman’s nooses. Mist curls around their waists, obscuring what lies beneath the water. {prompt}",
+        "negative_prompt": "dry, desert, clean, city, urban, happy, cheerful, bright, sun"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Turkish Rococo Weather Witch",
+        "prompt": "A stunningly powerful witch stands atop a minaret during a violent sandstorm. She is dressed in opulent Turkish Rococo attire—layers of silk, brocade, and lace in shades of turquoise, gold, and deep saffron. Her hands are adorned with heavy rings and henna tattoos that glow like molten gold. She commands the wind, her hair whipping furiously around her face. Lightning strikes in the background, illuminating the intricate embroidery on her corset and the flying carpets weaving through the storm behind her. The scene is chaotic, majestic, and dripping with gold and detail. {prompt}",
+        "negative_prompt": "calm, sun, silence, minimalism, simple, clean, modern, western"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Void-Walker Warlock",
+        "prompt": "A warlock strides through a portal of tearing reality. His skin is pale and cracked like porcelain, leaking purple astral energy. He wears heavy, layered robes of velvet and leather, embroidered with shifting, glowing runes that look like constellations. His left arm is transformed into a monstrous claw made of shadowy matter and starlight. He is surrounded by floating grimoires that flip their own pages. The setting is a library that is being sucked into a black hole, with debris floating in mid-air. Deep purples, blacks, and bright starlight whites dominate the scene. {prompt}",
+        "negative_prompt": "nature, earth, sun, light, day, green, happy, stable, calm"
+    },
+    {
+        "name": "Subject - Gothic Horror - The Weaver of Fates",
+        "prompt": "In a cavern illuminated by thousands of floating candles, a giant spider-woman hybrid weaves a tapestry on a loom made of bones. Her upper body is that of a beautiful, pale woman with multiple eyes, while her lower body is a sleek, black arachnid abdomen. The thread she uses is spun from the souls of the lost, glowing with a faint, ghostly white light. The tapestry depicts scenes of wars and loves yet to happen. The atmosphere is quiet and reverent, with a focus on the texture of the silk and the intricate details of the loom. {prompt}",
+        "negative_prompt": "sun, day, outside, urban, modern, sci-fi, happy, cheerful, bright"
+    },
+    {
+        "name": "Subject - Mythology - The Cosmic Creator",
+        "prompt": "A majestic fantasy image of a celestial woman with a calm, serene expression, floating within the deep expanse of the cosmos. Her flowing gown is composed entirely of swirling galaxies, nebulae, and countless stars that pulse rhythmically with brilliant light, as if connected to her very heartbeat. Her eyes glow with a soft, ethereal white luminescence. In her gently cupped hands, she carefully cradles a cluster of nascent stars, appearing as fragile, radiating orbs of pure energy. The background is a swirling dreamscape of deep blues, radiant violets, and brilliant silvers, filled with orbiting constellations, distant celestial bodies, and bright comets streaking across the frame. The atmosphere is infinite, dreamlike, and divine. {prompt}",
+        "negative_prompt": "daylight, sun, earth, ground, landscape, soil, solid structures, modern, sci-fi, technology, harsh, noisy, cartoon, sketch, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text"
+    },
+    {
+        "name": "Subject - Mythology - Feast of the Forest King",
+        "prompt": "A long wooden table is set inside the hollow trunk of a world-tree. The \"king\" is a stag with antlers that branch into cherry blossom trees. The guests are woodland animals wearing miniature Victorian waistcoats and dresses. The food consists of glowing berries, honeycombs, and dew served in acorn cups. Soft, warm light filters in through cracks in the bark, creating a cozy, storybook atmosphere with high detail on the textures of fur and wood. {prompt}",
+        "negative_prompt": "urban, metal, plastic, sci-fi, horror, scary, dark, gloomy, modern"
+    },
+    {
+        "name": "Subject - Mythology - The Cloud Whale Rider",
+        "prompt": "A young elf with sky-blue skin surfs on the back of a massive, translucent whale that swims through the clouds. The whale’s body is made of condensed mist and starlight. The rider holds a harpoon made of pure sunlight. Below them, mountain peaks poke through the cloud layer like islands in a white sea. The sun is rising, painting the clouds in pastel pinks, oranges, and golds. The sense of scale is immense, emphasizing the freedom of flight. {prompt}",
+        "negative_prompt": "ground, earth, ocean (water), night, dark, horror, small scale, enclosed"
+    },
+    {
+        "name": "Subject - Mythology - The Crystal Forge",
+        "prompt": "Inside a volcano where the lava is blue liquid crystal, a dwarf smith hammers a sword on an anvil made of a meteorite. The sparks flying from the metal are tiny diamonds. The dwarf has skin like granite and a beard made of braided copper wire. The heat distortion shimmers around the forge. The walls of the cavern are lined with raw gems that refract the blue light, creating a dazzling, prismatic effect. {prompt}",
+        "negative_prompt": "water, ice, cold, wood, organic, soft, dark, gloomy"
+    },
+    {
+        "name": "Subject - Mythology - The Crystal Golem’s Garden",
+        "prompt": "A massive, gentle golem made entirely of raw, uncut amethyst and quartz sits in a sun-drenched meadow. Its body refracts the sunlight into rainbows that dance across the grass. Tiny fae creatures and butterflies are nesting in the cracks of its crystal shoulders. The golem is carefully holding a single, fragile white flower in a hand the size of a boulder. The contrast between the jagged, hard crystal and the soft, organic meadow is emphasized. {prompt}",
+        "negative_prompt": "dark, night, horror, industrial, scary, violence, war, dead, dry"
+    },
+    {
+        "name": "Subject - Mythology - The Knight of the Moth",
+        "prompt": "A warrior clad in armor made of chitin and velvet stands in a moonlit forest. Instead of a cape, they have majestic, tattered moth wings that blend into the shadows. Their helmet has large, dark, faceted eyes and feathery antennae. They hold a rapier that glows with a faint, powdery luminescence. Bioluminescent mushrooms light the forest floor, casting an eerie green uplight on the knight’s armor. {prompt}",
+        "negative_prompt": "day, sun, metal (traditional plate), shiny, chrome, urban, sci-fi"
+    },
+    {
+        "name": "Subject - Mythology - The Library of Floating Islands",
+        "prompt": "A scholar with robes made of scrolling parchment stands on the edge of a floating rock island. In the sky around them, thousands of books fly like birds, their pages flapping wings. Massive chains connect the floating islands, which are covered in ancient mossy ruins. The sky is a gradient of twilight purple and gold. The scholar holds a lantern that emits shadow instead of light, capturing the flying books. {prompt}",
+        "negative_prompt": "ground, ocean, modern, sci-fi, urban, crowded, noisy, bright day"
+    },
+    {
+        "name": "Subject - Mythology - The Library of Trees",
+        "prompt": "A forest where every tree trunk is carved with the history of the world, and the leaves are pages of books. A scholar with spectacles and a lantern climbs a spiral staircase carved into a massive redwood to reach a specific branch. Squirrels with ink-stained paws scurry around. The light filters through the canopy in dappled green and gold shafts (god rays), illuminating the dust and pollen in the air. {prompt}",
+        "negative_prompt": "urban, stone, desert, modern, sci-fi, fire, destruction, dark"
+    },
+    {
+        "name": "Subject - Mythology - The Mirror Dimension Duel",
+        "prompt": "Two mages duel in a room made entirely of mirrors. One mage wields fire, the other ice. The mirrors reflect their attacks infinitely, creating a chaotic kaleidoscope of blue and orange flames. The floor is cracked, revealing a void of stars beneath. The composition is disorienting and symmetrical, challenging the viewer to distinguish the real mages from their reflections. {prompt}",
+        "negative_prompt": "nature, wood, stone, asymmetric, simple, plain, calm, stable"
+    },
+    {
+        "name": "Subject - Mythology - The Phoenix’s Ash",
+        "prompt": "A close-up image of an elderly sorceress holding a pile of grey ash in her cupped hands. From the center of the ash, a tiny, baby phoenix (size of a sparrow) is emerging, glowing with intense heat. The light from the baby bird illuminates the sorceress's wrinkled face, revealing tattoos that shift and move on her skin. The background is a dark, blurred alchemist’s lab filled with hanging herbs and glass vials. {prompt}",
+        "negative_prompt": "water, ice, cold, wide shot, full body, landscape, bright day"
+    },
+    {
+        "name": "Subject - Mythology - The Storm Giant’s Sorrow",
+        "prompt": "A giant, miles tall, sits weeping on the horizon of a vast ocean. His tears are waterfalls that crash into the sea, creating storms. His skin is the color of thunderclouds, and lightning crackles in his beard. Tiny ships below are tossed by the waves caused by his sorrow. The sky is dark and brooding, with a single ray of sunlight breaking through to illuminate one of the ships, offering a glimmer of hope. {prompt}",
+        "negative_prompt": "land, dry, calm, sun, happy, cheerful, small scale, peaceful"
+    },
+    {
+        "name": "Subject - Mythology - The Weaver of Tides",
+        "prompt": "A water elemental in the form of a woman rises from a stormy ocean. Her \"skin\" is transparent water containing schooling fish and bubbles. Her hair is crashing foam. She is weaving a massive net made of lightning bolts to catch a hurricane on the horizon. The lighting is dramatic, with dark grey storm clouds and bright flashes of electric blue illuminating the translucent water of her form. {prompt}",
+        "negative_prompt": "fire, earth, dry, land, desert, calm, sun, static"
+    },
+    {
+        "name": "Subject - Sci-Fi - Cinematic Wide Shot",
+        "prompt": "Cinematic, wide shot: A lone astronaut stands on a purple sand dune of a foreign planet, looking at a double sunset. A massive, ruined alien megastructure looms in the distance, half-buried in sand. Lens flare, film grain, nostalgic sci-fi aesthetic. {prompt}",
+        "negative_prompt": "close-up, portrait, forest, city, crowded, busy, fantasy, magic"
+    },
+    {
+        "name": "Subject - Sci-Fi - Futuristic Visor Portrait",
+        "prompt": "Close-up portrait of a woman wearing a high-tech white helmet with silver trim and a panoramic transparent visor. Her short, sleek dark hair frames a serious face as she looks off to the side. The visor reflects the warm orange and yellow glow of a blurred futuristic cityscape in the background, populated by towering skyscrapers. The atmosphere is mysterious, cinematic, and futuristic. {prompt}",
+        "negative_prompt": "no helmet, helmetless, opaque visor, obscured eyes, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text, rural, nature, vintage, retro"
+    },
+    {
+        "name": "Subject - Sci-Fi - Samurai of the Void",
+        "prompt": "A samurai in traditional armor, but the armor is pressurized for space travel. He stands on the hull of a spaceship, katana drawn. The katana blade is a beam of pure void/darkness. He is cutting a laser blast in half. The background is a swirl of stars and silence. {prompt}",
+        "negative_prompt": "planet, ground, atmosphere, day, sun, noisy, crowded, fantasy"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Archeology of Mechs",
+        "prompt": "A desert landscape where a primitive tribe lives inside the skeleton of a city-sized robot that fell from the sky centuries ago. Tents made of animal hides are pitched on the giant rusty ribs. Children play on a massive, deactivated cannon. The sky is a clear, deep blue. The metal of the mech is ancient, covered in rust and desert patina, contrasting with the colorful fabrics of the tribe. {prompt}",
+        "negative_prompt": "modern, high-tech, city, clean, new, shiny, war, battle"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Dragon-Ship",
+        "prompt": "A spaceship that is literally a biological, space-faring dragon fitted with engines and a cockpit on its back. Its scales are metallic silver. It breathes plasma fire. It is engaged in a dogfight with TIE-fighter style ships. The background is a purple nebula. {prompt}",
+        "negative_prompt": "organic (purely), mechanical (purely), sea, ocean, ground, atmosphere, day"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Dyson Ring Bazaar",
+        "prompt": "A wide shot of a marketplace built on the inner ring of a Dyson sphere. The \"sky\" above is actually the other side of the ring, thousands of miles away, curving upward. Ships of all shapes dock at neon-lit piers. The architecture is a mix of sleek white curves and rugged industrial piping. A massive star burns in the far distance (center of the sphere), providing blinding backlighting that silhouettes the ships. {prompt}",
+        "negative_prompt": "planet, sky (normal), night, ground, earth, fantasy, medieval"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Galactic Train",
+        "prompt": "A steam-punk style train, but it travels through space on tracks made of hard-light energy beams. The train is jet black with gold trim, puffing out nebula clouds instead of smoke. It is passing a colorful planet with three rings. Passengers are visible in the windows—various alien species sipping tea. The contrast between the retro train design and the cosmic background is the focus. {prompt}",
+        "negative_prompt": "sea, ground, tracks (metal), smoke (traditional), earth, atmosphere, day"
+    },
+    {
+        "name": "Subject - Sci-Fi - Nanotech Lava Field",
+        "prompt": "Crossing a Lava Field: The molten ground crackles beneath your feet, sections of the lava field hardened into black glass by cooling nanotechnology. Hovering platforms glide across the surface, carrying cargo and personnel to outposts built into jagged obsidian spires. The air shimmers with heat, and the horizon glows with a dull, red light. {prompt}",
+        "negative_prompt": "cold, ice, snow, water, rain, greenery, plants, trees, organic nature, blue sky, bright day, safe, calm, low quality, bad anatomy, blurred"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Energy Engineer",
+        "prompt": "interior futuristic space ship, baroque energy gate, a young woman, innovative and practical, with renewable energy engineer's attire, determined eyes, and a green outlook., high-definition, detailed, striking, captivating:1.3) , Adventure pose, Bald hair styled as Buzz cut, flowers, sharp, focussed, a futuristic spaceship in an interior setting. The ship is adorned with a large energy gate in the background. the woman is featured prominently in the center of the frame, dressed in renewable energy engineer attire and exhibiting determined eyes {prompt}",
+        "negative_prompt": "long hair, messy, dirty, grunge, low quality, bad anatomy, worst quality, lowres, watermark, blur, deformed, text, steampunk, rustic, dark, horror"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Junk-King of the Rust Sea",
+        "prompt": "Perched atop a throne made of welded engine blocks and street signs, a scavenger king surveys his domain—a vast desert of rusted spaceships and ancient machinery. He wears a cloak stitched together from solar sails and wires, and his face is hidden behind a modified welding mask painted with a tribal grin. A robotic hawk with camera-lens eyes perches on his arm. The sun is setting, casting long, hard shadows across the jagged metal landscape, bathing the scene in deep oranges and rusty reds. {prompt}",
+        "negative_prompt": "clean, new, shiny, luxury, modern, high-tech, green, nature"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Orbital Botanist",
+        "prompt": "Inside the glass dome of a space station orbiting Saturn, a botanist tends to a garden of levitating, bioluminescent alien flora. The plants pulse with a heartbeat-like rhythm, emitting spores that look like galaxy clusters. The botanist wears a suit made of white linen and flexible ceramic plating, stained with purple alien soil. Outside the dome, the rings of Saturn stretch infinitely, painting the scene in soft hues of beige, gold, and pale blue. The lighting is soft and diffused, creating a dreamlike, sterile yet organic atmosphere. {prompt}",
+        "negative_prompt": "earth, soil (brown), sun (yellow/white), dark, horror, gritty, dirty"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Ebony Gatekeeper",
+        "prompt": "A fantastic image featuring a young woman standing prominently in the center of a futuristic spaceship interior. She is clad in an opulent, multilayered dress made of shimmering ebony that appears to be carved from dark, living wood, accented with mysterious, glowing flowers. The texture is sharp and focused, blending the surreal, glossy aesthetic of Rachel Maclean with a touch of solemn narrative gravity. Behind her looms a massive, intricate energy gate designed in a high-Baroque style, swirling with power. Her gaze is fixed and determined, creating a contrast between the organic darkness of her dress and the high-tech, ornate background. {prompt}",
+        "negative_prompt": "simple, minimalism, rustic, dirt, grime, blurry, out of focus, happy, cheerful, bright day, sun, pastel, low quality, bad anatomy, sketch"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Ivory Sentinel",
+        "prompt": "A fantastic image featuring a young woman standing prominently in the center of a futuristic spaceship interior. She is clad in an opulent, multilayered dress made of shimmering, polished ivory that appears to be carved from ancient, pale bone, accented with delicate gold filigree and pearlescent details. The texture is sharp and focused, blending the surreal, glossy aesthetic of Rachel Maclean with a touch of regal narrative gravity. Behind her looms a massive, intricate energy gate designed in a high-Baroque style, swirling with radiant white power. Her gaze is commanding and serene, creating a contrast between the pristine, pale hardness of her dress and the complex, mechanical background. {prompt}",
+        "negative_prompt": "simple, minimalism, rustic, dirt, grime, blurry, out of focus, happy, cheerful, dark, gloomy, low quality, bad anatomy, sketch, matte, plastic"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Melancholy Wanderer",
+        "prompt": "A candid, intimate portrait photograph bathed in warm light, capturing a young woman adorned in elaborate, colorful fantastical attire and intricate face paint that suggests a recent performance. She stands still in a moment of quiet, somber contemplation, her eyes betraying a deep sadness that contrasts sharply with her vibrant appearance. She is surrounded by the chaos of a bustling futuristic marketplace; the background is a bokeh blur of robotic vendors hawking cybernetics and alien spices under glowing neon signs in multiple languages and flickering augmented reality advertisements. A dense crowd of humans, varied aliens, and androids flows around her unmoving form. The photographic style emphasizes the rich textures of her costume and the warm glow on her face against the cooler neon of the market. {prompt}",
+        "negative_prompt": "happy, smiling, cheerful, bright daylight, empty, quiet, clean, modern minimalism, low quality, blurry subject"
+    },   
+    {
+        "name": "Subject - Sci-Fi - The Sun-Diver",
+        "prompt": "A ship designed to harvest energy from stars. It looks like a metallic teardrop with heat shields glowing cherry-red. It is skimming the surface of a sun, surrounded by massive solar flares and magnetic loops. The texture of the sun's surface is hyper-realistic, churning plasma. The ship looks tiny and fragile against the immense power of the star. {prompt}",
+        "negative_prompt": "cold, dark, ice, planet, ground, water, space (empty), silence"
+    },
+    {
+        "name": "Subject - Sci-Fi - The Terraforming Failure",
+        "prompt": "An astronaut in a cracked helmet kneels on a planet where the terraforming went wrong. The plants are monstrous—giant Venus flytraps made of chrome and red flesh, towering over the human. The air is thick with yellow toxic pollen. In the background, a pristine, white terraforming spire stands tall but is overgrown with pulsating purple vines. The lighting is sickly yellow and hazy. {prompt}",
+        "negative_prompt": "healthy, green, blue sky, clean, safe, happy, cheerful, nature (earth)"
+    },
+    {
+        "name": "Subject - Abstract - Double Exposure",
+        "prompt": "Double Exposure: The silhouette of a woman’s profile. Inside the silhouette is a raging forest fire at night. Her eyes are the full moon. The background is stark white. {prompt}",
+        "negative_prompt": "realism (standard), color (background), 3d, busy, clutter, text"
+    },
+    {
+        "name": "Subject - Abstract - Off-center Extreme Close-up",
+        "prompt": "Off-center composition, extreme close-up: A warrior’s eye, the iris is a golden clock face, the pupil a keyhole. Mud and blood are smeared on the skin around the eye, and the reflection in the eye shows a burning castle. {prompt}",
+        "negative_prompt": "full body, long shot, both eyes, wide angle, landscape, blurry"
+    },
+    {
+        "name": "Subject - Abstract - Off-center Low Angle",
+        "prompt": "Off-center composition, low angle: A cyberpunk street samurai stands over the viewer, backlit by a massive neon billboard of a geisha. Rain drips from the rim of their hat. They hold a katana that glows with red thermal energy. {prompt}",
+        "negative_prompt": "high angle, eye level, day, sun, bright, friendly, cute"
+    },
+    {
+        "name": "Subject - Abstract - The City of Stairs",
+        "prompt": "An Escher-like city where gravity works in three different directions. People walk on walls and ceilings. The architecture is white marble with gold veins. Waterfalls flow sideways. A woman in a red dress sits on a staircase that leads nowhere, reading a book that floats upside down. The sky is a void of white fog, isolating the impossible architecture. {prompt}",
+        "negative_prompt": "gravity, flat, realistic physics, ground, earth, dirt, chaos"
+    },
+    {
+        "name": "Subject - Abstract - The Melting Time",
+        "prompt": "A desert landscape where the sand dunes are actually piles of golden hourglass sand. Clocks melt over dead trees like soft cheese, inspired by Dali but with a hyper-realistic, 8k render style. A figure walks in the distance, but their head is a floating birdcage containing a blue canary. The sky is a gradient of deep violet to bright teal, with two suns—one red, one white. {prompt}",
+        "negative_prompt": "water, ice, cold, rigid, solid, normal, boring, standard"
+    },
+    {
+        "name": "Subject - Abstract - The Porcelain Doll Autopsy",
+        "prompt": "A ceramic doll lies on a steel table, cracked open. Instead of hollow space, the inside is filled with ripe pomegranates, honeycomb, and blooming roses. Bees crawl over the sweet interior. The lighting is clinical and cold, contrasting with the warm, organic richness of the fruit and flowers inside the artificial shell. {prompt}",
+        "negative_prompt": "blood, gore, flesh, life, warm lighting, cozy, dark, scary"
+    },
+    {
+        "name": "Subject - Abstract - The Sound of Color",
+        "prompt": "A jazz musician plays a saxophone on a rooftop at night. As he plays, the sound waves manifest as colorful, liquid paint splashing into the air—vibrant yellows, deep blues, and hot pinks. The paint defies gravity, forming abstract shapes of dancers. The city background is black and white, making the colorful \"sound\" pop vividly. {prompt}",
+        "negative_prompt": "silence, photorealistic (standard), color (background), boring, static, dry"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "RM - Gothic - Victorian Revival",
+        "prompt": "high victorian gothic atmosphere of {prompt} . heavy fog-laden ambiance, ornate intricate details, somber elegance, velvet and lace textures, melancholic gloom, shadowy depth, rich dark aesthetic, mourning atmosphere",
+        "negative_prompt": "modern, bright, sunny, neon, minimalist, clean, concrete, sci-fi"
+    },
+    {
+        "name": "RM - Gothic - Dark Romanticism",
+        "prompt": "romantic gothic painting of {prompt} in the style of Caspar David Friedrich . sublime atmospheric terror, misty ethereal depth, contemplative solitude, moody chiaroscuro, 19th-century oil technique, vast emotional scale, haunting beauty",
+        "negative_prompt": "happy, bright, pop art, cartoon, busy, crowded, urban, modern"
+    },
+    {
+        "name": "RM - Gothic - Southern Gothic",
+        "prompt": "southern gothic photography of {prompt} . oppressive humid atmosphere, decaying organic textures, pervasive rust and rot, swampy stagnation, uncanny isolation, grit and grime, haunting rural realism, worn surfaces",
+        "negative_prompt": "clean, urban, futuristic, snowy, dry, desert, happy, pristine"
+    },
+    {
+        "name": "RM - Gothic - Guillermo del Toro",
+        "prompt": "dark fantasy film still of {prompt} by Guillermo del Toro . intricate mechanical textures, amber and teal cinematic grading, magical realism, fairy tale horror atmosphere, fantastical organic details, rich visual storytelling, deep contrast",
+        "negative_prompt": "clean, white, sterile, generic, boring, flat lighting, sitcom"
+    },
+    {
+        "name": "RM - Gothic - Gerald Brom",
+        "prompt": "gothic fantasy illustration of {prompt} by Brom . dramatic theatrical lighting, dark fantasy intensity, sharp painterly texture, occult undertones, edgy leather and metal details, brooding atmosphere, striking contrast",
+        "negative_prompt": "anime, cute, bright, fuzzy, soft, watercolor, happy, landscape"
+    },
+    {
+        "name": "RM - Gothic - Cybergoth",
+        "prompt": "futuristic cybergoth fashion shot of {prompt} . bio-mechanical industrial aesthetic, uv-reactive neon highlights, synthetic pvc and mesh textures, aggressive digital atmosphere, toxic color palette, edgy cybernetic vibe, high contrast darkness",
+        "negative_prompt": "vintage, rustic, wood, nature, sunlight, pastel, soft, traditional"
+    },
+    {
+        "name": "RM - Gothic - Pastel Goth",
+        "prompt": "kawaii pastel goth illustration of {prompt} . juxtaposition of creepy and cute, soft pastel pink and lavender palette, soft grunge aesthetic, playful macabre elements, smooth vector style, whimsical darkness, harajuku influence",
+        "negative_prompt": "dark, gritty, realistic, scary, horror, blood, brown, grey"
+    },
+    {
+        "name": "RM - Gothic - Eldritch Horror",
+        "prompt": "lovecraftian gothic art of {prompt} . incomprehensible cosmic horror, twisting non-euclidean geometry, ancient malevolent atmosphere, dark sanity-shattering complexity, visceral organic textures, deep abyssal tones, intricate ink detailing",
+        "negative_prompt": "human, normal, sane, bright, understandable, simple, geometric"
+    },
+    {
+        "name": "RM - Gothic - Folk Horror",
+        "prompt": "folk horror photography of {prompt} . unsettling daylight dread, ancient pagan aesthetic, organic woven textures, rural isolation, deceptive brightness, uncanny ritualistic undertones, vivid naturalistic terror",
+        "negative_prompt": "dark, night, urban, cyberpunk, sci-fi, indoor, studio"
+    },
+    {
+        "name": "RM - Gothic - Vampire Romance",
+        "prompt": "sensual vampire gothic art of {prompt} . lush crimson velvet textures, aristocratic elegance, soft candlelight illumination, baroque opulence, romantic dangerous atmosphere, rich deep shadows, seductive darkness",
+        "negative_prompt": "zombie, rotting, dirty, gritty, ugly, modern, daylight, neon"
+    }
+]

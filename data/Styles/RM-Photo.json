@@ -1,0 +1,82 @@
+[
+    {
+        "name": "RM - Photo - Annie Leibovitz",
+        "prompt": "cinematic editorial photography of {prompt} in the style of Annie Leibovitz . painterly dramatic lighting, carefully staged composition, rich deep color palette, Vanity Fair aesthetic, environmental portraiture, grand atmospheric scale, soft yet directional illumination",
+        "negative_prompt": "candid, snapshot, harsh flash, flat, bright, neon, amateur, blurry"
+    },
+    {
+        "name": "RM - Photo - Steve McCurry",
+        "prompt": "vivid documentary photography of {prompt} in the style of Steve McCurry . rich saturated colors, piercing emotional focal point, soft natural lighting, National Geographic aesthetic, intense visual depth, storytelling atmosphere, Kodachrome vibrance",
+        "negative_prompt": "black and white, faded, desaturated, studio lighting, artificial, flash"
+    },
+    {
+        "name": "RM - Photo - Andreas Gursky",
+        "prompt": "monumental contemporary photography of {prompt} in the style of Andreas Gursky . massive scale, elevated high-angle perspective, mesmerizing repetitive patterns, hyper-detailed edge-to-edge sharpness, digitally manipulated realism, cold consumerist aesthetic",
+        "negative_prompt": "close-up, macro, bokeh, low angle, warm, emotional, soft focus"
+    },
+    {
+        "name": "RM - Photo - David LaChapelle",
+        "prompt": "surreal pop-art photography of {prompt} in the style of David LaChapelle . hyper-saturated colors, glossy commercial finish, kitsch surrealism, fantastical staged composition, vibrant plastic aesthetic, high-fashion irony, electric luminosity",
+        "negative_prompt": "natural, rustic, muted, black and white, gritty, documentary, subtle"
+    },
+    {
+        "name": "RM - Photo - Sebastião Salgado",
+        "prompt": "epic black and white documentary photography of {prompt} in the style of Sebastião Salgado . high contrast monochrome, dramatic natural lighting, majestic scale, intricate textural detail, Genesis aesthetic, raw emotional power, silver gelatin look",
+        "negative_prompt": "color, digital, flat, soft, studio, commercial, happy, bright"
+    },
+    {
+        "name": "RM - Photo - Martin Parr",
+        "prompt": "satirical documentary photography of {prompt} in the style of Martin Parr . harsh ring flash lighting, high color saturation, candid snapshot aesthetic, uncomfortably close details, ironic observation, garish reality, bright and direct",
+        "negative_prompt": "soft, romantic, cinematic, elegant, muted, black and white, bokeh"
+    },
+    {
+        "name": "RM - Photo - Nan Goldin",
+        "prompt": "intimate raw photography of {prompt} in the style of Nan Goldin . warm tungsten lighting, candid snapshot aesthetic, emotional vulnerability, deep shadows, rich saturated colors, confessional atmosphere, low-light grain",
+        "negative_prompt": "studio, professional, cold, perfectly lit, staged, commercial, clean"
+    },
+    {
+        "name": "RM - Photo - Platon",
+        "prompt": "intense studio portrait of {prompt} in the style of Platon . wide angle distortion, stark high-contrast black and white, microscopic facial detail, confronting gaze, minimalist background, powerful presence, dramatic studio lighting",
+        "negative_prompt": "color, soft, distance, environmental, cluttered, full body, candid"
+    },
+    {
+        "name": "RM - Photo - Petra Collins",
+        "prompt": "dreamy feminine photography of {prompt} in the style of Petra Collins . soft hazy focus, pastel and neon lighting, vintage 70s vibe, ethereal atmosphere, cinematic intimacy, emotional gaze, soft grain texture",
+        "negative_prompt": "sharp, hard, masculine, gritty, dark, high contrast, digital"
+    },
+    {
+        "name": "RM - Photo - Hiroshi Sugimoto",
+        "prompt": "minimalist fine art photography of {prompt} in the style of Hiroshi Sugimoto . ultra-long exposure, surreal stillness, infinite depth, smooth gradients, high-contrast black and white, meditative atmosphere, out-of-focus abstraction",
+        "negative_prompt": "fast shutter, motion freeze, busy, colorful, chaotic, snapshot"
+    },
+    {
+        "name": "RM - Photo - Alec Soth",
+        "prompt": "lyrical documentary photography of {prompt} in the style of Alec Soth . large format depth, muted natural colors, melancholic atmosphere, poetic stillness, midwestern gothic vibe, soft diffused daylight, observational realism",
+        "negative_prompt": "studio, flash, neon, high contrast, action, dynamic, commercial"
+    },
+    {
+        "name": "RM - Photo - Wolfgang Tillmans",
+        "prompt": "contemporary art photography of {prompt} in the style of Wolfgang Tillmans . eclectic observational style, mix of flash and natural light, abstract textures, raw immediacy, unconventional composition, authentic cultural vibe",
+        "negative_prompt": "traditional, posed, perfect, classic, painting, vintage, sepia"
+    },
+    {
+        "name": "RM - Photo - Helmut Newton",
+        "prompt": "iconic fashion photography of {prompt} in the style of Helmut Newton . provocative noir elegance, statuesque power, stark hard lighting, fetishistic undertones, voyeuristic luxury atmosphere, sharp distinct edges, commanding sophisticated aesthetic, cold eroticism",
+        "negative_prompt": "soft, romantic, innocent, modest, blurry, low contrast, natural, rustic, shy, candid"
+    },
+    {
+      "name": "RM - Photo - Guy Bourdin",
+      "prompt": "surreal high-saturation fashion photography of {prompt} in the style of Guy Bourdin . cropped compositions, narrative tension, bold color, unconventional poses, provocative themes",
+      "negative_prompt": "natural, muted, standard, boring, conservative, low saturation"
+    },
+    {
+      "name": "RM - Photo - Richard Avedon",
+      "prompt": "minimalist high-motion photography of {prompt} in the style of Richard Avedon . stark white background, emotional intensity, raw personality, iconic fashion portrait, crisp details",
+      "negative_prompt": "cluttered background, colorful, low contrast, static, landscape, environment"
+    },
+    {
+      "name": "RM - Photo - Peter Lindbergh",
+      "prompt": "raw cinematic black and white photography of {prompt} in the style of Peter Lindbergh . natural beauty, unretouched aesthetic, intimate portrait, 90s grunge vibe, moody monochrome",
+      "negative_prompt": "color, retouched, heavy makeup, plastic, studio lighting, airbrushed"
+    }
+]

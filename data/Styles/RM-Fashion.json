@@ -1,0 +1,122 @@
+[
+    {
+        "name": "RM - Fashion - Yohji Yamamoto",
+        "prompt": "avant-garde fashion photography of {prompt} in the style of Yohji Yamamoto . oversized silhouettes, master of black, deconstructed tailoring, draping layers, fluid fabrics, dark romanticism, avant-garde streetwear",
+        "negative_prompt": "tight fit, bright neon colors, rigid, stiff, preppy, casual, plain"
+    },
+    {
+        "name": "RM - Fashion - Rei Kawakubo (Comme des Garçons)",
+        "prompt": "sculptural fashion art of {prompt} in the style of Comme des Garçons . lumpy silhouettes, asymmetrical shapes, unconventional beauty, avant-garde experimentation, polka dots or distressed fabrics, high concept",
+        "negative_prompt": "traditional beauty, sexy, form-fitting, standard suit, boring, symmetrical"
+    },
+    {
+        "name": "RM - Fashion - Issey Miyake",
+        "prompt": "innovative fashion design of {prompt} in the style of Issey Miyake . signature micro-pleating (Pleats Please), geometric structures, technology-driven fabric, architectural shapes, fluid motion",
+        "negative_prompt": "heavy wool, stiff leather, denim, messy, unstructured, vintage"
+    },
+    {
+        "name": "RM - Fashion - Junya Watanabe",
+        "prompt": "utilitarian couture fashion of {prompt} by Junya Watanabe . patchwork construction, techno-couture, denim manipulation, complex pattern cutting, synthetic materials mixed with traditional tweed",
+        "negative_prompt": "simple, minimal, flowing, soft, organic, hippie"
+    },
+    {
+        "name": "RM - Fashion - Juun.J",
+        "prompt": "modern streetwear couture of {prompt} by Juun.J . trench coat restructuring, exaggerated oversized shoulders, street tailoring, military influence, crisp structure, Seoul Fashion Week aesthetic",
+        "negative_prompt": "bohemian, soft, fitted, retro, floral, delicate"
+    },
+    {
+        "name": "RM - Fashion - Wooyoungmi",
+        "prompt": "sophisticated menswear of {prompt} by Wooyoungmi . architectural cuts, delicate precision, artistic detail, gender-neutral elegance, clean lines, contemporary Seoul aesthetic",
+        "negative_prompt": "rugged, messy, grunge, bulky, aggressive"
+    },
+    {
+        "name": "RM - Fashion - Rick Owens",
+        "prompt": "gothic grandeur fashion of {prompt} by Rick Owens . brutalist elegance, elongated silhouettes, dropped crotch, distressed leather, glunge (glamour + grunge), apocalyptic minimalism",
+        "negative_prompt": "colorful, preppy, cute, business casual, standard, bright"
+    },
+    {
+        "name": "RM - Fashion - Alexander McQueen",
+        "prompt": "dramatic haute couture of {prompt} by Alexander McQueen . savage beauty, gothic romance, impeccable tailoring combined with raw emotion, feathers, skull motifs, theatrical presentation",
+        "negative_prompt": "boring, safe, commercial, mall fashion, plain, simple"
+    },
+    {
+        "name": "RM - Fashion - Iris van Herpen",
+        "prompt": "futuristic 3D printed fashion of {prompt} by Iris van Herpen . biomimicry, organic structures, translucent materials, laser cut details, ethereal, water-like movement, high tech couture",
+        "negative_prompt": "traditional fabric, cotton, wool, heavy, solid, retro, vintage"
+    },
+    {
+        "name": "RM - Fashion - Maison Margiela",
+        "prompt": "deconstructionist fashion of {prompt} by Maison Margiela . visible stitches, upcycled materials, anonymous models (face covering), painted leather, tabi boots influence, intellectual fashion",
+        "negative_prompt": "logo heavy, commercial, flashy, perfect finish, standard"
+    },
+    {
+        "name": "RM - Fashion - Virgil Abloh (Off-White)",
+        "prompt": "industrial luxury streetwear of {prompt} by Off-White . helvetica text overlays, zip ties, industrial belts, deconstructed sneakers, ironic quotation marks, diagonal stripes, high fashion street style",
+        "negative_prompt": "boho, vintage, classic menswear, rustic, floral"
+    },
+    {
+        "name": "RM - Fashion - Demna Gvasalia (Balenciaga)",
+        "prompt": "subversive post-soviet fashion of {prompt} by Balenciaga . oversized hoodies, exaggerated proportions, dad shoes, ironic branding, meme fashion, utilitarian aesthetics",
+        "negative_prompt": "elegant, timeless, classic, fitted, delicate, traditional luxury"
+    },
+    {
+        "name": "RM - Fashion - Sacai (Chitose Abe)",
+        "prompt": "hybridized fashion design of {prompt} by Sacai . splicing two different garments together, mixed textures, complex layering, military meets knitwear, asymmetry",
+        "negative_prompt": "simple, single fabric, plain, basic, uniform"
+    },
+    {
+        "name": "RM - Fashion - Thom Browne",
+        "prompt": "surrealist preppy fashion of {prompt} by Thom Browne . shrunken grey suits, red white and blue grosgrain, uniform aesthetics, theatrical tailoring, cropped trousers",
+        "negative_prompt": "baggy, loose, oversized, streetwear, grunge, messy"
+    },
+    {
+        "name": "RM - Fashion - Haute Couture (Avant-Garde)",
+        "prompt": "avant-garde haute couture fashion shot of {prompt} . architectural fabric shapes, Iris van Herpen aesthetic, impossible gravity-defying structure, high fashion runway, experimental materials, dramatic lighting",
+        "negative_prompt": "casual, t-shirt, jeans, plain, boring, ready-to-wear, simple"
+    },
+    {
+        "name": "RM - Fashion - 1920s Flapper",
+        "prompt": "vintage 1920s fashion photography of {prompt} . art deco beadwork, fringe, silk slip dresses, pearl accessories, Great Gatsby aesthetic, bobbed hair, glamourous and glitzy",
+        "negative_prompt": "modern, denim, neon, futuristic, minimalist, 1950s, 1980s"
+    },
+    {
+        "name": "RM - Fashion - Techwear (Urban Ninja)",
+        "prompt": "modern techwear fashion shot of {prompt} . matte black waterproof fabrics, straps and buckles, cargo pockets, cyberpunk street ninja aesthetic, acornym style, functional and urban",
+        "negative_prompt": "bright colors, floral, vintage, rustic, suits, formal wear"
+    },
+    {
+        "name": "RM - Fashion - 1960s Mod",
+        "prompt": "retro 1960s mod fashion shot of {prompt} . bold color blocking, miniskirts, go-go boots, geometric patterns, Twiggy aesthetic, london swing era, clean lines",
+        "negative_prompt": "grunge, dark, messy, victorian, intricate, flowing, boho"
+    },
+    {
+        "name": "RM - Fashion - Rococo Court",
+        "prompt": "extravagant 18th century rococo fashion of {prompt} . powdered wigs, wide pannier dresses, pastel silks, lace and ribbons, Marie Antoinette aesthetic, excess and luxury",
+        "negative_prompt": "modern, simple, black, leather, jeans, minimalism, dark"
+    },
+    {
+        "name": "RM - Fashion - Harajuku Decora",
+        "prompt": "chaotic harajuku decora fashion of {prompt} . excessive hair clips, layers of rainbow accessories, bright pinks and cyans, playful maximalism, Tokyo street style, cute and loud",
+        "negative_prompt": "minimalist, plain, dark, serious, western, casual, boring"
+    },
+    {
+        "name": "RM - Fashion - 90s Grunge",
+        "prompt": "90s grunge fashion shot of {prompt} . flannel shirts, ripped denim, combat boots, unkempt hair, Nirvana aesthetic, dirty and authentic, lo-fi photography",
+        "negative_prompt": "clean, polished, high fashion, suit, luxury, bright, neon"
+    },
+    {
+        "name": "RM - Fashion - Elizabethan",
+        "prompt": "royal Elizabethan fashion of {prompt} . massive ruff collars, pearl embellishments, stiff corset, velvet and brocade, Queen Elizabeth I aesthetic, historical opulence",
+        "negative_prompt": "modern, casual, loose, simple, t-shirt, jeans, cheap"
+    },
+    {
+        "name": "RM - Fashion - Streetwear Hypebeast",
+        "prompt": "modern hypebeast streetwear of {prompt} . oversized hoodies, logos, sneakers, puffer jackets, Supreme aesthetic, urban cool, flash photography",
+        "negative_prompt": "vintage, formal, rustic, old, cowboy, suit, dress"
+    },
+    {
+        "name": "RM - Fashion - Punk Rock",
+        "prompt": "hardcore punk fashion of {prompt} . leather jacket with studs, mohawk hair, safety pins, tartan pants, rebellious attitude, Sex Pistols aesthetic, gritty",
+        "negative_prompt": "preppy, clean, soft, pastel, quiet, obedient, suit"
+    }
+]

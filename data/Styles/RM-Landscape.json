@@ -1,0 +1,132 @@
+[
+    {
+        "name": "RM - Landscape - 70s Sci-Fi Scape",
+        "prompt": "retro sci-fi landscape of {prompt} . 1970s paperback cover art, airbrush texture, surreal planets, vibrant colors, John Harris or Chris Foss aesthetic, mysterious vastness, space opera vibe",
+        "negative_prompt": "photorealistic, digital, modern, 3d render, gritty, grey, boring"
+    },
+    {
+        "name": "RM - Landscape - Abyssal Underwater",
+        "prompt": "breathtaking underwater seascape of {prompt} . bioluminescent flora, sunbeams piercing through deep blue water, volumetric god rays, schools of tropical fish, coral reef detail, bubbles and marine snow, cinematic aquatic photography, 8k resolution",
+        "negative_prompt": "dry, land, desert, sky, clouds, birds, people, blurry, low quality, oversaturated"
+    },
+    {
+        "name": "RM - Landscape - Alpine Sublime",
+        "prompt": "majestic alpine landscape of {prompt} . snow-capped peaks, crystal clear mountain lake, pine forests, crisp cold air atmosphere, Switzerland or Rockies aesthetic, high dynamic range",
+        "negative_prompt": "desert, tropical, warm, blurry, flat, city, smog"
+    },
+    {
+        "name": "RM - Landscape - Ansel Adams",
+        "prompt": "majestic black and white landscape photography of {prompt} by Ansel Adams . Zone System exposure, high contrast, deep shadows and bright highlights, f/64 group aesthetic, sharp focus, dramatic clouds, Yosemite style",
+        "negative_prompt": "color, sepia, digital, low contrast, soft focus, blurry, painting"
+    },
+    {
+        "name": "RM - Landscape - Bob Ross",
+        "prompt": "wet-on-wet oil painting of {prompt} by Bob Ross . happy trees, majestic mountains, titanium white highlights, soft blending, palette knife texture, peaceful atmosphere, The Joy of Painting aesthetic",
+        "negative_prompt": "photorealistic, sharp, digital, vector, angry, dark, scary"
+    },
+    {
+        "name": "RM - Landscape - Cybertronian (Machine World)",
+        "prompt": "futuristic machine world landscape of {prompt} . entire surface made of metal, towering mechanical spires, glowing energetic lines, industrial sci-fi, Transformers aesthetic, no organic life",
+        "negative_prompt": "trees, grass, water, clouds, organic, nature, soft, dirt"
+    },
+    {
+        "name": "RM - Landscape - Dark Forest",
+        "prompt": "ominous dark forest landscape of {prompt} . ancient gnarled trees, thick rolling mist, twisted roots, Brothers Grimm fairy tale aesthetic, deep shadows, mysterious and spooky, Black Forest vibe",
+        "negative_prompt": "bright, sunny, happy, tropical, desert, open fields, modern"
+    },
+    {
+        "name": "RM - Landscape - Desert Dunes",
+        "prompt": "vast desert landscape of {prompt} . rolling sand dunes, rippled textures, intense heat haze, golden orange and red sand, Sahara or Namib desert aesthetic, endless horizon, harsh sunlight",
+        "negative_prompt": "green, water, trees, grass, wet, snow, ice, city, jungle"
+    },
+    {
+        "name": "RM - Landscape - Dreamscape",
+        "prompt": "surreal dreamscape of {prompt} . floating islands, defying gravity, impossible geometry, soft pastel clouds, magical atmosphere, fantasy world, ethereal lighting",
+        "negative_prompt": "realistic, physics, grounded, normal, boring, dark, gritty"
+    },
+    {
+        "name": "RM - Landscape - Drone Aerial",
+        "prompt": "top-down aerial drone photography of {prompt} . bird's eye view, geometric patterns in nature, high altitude, flat lay composition, mapping aesthetic, distinct textures",
+        "negative_prompt": "ground level, horizon, sky, perspective, side view, macro"
+    },
+    {
+        "name": "RM - Landscape - Fantasy Map",
+        "prompt": "antique fantasy map style of {prompt} . parchment paper texture, hand drawn ink mountains and forests, \"here be dragons\" aesthetic, Tolkien middle-earth style, cartography, sepia tones",
+        "negative_prompt": "photorealistic, 3d, satellite view, modern map, colorful, digital"
+    },
+    {
+        "name": "RM - Landscape - Hudson River School",
+        "prompt": "epic oil painting landscape of {prompt} in Hudson River School style . luminous lighting, pastoral setting, grand scale, romanticism, Thomas Cole or Albert Bierstadt aesthetic, glowing horizon, detailed nature",
+        "negative_prompt": "modern, abstract, impressionist, loose strokes, dark, gritty, urban"
+    },
+    {
+        "name": "RM - Landscape - Matte Painting",
+        "prompt": "cinematic matte painting of {prompt} . epic movie background, hyper-detailed, massive scale, digital extension, atmospheric perspective, fantasy or sci-fi movie set aesthetic, highly polished",
+        "negative_prompt": "sketch, loose, blurry, low res, simple, cartoon, anime"
+    },
+    {
+        "name": "RM - Landscape - National Geographic",
+        "prompt": "travel photography landscape of {prompt} . vivid colors, golden hour lighting, sharp wide angle lens, adventurous atmosphere, National Geographic magazine aesthetic, breathtaking vista",
+        "negative_prompt": "studio, indoor, artificial, dull, low res, blurry, black and white"
+    },
+    {
+        "name": "RM - Landscape - Neon Tokyo",
+        "prompt": "vibrant neon Tokyo nightscape of {prompt} . dense verticality, glowing signs in rain, wet streets, cyberpunk atmosphere, purple and cyan lighting, futuristic metropolis, photography",
+        "negative_prompt": "daylight, rural, empty, dry, beige, nature, flat"
+    },
+    {
+        "name": "RM - Landscape - Post-Apocalyptic",
+        "prompt": "overgrown post-apocalyptic landscape of {prompt} . nature reclaiming ruins, rusting metal, vines and moss, soft lighting, The Last of Us aesthetic, melancholic beauty, abandoned",
+        "negative_prompt": "clean, new, futuristic, sci-fi, busy, populated, pristine"
+    },
+    {
+        "name": "RM - Landscape - Scottish Highlands",
+        "prompt": "rugged scottish highlands landscape of {prompt} . vast green moors, dramatic overcast sky, rocky terrain, mossy rocks, mist clinging to hills, moody and atmospheric, Isle of Skye aesthetic",
+        "negative_prompt": "tropical, dry, sunny, beach, jungle, urban, flat"
+    },
+    {
+        "name": "RM - Landscape - Shanshui (Ink Wash)",
+        "prompt": "traditional Chinese Shanshui painting of {prompt} . ink and water on silk, towering mountain peaks, mist and fog, negative space, calligraphy brush strokes, philosophical and meditative",
+        "negative_prompt": "colorful, oil paint, heavy texture, western perspective, photorealistic, 3d"
+    },
+    {
+        "name": "RM - Landscape - Spaghetti Western",
+        "prompt": "cinematic spaghetti western landscape of {prompt} in the style of Sergio Leone . vast desert plains, extreme wide shot, harsh sunlight, heat haze, saturation of yellow and brown, tense atmosphere, Ennio Morricone vibe",
+        "negative_prompt": "green, lush, wet, rainy, urban, indoor, cold, blue"
+    },
+    {
+        "name": "RM - Landscape - Spring Meadow",
+        "prompt": "idyllic spring meadow of {prompt} . rolling green hills, vibrant wildflowers, bright sunny atmosphere, tall swaying grass, pastoral countryside, soft focus background, peaceful",
+        "negative_prompt": "winter, snow, dark, night, industrial, dead grass, desert"
+    },
+    {
+        "name": "RM - Landscape - Tilt-Shift (Miniature)",
+        "prompt": "tilt-shift photography of {prompt} . miniature faking effect, blurred top and bottom, selective focus, vibrant colors, diorama aesthetic, toy-like scale",
+        "negative_prompt": "flat focus, realistic scale, massive, wide angle, standard photography"
+    },
+    {
+        "name": "RM - Landscape - Tropical Beach",
+        "prompt": "pristine tropical beach landscape of {prompt} . powdery white sand, crystal clear turquoise water, swaying palm trees, bright blue sky, Maldives or Bora Bora aesthetic, summer paradise, relaxing atmosphere",
+        "negative_prompt": "rocky, cliffs, storm, dark, cold, snow, rain, urban, dirty, crowded"
+    },
+    {
+        "name": "RM - Landscape - Tropical Jungle",
+        "prompt": "dense tropical rainforest of {prompt} . lush layered vegetation, exotic flora, hanging vines, humid atmosphere, dappled sunlight filtering through canopy, Amazon aesthetic, vibrant green",
+        "negative_prompt": "desert, dry, snow, winter, open space, city, dead plants"
+    },
+    {
+        "name": "RM - Landscape - Volcanic Basalt",
+        "prompt": "dramatic volcanic basalt landscape of {prompt} . hexagonal basalt columns, black volcanic rock, cooling lava flows, steam vents, Iceland or Giant's Causeway aesthetic, dark and jagged terrain",
+        "negative_prompt": "sand, soft, round, green, lush, trees, sunny, bright, smooth"
+    },
+    {
+        "name": "RM - Landscape - Winter Tundra",
+        "prompt": "frozen winter landscape of {prompt} . deep snow drifts, ice encrusted details, blizzard atmosphere, white and cool blue palette, pristine silence, arctic tundra aesthetic",
+        "negative_prompt": "summer, green, hot, desert, tropical, flowers, warm colors"
+    },
+    {
+        "name": "RM - Landscape - WPA National Park Poster",
+        "prompt": "vintage WPA National Park poster art of {prompt} . silk screen style, bold flat colors, thick outlines, limited color palette, 1930s Americana aesthetic, graphic design, monumental scale",
+        "negative_prompt": "photorealistic, detailed, 3d, gradient, modern, messy, sketch"
+    }
+]

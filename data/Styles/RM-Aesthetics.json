@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RM - Aesthetic - Vaporwave",
+        "prompt": "surreal vaporwave aesthetic of {prompt} . digital degradation, pastel cyan and pink gradients, glitch distortions, nostalgic consumerist vibe, retro-digital haze, synthetic textures, lo-fi VHS artifacts, surreal abstraction",
+        "negative_prompt": "high resolution, realistic, modern, dark, gritty, natural, rustic"
+    },
+    {
+        "name": "RM - Aesthetic - Synthwave (Outrun)",
+        "prompt": "neon synthwave aesthetic of {prompt} . luminous violet and magenta hues, retro-futuristic glow, sleek chrome reflections, digital atmosphere, high-speed kinetic energy, stylized electronic radiance, deep contrast",
+        "negative_prompt": "pastel, rustic, organic, daylight, beige, vintage, messy, dirty"
+    },
+    {
+        "name": "RM - Aesthetic - Steampunk",
+        "prompt": "intricate steampunk aesthetic of {prompt} . oxidized brass and copper textures, mechanical complexity, victorian industrial atmosphere, sepia-toned nostalgia, clockwork intricacy, steam-driven fantasy, heavy metallic details",
+        "negative_prompt": "plastic, neon, digital, modern, clean, minimalist, sci-fi"
+    },
+    {
+        "name": "RM - Aesthetic - Dieselpunk",
+        "prompt": "gritty dieselpunk aesthetic of {prompt} . heavy riveted steel textures, oily grime, industrial smoke atmosphere, retro-futuristic brutality, metallic greys and browns, rough mechanical wear, utilitarian design",
+        "negative_prompt": "wood, nature, magic, clean, shiny, plastic, holographic, colorful"
+    },
+    {
+        "name": "RM - Aesthetic - Biopunk",
+        "prompt": "organic biopunk aesthetic of {prompt} . visceral biological textures, symbiotic fusion, translucent membranes, bioluminescent veins, wet organic surfaces, genetic experimental atmosphere, living tissue",
+        "negative_prompt": "mechanical, robot, steel, dry, clean, traditional, boxy"
+    },
+    {
+        "name": "RM - Aesthetic - Cottagecore",
+        "prompt": "cozy cottagecore aesthetic of {prompt} . pastoral serenity, soft dappled sunlight, rustic textures, gentle warm palette, wholesome nostalgic atmosphere, airy natural freshness, vintage charm",
+        "negative_prompt": "city, neon, industrial, modern, cold, steel, concrete, technology"
+    },
+    {
+        "name": "RM - Aesthetic - Dark Academia",
+        "prompt": "moody dark academia aesthetic of {prompt} . rich leather and wood textures, somber intellectual atmosphere, muted earth tones, dramatic chiaroscuro, classical elegance, studious melancholy, timeless sophistication",
+        "negative_prompt": "neon, bright, plastic, modern, sci-fi, futuristic, beach, sunny"
+    },
+    {
+        "name": "RM - Aesthetic - Frutiger Aero",
+        "prompt": "glossy frutiger aero aesthetic of {prompt} . pristine skeuomorphic textures, luminous transparency, optimistic eco-futurism, vibrant cyan and lime palette, high-gloss reflection, corporate purity, airy gradients, glossy finish",
+        "negative_prompt": "flat design, minimalism, matte, dark, gritty, vintage, rusty"
+    },
+    {
+        "name": "RM - Aesthetic - Y2K Futurism",
+        "prompt": "futuristic Y2K aesthetic of {prompt} . fluid liquid chrome, translucent synthetic materials, icy blue and silver palette, cybernetic smoothness, curvaceous geometric forms, millennium era optimism, glossy surfaces",
+        "negative_prompt": "rustic, wood, matte, dark, horror, ancient, flat, beige"
+    },
+    {
+        "name": "RM - Aesthetic - Lo-Fi Hip Hop",
+        "prompt": "chill lo-fi hip hop aesthetic of {prompt} . soft animated textures, muted pastel tones, nostalgic cozy atmosphere, gentle grain, relaxed ambient vibe, low-fidelity charm, soothing visual rhythm, dreamy softness",
+        "negative_prompt": "action, intense, bright, sharp, 3d, realistic, scary, high contrast"
+    },
+    {
+        "name": "RM - Aesthetic - Dreamcore",
+        "prompt": "unsettling dreamcore aesthetic of {prompt} . surreal liminal atmosphere, uncanny familiarity, disorienting brightness, fever dream texture, nostalgic artificiality, strange solitude, distorted reality, soft focus",
+        "negative_prompt": "dark, scary, realistic, logical, detailed, coherent, normal"
+    },
+    {
+        "name": "RM - Aesthetic - Atomic Age",
+        "prompt": "retro atomic age illustration of {prompt} . mid-century modern geometry, dynamic starburst motifs, pastel optimism, space-age stylization, flat graphic bold designs, vintage commercial appeal, angular vectors",
+        "negative_prompt": "photorealistic, dark, gritty, gothic, steampunk, medieval"
+    }
+]

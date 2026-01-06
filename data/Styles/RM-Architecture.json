@@ -1,0 +1,82 @@
+[
+    {
+        "name": "RM - Architecture - Brutalism",
+        "prompt": "imposing brutalist architecture of {prompt} . raw concrete surfaces, massive blocky shapes, heavy geometric forms, monolithic, cold and utilitarian, Le Corbusier style, dramatic shadows",
+        "negative_prompt": "wood, delicate, ornate, painted, warm, cozy, decorated, glass"
+    },
+    {
+        "name": "RM - Architecture - Bauhaus",
+        "prompt": "functional bauhaus design of {prompt} . form follows function, clean lines, geometric simplicity, primary colors with white and black, steel and glass, Walter Gropius aesthetic, minimalist",
+        "negative_prompt": "ornate, decorative, cluttered, victorian, baroque, messy, organic"
+    },
+    {
+        "name": "RM - Architecture - Mid-Century Modern",
+        "prompt": "stylish mid-century modern design of {prompt} . 1950s aesthetic, organic curves, teak wood, functionality, atomic age influence, Eames or Palm Springs vibe, vibrant pastel accents",
+        "negative_prompt": "industrial, heavy, dark, gothic, ornate, antique, rustic, grunge"
+    },
+    {
+        "name": "RM - Architecture - Solarpunk",
+        "prompt": "futuristic solarpunk architecture of {prompt} . sustainable design, lush greenery integrated with technology, stained glass solar panels, organic curves, bright and optimistic, art nouveau influence",
+        "negative_prompt": "industrial, smog, dirty, cyberpunk, neon, gloomy, concrete, dystopian"
+    },
+    {
+        "name": "RM - Architecture - Industrial Loft",
+        "prompt": "gritty industrial interior design of {prompt} . exposed brick walls, visible ductwork, rusted steel beams, warehouse aesthetic, high ceilings, raw materials, urban decay turned modern",
+        "negative_prompt": "cozy, plush, pastel, delicate, royal, polished, drywall, suburban"
+    },
+    {
+        "name": "RM - Architecture - Gothic Revival",
+        "prompt": "intricate gothic revival architecture of {prompt} . pointed arches, flying buttresses, stained glass, ornate stone carving, verticality, cathedral aesthetic, Pugin style",
+        "negative_prompt": "modern, flat, horizontal, plain, concrete, white, minimalist"
+    },
+    {
+        "name": "RM - Architecture - Deconstructivism",
+        "prompt": "avant-garde deconstructivist architecture of {prompt} . distorted geometry, fragmentation, fluid shapes, defying gravity, Zaha Hadid or Frank Gehry aesthetic, futuristic titanium cladding",
+        "negative_prompt": "symmetrical, boxy, square, traditional, brick, standard, rectangular"
+    },
+    {
+        "name": "RM - Architecture - Art Deco",
+        "prompt": "glamorous art deco architecture of {prompt} . vertical lines, geometric ornamentation, sunburst motifs, chrome and gold accents, Chrysler Building aesthetic, limestone and black marble",
+        "negative_prompt": "organic, round, soft, rustic, wooden, asymmetrical, messy"
+    },
+    {
+        "name": "RM - Architecture - Traditional Japanese",
+        "prompt": "serene traditional japanese architecture of {prompt} . wooden post-and-beam structure, shoji screens, tatami mats, curved roof tiles, connection with nature, wabi-sabi aesthetic, zen atmosphere",
+        "negative_prompt": "concrete, steel, plastic, neon, western, chaotic, cluttered, bright colors"
+    },
+    {
+        "name": "RM - Architecture - Neoclassical",
+        "prompt": "grand neoclassical architecture of {prompt} . white marble columns, symmetry, triangular pediments, domes, roman influence, monumental scale, government building aesthetic",
+        "negative_prompt": "asymmetrical, modern, glass, steel, colorful, cozy, small, rustic"
+    },
+    {
+        "name": "RM - Architecture - Cyberpunk City",
+        "prompt": "dystopian cyberpunk city architecture of {prompt} . towering megastructures, neon signage, high density, layering of old and new, rain-slicked surfaces, Kowloon Walled City vibe, high tech low life",
+        "negative_prompt": "suburban, open space, nature, sunny, clean, minimalist, historical"
+    },
+    {
+        "name": "RM - Architecture - Organic Architecture",
+        "prompt": "harmony of nature and design organic architecture of {prompt} . structures blending into landscape, curved lines, natural materials, Frank Lloyd Wright Fallingwater aesthetic, stone and glass",
+        "negative_prompt": "artificial, boxy, industrial, disconnected, plastic, neon, harsh"
+    },
+    {
+        "name": "RM - Architecture - Blobism",
+        "prompt": "organic blob architecture of {prompt} . amorphous shapes, rounded soft forms, biomorphic design, Future Systems style, plastic or fiberglass texture, playful and futuristic",
+        "negative_prompt": "rigid, angular, brutalist, concrete, brick, wood, historical"
+    },
+    {
+        "name": "RM - Architecture - Victorian Gothic",
+        "prompt": "dark victorian gothic architecture of {prompt} . pointed spires, intricate iron railings, dark red brick, gargoyles, Haunted Mansion aesthetic, ornate and gloomy",
+        "negative_prompt": "modern, white, clean, minimalist, sunny, glass, steel"
+    },
+    {
+        "name": "RM - Architecture - Mediterranean Revival",
+        "prompt": "sunny mediterranean architecture of {prompt} . terracotta roof tiles, white stucco walls, arched doorways, wrought iron balconies, warm seaside aesthetic, rustic elegance",
+        "negative_prompt": "cold, industrial, steel, glass, grey, brutalist, modern"
+    },
+    {
+        "name": "RM - Architecture - Scandinavian Minimal",
+        "prompt": "scandinavian minimalist design of {prompt} . light wood, white walls, functional simplicity, hygge atmosphere, clean lines, natural light, Ikea aesthetic",
+        "negative_prompt": "cluttered, dark, heavy, ornate, baroque, colorful, chaotic"
+    }
+]
