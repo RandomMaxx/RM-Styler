@@ -39,6 +39,8 @@ ComfyUI/custom_nodes/RM_Styler/
 └── data/
     └── Basic/              <-- Folder Name = "Category" in Menu
         └── RM-Basic.json   <-- Your Style Definitions
+```
+
 🛠️ Usage
 1. The Single Styler (RMStyler)
 Ideal for applying a comprehensive style to a prompt.
