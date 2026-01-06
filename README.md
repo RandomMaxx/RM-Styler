@@ -71,8 +71,7 @@ You can add unlimited styles by creating JSON files in the data/ directory.
 
 2. Create a JSON File: Inside that folder, create a .json file with the following structure:
 
-JSON
-
+```text
 [
     {
         "name": "My Custom Style",
@@ -85,6 +84,7 @@ JSON
         "negative_prompt": "natural, rustic, vintage"
     }
 ]
+```
 {prompt}: This token is replaced by your input text.
 
 If {prompt} is missing, the style text is simply appended to your input.
