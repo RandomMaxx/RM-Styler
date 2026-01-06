@@ -53,7 +53,7 @@ Weight: Adjusts the strength of the style (0.0 - 10.0).
 
 Log Prompt: If set to True, the final constructed prompt is printed to the console for debugging.
 
-2. The Multi-Stylers (RMStylerMulti2 - RMStylerMulti8)
+2. The Multi-Stylers (RM Multi Styler 2 - RM Multi Styler 8)
 These nodes are designed for advanced composition.
 
 Stacking Order: Styles are processed from the highest slot number down to 1.
