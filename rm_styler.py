@@ -298,9 +298,9 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "RMStyler": "RM Styler",
-    "RMStylerMulti2": "RM Multi Styler 2",
-    "RMStylerMulti4": "RM Multi Styler 4",
-    "RMStylerMulti6": "RM Multi Styler 6",
-    "RMStylerMulti8": "RM Multi Styler 8",
+    "RMStyler": "RM-Styler",
+    "RMStylerMulti2": "RM-Multi Styler 2",
+    "RMStylerMulti4": "RM-Multi Styler 4",
+    "RMStylerMulti6": "RM-Multi Styler 6",
+    "RMStylerMulti8": "RM-Multi Styler 8",
 }
