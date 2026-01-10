@@ -2,7 +2,7 @@
 
 **RM Styler** is a powerful prompt styling suite for ComfyUI designed to streamline your workflow. It features dynamic menu updating, advanced prompt weighting, and a "Multi-Styler" system that allows you to stack, mix, and toggle up to 8 distinct styles simultaneously.
 
-<img width="2346" height="828" alt="image" src="https://github.com/user-attachments/assets/51f35a8d-f0aa-4a1e-aaff-bd536dda3736" />
+<img width="2337" height="757" alt="image" src="https://github.com/user-attachments/assets/889738b5-638a-4962-bf79-278f167a2576" />
 
 ---
 
